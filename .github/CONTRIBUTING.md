@@ -1,4 +1,4 @@
-# Contributing to ULB-en
+# Contributing to UDB-en
 Thank you for your help!
 
 ## Have some code?
