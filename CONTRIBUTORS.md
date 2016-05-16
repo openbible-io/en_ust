@@ -12,3 +12,4 @@ If you have contributed, please add your name below.  Please put one name (or ps
 * Perry Oakes
 * Tom Warren
 * Bram van den Heuvel
+* C. Harry Harriss
