@@ -2,7 +2,7 @@
 
 *an unrestricted Bible intended for translation into any language*
 
-This work is based on *A Translation For Translators* by Ellis W. Deibler, Jr., which is licensed CC BY-SA (https://git.door43.org/Door43/T4T).
+This work is based on *A Translation For Translators* by Ellis W. Deibler, Jr., which is licensed CC BY-SA 4.0 (https://git.door43.org/Door43/T4T).
 
 # License
 ## Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
