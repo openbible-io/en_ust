@@ -10,7 +10,8 @@ dublin_core:
     - 'Tom Warren'
     - 'Bram van den Heuvel'
     - 'C. Harry Harriss'
-  creator: 'Wycliffe Associates'
+    - 'Door43 World Missions Community'
+  creator: 'Door43 World Missions Community'
   description: "An open-licensed translation, intended to provide a 'functional' understanding of the Bible. It increases the translator's understanding of the text by translating theological terms as descriptive phrases."
   format: 'text/usfm'
   identifier: 'udb'
@@ -38,7 +39,7 @@ dublin_core:
 
 checking:
   checking_entity:
-    - 'Wycliffe Associates'
+    - 'unfoldingWord'
   checking_level: '3'
 
 projects:
