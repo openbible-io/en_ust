@@ -36,12 +36,12 @@ dublin_core:
   description: "An open-licensed translation, intended to provide a 'functional' understanding of the Bible. It increases the translator's understanding of the text by translating theological terms as descriptive phrases."
   format: 'text/usfm'
   identifier: 'udb'
-  issued: '2017-07-05'
+  issued: '2017-10-03'
   language:
     direction: 'ltr'
     identifier: 'en'
     title: 'English'
-  modified: '2017-07-05'
+  modified: '2017-10-03'
   publisher: 'unfoldingWord'
   relation:
     - 'en/tw'
@@ -56,7 +56,7 @@ dublin_core:
   subject: 'Bible'
   title: 'Unlocked Dynamic Bible'
   type: 'bundle'
-  version: '10'
+  version: '11'
 
 checking:
   checking_entity:
