@@ -145,4 +145,4 @@ The term listed first is the rendering in the ULB or the original language term,
   * *saints* The ULB will use "saints" while the UDB will use "**believers**."
   * *YHWH* Both the ULB and UDB will render God's name as **Yahweh**. 
   * *scribe* The ULB will use "scribe" while the UDB will use "**teacher of the Jewish laws**."
-  * *nomikos* The ULB will use "expert in the Jewish law" while the UDB will use "**man who studied the Jewish laws**."
+  * *nomikos* The ULB will use "expert in the Jewish law" while the UDB will use "**authority in the Jewish laws**."
