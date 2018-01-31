@@ -144,3 +144,4 @@ The term listed first is the rendering in the ULB, then the term preferred for t
   * *Christ* The ULB will use "Christ" or "the Christ" while the UDB will use "**the Messiah**."
   * *saints* The ULB will use "saints" while the UDB will use "**believers**."
   * *YHWH* Both the ULB and UDB will render God's name as **Yahweh**. 
+  * *scribe* The ULB will use "scribe" while the UDB will use "**teacher of the Jewish laws**."
