@@ -24,7 +24,7 @@ To view the translationNotes, go to https://git.door43.org/Door43/en_tn
 
 ### Introduction to the UDB
 
-The Unlocked Dynamic Bible (UDB) is designed to be used in conjunction with the Unlocked Literal Bible (ULB) and the translationNotes as a tool for Bible translation. Unlike the ULB and unlike an end-user Bible, the UDB does not use figures of speech, idioms, abstract nouns, or grammatical forms that are difficult to translate into many languages. 
+The Unlocked Dynamic Bible (UDB) is designed to be used in conjunction with the Unlocked Literal Bible (ULB), the translationNotes, and the translationWords as a tool for Bible translation. Unlike the ULB and unlike an end-user Bible, the UDB does not use figures of speech, idioms, abstract nouns, or grammatical forms that are difficult to translate into many languages. 
 
 ### Editing the UDB
 
@@ -137,6 +137,10 @@ Note that occasionally, the TG's specified translation will not be suitable. As 
 
 #### Translation Glossary for the UDB
 
-Preferred English renderings appear in bold type.
+The term listed first is the rendering in the ULB, then the term preferred for the UDB will appear in bold type.
 
   * *brothers*  The ULB will use this term to translate *adelphoi* when it refers to only men and also when it refers to men and women together. When the context indicates that both genders are included, the UDB will use "**brothers and sisters**." 
+  * *gospel* "Gospel" will be used in most cases in the ULB, while the UDB will use "**good news**."
+  * *Christ* The ULB will use "Christ" or "the Christ" while the UDB will use "**the Messiah**."
+  * *saints* The ULB will use "saints" while the UDB will use "**believers**."
+  * *YHWH* Both the ULB and UDB will render God's name as **Yahweh**. 
