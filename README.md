@@ -137,7 +137,7 @@ Note that occasionally, the TG's specified translation will not be suitable. As 
 
 #### Translation Glossary for the UDB
 
-The term listed first is the rendering in the ULB, then the term preferred for the UDB will appear in bold type.
+The term listed first is the rendering in the ULB or the original language term, then the term preferred for the UDB will appear in bold type.
 
   * *brothers*  The ULB will use this term to translate *adelphoi* when it refers to only men and also when it refers to men and women together. When the context indicates that both genders are included, the UDB will use "**brothers and sisters**." 
   * *gospel* "Gospel" will be used in most cases in the ULB, while the UDB will use "**good news**."
@@ -145,3 +145,4 @@ The term listed first is the rendering in the ULB, then the term preferred for t
   * *saints* The ULB will use "saints" while the UDB will use "**believers**."
   * *YHWH* Both the ULB and UDB will render God's name as **Yahweh**. 
   * *scribe* The ULB will use "scribe" while the UDB will use "**teacher of the Jewish laws**."
+  * *nomikos* The ULB will use "expert in the Jewish law" while the UDB will use "**man who studied the Jewish laws**."
