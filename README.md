@@ -221,3 +221,4 @@ The term listed first is the rendering in the ULB or the original language term,
   * *YHWH* Both the ULB and UDB will render God's name as **Yahweh**. 
   * *scribe* The ULB will use "scribe" while the UDB will use "**teacher of the Jewish laws**."
   * *nomikos* The ULB will use "expert in the Jewish law" while the UDB will use "**authority in the Jewish laws**."
+  * *grace* The ULB will use "grace" while the UDB will use a form such as "**God will be kind**."
