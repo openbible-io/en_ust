@@ -24,7 +24,7 @@ To view the translationNotes, go to https://git.door43.org/Door43/en_tn
 
 ### Introduction to the UST
 
-The unfoldingWord Simplified Text (UST) is designed to be used in conjunction with the Unlocked Literal Bible (ULT), the translationNotes, and the translationWords as a tool for Bible translation. Unlike the ULT and unlike an end-user Bible, the UST does not use figures of speech, idioms, abstract nouns, or grammatical forms that are difficult to translate into many languages. 
+The unfoldingWord Simplified Text (UST) is designed to be used in conjunction with the unfoldingWord Literal Text (ULT), the translationNotes, and the translationWords as a tool for Bible translation. Unlike the ULT and unlike an end-user Bible, the UST does not use figures of speech, idioms, abstract nouns, or grammatical forms that are difficult to translate into many languages. 
 
 ### Editing the UST
 
