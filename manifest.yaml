@@ -34,14 +34,14 @@ dublin_core:
     - 'Door43 World Missions Community'
   creator: 'Door43 World Missions Community'
   description: "An open-licensed translation, intended to provide a 'functional' understanding of the Bible. It increases the translator's understanding of the text by translating theological terms as descriptive phrases."
-  format: 'text/usfm'
-  identifier: 'udb'
-  issued: '2017-11-29'
+  format: 'text/usfm3'
+  identifier: 'ust'
+  issued: '2018-08-24'
   language:
     direction: 'ltr'
     identifier: 'en'
     title: 'English'
-  modified: '2017-11-29'
+  modified: '2018-08-24'
   publisher: 'unfoldingWord'
   relation:
     - 'en/tw'
@@ -53,10 +53,10 @@ dublin_core:
       identifier: 't4t'
       language: 'en'
       version: '2014'
-  subject: 'Bible'
+  subject: 'Aligned Bible'
   title: 'unfoldingWord Simplified Text'
   type: 'bundle'
-  version: '12'
+  version: '1'
 
 checking:
   checking_entity:

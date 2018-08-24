@@ -11,14 +11,14 @@ This repository contains the USFM source files for the unfoldingWord Simplified 
 ## Contributors
 
 If you are a contributor to this project please add your name to the `contributor`
-field in the [manifest.yaml](https://git.door43.org/Door43/en_udb/src/master/manifest.yaml)
+field in the [manifest.yaml](https://git.door43.org/unfoldingWord/en_ust/src/master/manifest.yaml)
 file.
 
 ## Viewing
 
-To view the rendered USFM files, go to https://live.door43.org/u/Door43/en_udb/
+To view the rendered USFM files, go to https://door43.org/u/unfoldingWord/en_ust/
 
-To view the translationNotes, go to https://git.door43.org/Door43/en_tn
+To view the translationNotes, go to https://git.door43.org/unfoldingWord/en_tn
 
 ## Editing
 
