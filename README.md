@@ -201,6 +201,7 @@ When editing or translating the UST, be sure to include all of the implied infor
 * Capitalize titles (Son of Man, King David, the Messiah).
 * Use vocabulary and phrases that differ from the ULT. The two translations fail to help the MTT when they are the same.
 * Where possible, use common vocabulary that is easy to translate into another language.
+* Metaphors may be transformed into similies or substituted with the plain meaning of the metaphor. Similies may be the preferred option when the metaphor is extended over several clauses or verses. 
 
 ### Translation Glossary
 
@@ -214,11 +215,16 @@ Note that occasionally, the TG's specified translation will not be suitable. As 
 
 The term listed first is the rendering in the ULT or the original language term, then the term preferred for the UST will appear in bold type.
 
-  * *brothers*  The ULT will use this term to translate *adelphoi* when it refers to only men and also when it refers to men and women together. When the context indicates that both genders are included, the UST will use "**brothers and sisters**." 
+  * *brothers*  The ULT will use this term to translate *adelphoi* when it refers to only men and also when it refers to men and women together. When the context indicates that both genders are included, the UST will use "**brothers and sisters**." However, this term usually refers metaphorically to Christian believers, so the UST will most often use "**believers**." 
   * *gospel* "Gospel" will be used in most cases in the ULT, while the UST will use "**good news**."
   * *Christ* The ULT will use "Christ" or "the Christ" while the UST will use "**the Messiah**."
-  * *saints* The ULT will use "saints" while the UST will use "**believers**."
+  * *saints* The ULT will use "saints" while the UST will use either "**believers**" or a form of "**those whom God has set apart for himself**."
   * *YHWH* Both the ULT and UST will render God's name as **Yahweh**. 
   * *scribe* The ULT will use "scribe" while the UST will use "**teacher of the Jewish laws**."
+  * *Gentile* The UST will use "**non-Jew**" or "**non-Jewish**."
   * *nomikos* The ULT will use "expert in the Jewish law" while the UST will use "**authority in the Jewish laws**."
-  * *grace* The ULT will use "grace" while the UST will use a form such as "**God will be kind**."
+  * *grace* The ULT will use "grace" while the UST will rework the grammar to use the adjective "**gracious**" or will use a form such as "**God will be kind**."
+  * *peace* The UST will rework the grammar to use the adjective "**peaceful [spirit, etc.]**" or an adjectival phrase such as "**at peace**."
+  * *glory* the UST will rework the grammar to use the adjective "**glorious**" or an equivalent description such as "**who is so great**."
+  * *law* The UST will expand to "**law of Moses**" or "**Jewish law**."
+  * A very few somewhat abstract nouns are allowed because of the awkwardness or inadequacy of any English circumlocution. These include "**authority**" (when used of a person) and "**kingdom**."
