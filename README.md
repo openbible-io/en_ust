@@ -233,3 +233,15 @@ The term listed first is the rendering in the ULT or the original language term,
       * live in your heart: "become a part of you," "be joined to your spirit," "be as close to you as your own hearts."
       * hard heart: "refuse to obey."
   * A few abstract nouns are allowed because of the awkwardness or inadequacy of any English circumlocution. These include "**authority**" (when used of a person),"**sin**," "**behavior**," "**work**," "**thing**," "**time**," "**resource**,"  "**kingdom**," and some nouns referring to speech ("**message**," "**saying**," etc.), although it is often possible to use a verb instead.
+
+#### Planned Translation Glossary for the UST
+
+The following entries have only been made in Mark so far, but need to be globally applied:
+
+  * *apostle* The ULT will use "apostle" while the UST will use "**sent one**."
+  * *apostle of Jesus Christ* The ULT will use "apostle of Jesus Christ" while the UST will use "**the Messiah Jesus sent me to represent him**."
+  * *disciple* The ULT will use "disciple" while the UST will use "**apprentice**."
+  * *Sabbath* The ULT will use "Sabbath" while the UST will use "**Jewish day of rest**."
+  * *Sea of Galilee* The ULT will use "Sea of Galilee" while the UST will use "**Galilee lake**."
+  * *synagogue* The ULT will use "synagogue" while the UST will use "**Jewish preaching place**."
+  * *wilderness* The ULT will use "disciple" while the UST will use "**desolate place**."
