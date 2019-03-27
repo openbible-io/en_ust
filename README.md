@@ -232,7 +232,7 @@ The term listed first is the rendering in the ULT or the original language term,
   * Metaphors will be turned into either similies or plain, concrete language. Examples:
       * live in your heart: "become a part of you," "be joined to your spirit," "be as close to you as your own hearts."
       * hard heart: "refuse to obey."
-  * A few abstract nouns are allowed because of the awkwardness or inadequacy of any English circumlocution. These include "**authority**" (when used of a person),"**sin**," "**behavior**," "**work**," "**thing**," "**time**," "**resource**,"  "**kingdom**," and some nouns referring to speech ("**message**," "**saying**," etc.), although it is often possible to use a verb instead.
+  * A few abstract nouns are allowed because of the awkwardness or inadequacy of any English circumlocution. These include "**authority**" (when used of a person),"**sin**," "**behavior**," "**work**," "**thing**," "**time**," "**resource**,"  "**kingdom**," "**relationship**," and some nouns referring to speech ("**message**," "**saying**," etc.), although it is often possible to use a verb instead.
 
 #### Planned Translation Glossary for the UST
 
@@ -244,4 +244,10 @@ The following entries have only been made in Mark so far, but need to be globall
   * *Sabbath* The ULT will use "Sabbath" while the UST will use "**Jewish day of rest**."
   * *Sea of Galilee* The ULT will use "Sea of Galilee" while the UST will use "**Galilee lake**."
   * *synagogue* The ULT will use "synagogue" while the UST will use "**Jewish preaching place**."
-  * *wilderness* The ULT will use "disciple" while the UST will use "**desolate place**."
+  * *wilderness* The ULT will use "wilderness" while the UST will use "**desolate place**."
+  
+  The following entries have only been made in 1 Timothy so far, but need to be globally applied:
+  
+  * *episkopos* The ULT will use "overseer" while the UST will use "**leader of the believers**."
+  * *diakonos* The ULT will use "deacon" while the UST will use "**assistant**" (for the church office), "**servant**" or "**agent**" in other contexts.
+  
