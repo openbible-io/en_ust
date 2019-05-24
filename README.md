@@ -1,12 +1,15 @@
-# unfoldingWord Simplified Text - English
+<img src="https://cdn.door43.org/assets/uw-icons/logo-ust-256.png" alt="drawing" width="100"/>
+# unfoldingWord® Simplified Text - English
 
 *an unrestricted Bible intended for translation into any language*
 
 ## Overview
 
-The UST is an open-licensed translation of the Bible based on *A Translation For Translators* by Ellis W. Deibler, Jr., which is licensed CC BY-SA 4.0 (https://git.door43.org/Door43/T4T). The UST is intended to provide a simple, clear presentation of the meaning of the Bible without using any figures of speech, English idioms, or difficult grammar. 
+The unfoldingWord® Simplified Text (UST) is an open-licensed translation of the Bible based on *A Translation For Translators* by Ellis W. Deibler, Jr., which is licensed CC BY-SA 4.0 (https://git.door43.org/Door43/T4T). The UST is intended to provide a simple, clear presentation of the meaning of the Bible without using any figures of speech, English idioms, or difficult grammar. 
 
-This repository contains the USFM source files for the unfoldingWord Simplified Text.
+## Viewing
+
+To read or print the UST, see the [UST project on Door43](https://door43.org/u/unfoldingWord/en_ust/).
 
 ## Contributors
 
@@ -14,17 +17,11 @@ If you are a contributor to this project please add your name to the `contributo
 field in the [manifest.yaml](https://git.door43.org/unfoldingWord/en_ust/src/master/manifest.yaml)
 file.
 
-## Viewing
-
-To view the rendered USFM files, go to https://door43.org/u/unfoldingWord/en_ust/
-
-To view the translationNotes, go to https://git.door43.org/unfoldingWord/en_tn
-
 ## Editing
 
 ### Introduction to the UST
 
-The unfoldingWord Simplified Text (UST) is designed to be used in conjunction with the unfoldingWord Literal Text (ULT), the translationNotes, and the translationWords as a tool for Bible translation. Unlike the ULT and unlike an end-user Bible, the UST does not use figures of speech, idioms, abstract nouns, or grammatical forms that are difficult to translate into many languages. 
+The unfoldingWord® Simplified Text (UST) is designed to be used in conjunction with the [unfoldingWord® Literal Text (ULT)](https://git.door43.org/unfoldingWord/en_ult), the [unfoldingWord® Translation Notes (UTN)](https://git.door43.org/unfoldingWord/en_tn), and the [unfoldingWord® Translation Words (UTW)](https://git.door43.org/unfoldingWord/en_tw) as a tool for Bible translation. Unlike the ULT and unlike an end-user Bible, the UST does not use figures of speech, idioms, abstract nouns, or grammatical forms that are difficult to translate into many languages. 
 
 ### Editing the UST
 
@@ -207,7 +204,7 @@ When editing or translating the UST, be sure to include all of the implied infor
 
 A list of decisions as to how to translate some senses of the source language words and phrases into another language is called a Translation Glossary (TG). Such a device is especially useful when more than one person works on the same project, because it helps keep everyone using the same English terms.
 
-However, a TG cannot be foolproof, because the source will often use some words to signal more than one sense, depending on context. A TG is therefore a glossary of word senses, not a glossary of words. Check back often to this page, because this TG is likely to develop for the entire life of the Unfolding Word project.
+However, a TG cannot be foolproof, because the source will often use some words to signal more than one sense, depending on context. A TG is therefore a glossary of word senses, not a glossary of words. Check back often to this page, because this TG is likely to develop for the entire life of the unfoldingWord project.
 
 Note that occasionally, the TG's specified translation will not be suitable. As always, the text editors must remain in control of the decision-making process. The TG is to guide you as much as is possible. If you must depart from the TG guidelines, do so and insert a note to that effect.
 
@@ -246,8 +243,7 @@ The following entries have only been made in Mark so far, but need to be globall
   * *synagogue* The ULT will use "synagogue" while the UST will use "**Jewish preaching place**."
   * *wilderness* The ULT will use "wilderness" while the UST will use "**desolate place**."
   
-  The following entries have only been made in 1 Timothy so far, but need to be globally applied:
+The following entries have only been made in 1 Timothy so far, but need to be globally applied:
   
   * *episkopos* The ULT will use "overseer" while the UST will use "**leader of the believers**."
   * *diakonos* The ULT will use "deacon" while the UST will use "**assistant**" (for the church office), "**servant**" or "**agent**" in other contexts.
-  
