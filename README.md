@@ -188,6 +188,13 @@ UST: He said, "Do not tell anyone *what just happened*. Instead, go to a priest 
 
 When editing or translating the UST, be sure to include all of the implied information that is there in the UST so that it can be as clear as possible.
 
+#####  Translation of terms regarding gender
+
+Both Biblical Hebrew and Koiné Greek utilize different word forms to indicate grammatical gender, which may or may not correspond to the actual gender of a person or object.  For example, the Hebrew phrase *beney yisrael* ("sons of Israel") sometimes literally means "male children of the man named Israel" (Gen 42:5). However, most of the time in the Old Testament this phrase refers figuratively to the entire Israelite nation as a whole, both men and women.  In a similar way, the Greek term *adelphoi* ("brothers") can sometimes literally mean "a male person who has the same father and/or mother" (Mark 3:32), but most of the time in the New Testament refers figuratively to Christian believers, both men and women.  In both Hebrew and Greek, the meaning of "engendered language" is not always clear. This linguistic feature of "engendered language" poses significant problems for translation; the meaning of the original Hebrew or Greek text is not always clear; also, some languages do not use engendered language, which makes the translation of gender very difficult.
+
+
+The ULT translates the Hebrew and Greek terms as literally as possible according to linguistic form, always retaining the specific gender of terms.  On the other hand, the UST translates engendered language as accurately as possible according to contextual meaning.  As a general rule, the UST selects gender-neutral language except in cases where a specific gender is implied from the context.  However, there are exceptions to this rule; and in these cases, the translation will be explained in a footnote.
+
 ### Specific Editing Guidelines
 
 * Only use quotation marks at the beginning and ending of direct speech. Do not put quotation marks at the beginning of each verse, even though the speech may span several verses.
@@ -212,7 +219,7 @@ Note that occasionally, the TG's specified translation will not be suitable. As 
 
 The term listed first is the rendering in the ULT or the original language term, then the term preferred for the UST will appear in bold type.
 
-  * *adelphoi*  The ULT will use *brothers*. Since this term usually refers metaphorically to Christian believers, the UST will most often use "**believers**" or "**fellow-believers**." 
+  * *adelphoi*  The ULT will use *brothers*. Since this term usually refers figuratively to Christian believers, the UST will most often use "**believers**" or "**fellow-believers**." 
   * *gospel* "Gospel" will be used in most cases in the ULT, while the UST will use "**good news**."
   * *Christ* The ULT will use "Christ" or "the Christ" while the UST will use "**the Messiah**."
   * *saints* The ULT will use "saints" while the UST will use either "**God's people**" or a form of "**those whom God has set apart for himself**."
