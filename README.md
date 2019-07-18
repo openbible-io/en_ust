@@ -72,7 +72,7 @@ This is more clear for many languages. When you edit or translate the UST, make 
 
 The ULT of Romans 2:10 says: 
 
-"But praise, honor, and peace will come to everyone who practices good..."
+"But praise, honor, and peace will come to everyone who practices good…"
 
 In this verse, the words "praise," "honor," "peace," and "good" are abstract nouns. That is, they are words that refer to things that we cannot see or touch. They are ideas. The ideas that these nouns express are closer to actions or descriptions than they are to things. In many languages, therefore, these ideas must be expressed by verbs or description words, not by nouns.
 For this reason, the UST expresses these nouns as actions or descriptions. 
@@ -103,7 +103,7 @@ The UST often fills in the participants when these are lacking in the original B
 
 In the ULT, Romans 1:1 says:
 
-"Paul, a servant of Jesus Christ, called to be an apostle, set apart for the gospel of God..."
+"Paul, a servant of Jesus Christ, called to be an apostle, set apart for the gospel of God…"
 
 In this verse, there is a participant that is left unstated, but still understood. This participant is God. It is God who called Paul to be an apostle and who set him apart for the Gospel. In some languages, this participant must be stated.
 
