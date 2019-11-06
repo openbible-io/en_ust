@@ -205,6 +205,7 @@ The ULT translates the Hebrew and Greek terms as literally as possible according
 * Capitalize titles (Son of Man, King David, the Messiah).
 * Use vocabulary and phrases that differ from the ULT. The two translations fail to help the MTT when they are the same.
 * Where possible, use common vocabulary that is easy to translate into another language.
+  * Spell out numbers up to and including ten (e.g., one, two…). For numbers larger than ten, use numerals (e.g., 11, 12…).
 * Metaphors may be transformed into similies or substituted with the plain meaning of the metaphor. Similies may be the preferred option when the metaphor is extended over several clauses or verses. 
 
 ### Translation Glossary
