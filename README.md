@@ -27,8 +27,6 @@ The unfoldingWord® Simplified Text (UST) is designed to be used in conjunction 
 
 The purpose of the UST is to show the plain meaning of all of those things wherever they occur in the ULT. Because the UST lacks these things, it is not a beautiful end-user Bible. An end-user Bible will use the figures of speech and idioms that speak naturally and beautifully in the target language, but the UST does not use them. By using both the UST and the ULT together as translation sources for an end-user (Other Language) translation, the OL translator will be able to see the figures of speech, idioms, and other forms of the original Bible in the ULT and also see what their meaning is in the UST. Then he can use the figures of speech or other forms from the ULT that are clear and natural in his language. When the forms in the ULT are not clear or natural in his language, then he can choose other forms in his language that have the same meaning as the UST translation or the Notes. 
 
-
-
 ### Avoiding Translation Difficulties
 
 The primary goal of the UST is to express the meaning of the Bible as clearly as possible. In order to do this, it follows these guidelines. 
@@ -239,10 +237,7 @@ The term listed first is the rendering in the ULT or the original language term,
       * hard heart: "refuse to obey."
   * A few abstract nouns are allowed because of the awkwardness or inadequacy of any English circumlocution. These include "**authority**" (when used of a person),"**sin**," "**behavior**," "**work**," "**thing**," "**time**," "**resource**,"  "**kingdom**," "**relationship**," and some nouns referring to speech ("**message**," "**saying**," etc.), although it is often possible to use a verb instead.
 
-#### Planned Translation Glossary for the UST
-
-The following entries have only been made in Mark so far, but need to be globally applied:
-
+These items have been completed in Mark, but need to be universally applied:
   * *apostle* The ULT will use "apostle" while the UST will use "**sent one**."
   * *apostle of Jesus Christ* The ULT will use "apostle of Jesus Christ" while the UST will use "**the Messiah Jesus sent me to represent him**."
   * *disciple* The ULT will use "disciple" while the UST will use "**apprentice**."
@@ -250,9 +245,8 @@ The following entries have only been made in Mark so far, but need to be globall
   * *Sea of Galilee* The ULT will use "Sea of Galilee" while the UST will use "**Galilee lake**."
   * *synagogue* The ULT will use "synagogue" while the UST will use "**Jewish preaching place**."
   * *wilderness* The ULT will use "wilderness" while the UST will use "**desolate place**."
-  
-The following entries have only been made in 1 Timothy so far, but need to be globally applied:
-  
+
+These items have been completed in Titus, but need to be universally applied:
   * *episkopos* The ULT will use "overseer" while the UST will use "**leader of the believers**."
   * *diakonos* The ULT will use "deacon" while the UST will use "**assistant**" (for the church office), "**servant**" or "**agent**" in other contexts.
 
@@ -264,8 +258,8 @@ The words of the original language (Greek, Hebrew, or Aramaic) text for that ver
 
 To align the GL text:
 
-#. Click and drag each word box of the GL text into the space under the word box of the source text that the GL word corresponds to.
-#. Drop the GL word by releasing the mouse button.
+* Click and drag each word box of the GL text into the space under the word box of the source text that the GL word corresponds to.
+* Drop the GL word by releasing the mouse button.
 
 When the GL word is over a word box of the original, the dotted outline will turn blue to let you know that the word will drop there. If you make a mistake or decide that the GL word belongs somewhere else, simply drag it again to where it belongs. GL words can also be dragged back to the list.
 
@@ -285,6 +279,14 @@ tC (translationCore) supports one-to-one, one-to-many, many-to-one, and many-to-
 ### Alignment Philosophy for the UST
 
 Because each GL will have different requirements for sentence structure and the amount of explicit information that must be provided there is often not a one-to-one correspondence of the original language word and the GL word. In these cases, the GL words that are provided should be aligned with the original language word that implies them.
+
+The UST (unfoldingWord Simplified Text) is intended to be, above all, a clear translation. Therefore, it adds words and phrases to explain the meaning of the original for the reader. These words and phrases should be aligned with the word or words that they are explaining. For example, in Titus 1:1, the phrase, “I am a servant” must be aligned with the single word, *doulos*.
+
+Sometimes, for the sake of clarity, the GL of the UST will repeat things that are only mentioned once in the original. This often happens with subjects or objects of sentences. For example, in Titus 2:9 the English UST refers to “their masters” twice, although the original language only has *idiois despotais* once. In these cases, You should align each occurrence of the repeated reference with the same original language words, so that the highlighting will show that each of these represents the meaning conveyed by those same words of the original.
+
+Some of the words and sentences of the UST do not directly represent the meaning of the original words. This is information that is only implied by the original words, but included in the :abbr:`UST (unfoldingWord Simplified Text)` because it is necessary for understanding the meaning of the original. For example, in Titus 1:1, the sentence, “I, Paul, write this letter to you, Titus” includes information that is not there in the original words, such as the fact that what the reader is about to read is a letter, and that it is written to someone named Titus. This information, however, makes the text more clear and understandable. For the aligning, then, all of this explanation must be aligned with the single word that it is explaining, *Paulos*.
+
+If you notice places where the UST is wrong or potentially wrong, create an issue for it at https://git.door43.org/unfoldingWord/en_ust/issues and we’ll address it in the next release. In the meantime, align the text as well as possible.
 
 For English, we follow these principles, but your GL may need a different list to support full alignment.
 
@@ -308,19 +310,8 @@ Other alignment issues pertinent to Biblical Hebrew include the following:
 
 In the process of alignment according to the instructions above, you may find that the GL text has words or phrases that do not represent any meaning in the original language text and are not there because the GL sentence needs them to make sense. If this occurs, follow these recommendations:
 
-#. If possible, consider editing the GL text to match the original language text.
-#. You may consult other Greek or Hebrew manuscripts to see if there is textual support for your translation (see the `Biblical Humanities Dashboard <http://biblicalhumanities.org/dashboard/>` for other manuscripts).
-#. If you find support for your translation, make sure to include a comment or note about where you found it and why the translation should include it.
-#. You should consider placing these GL words in brackets or in a footnote.
-
-
-### Alignment Philosophy for the UST
-
-The UST (unfoldingWord Simplified Text) is intended to be, above all, a clear translation. Therefore, it adds words and phrases to explain the meaning of the original for the reader. These words and phrases should be aligned with the word or words that they are explaining. For example, in Titus 1:1, the phrase, “I am a servant” must be aligned with the single word, *doulos*.
-
-Sometimes, for the sake of clarity, the GL of the UST will repeat things that are only mentioned once in the original. This often happens with subjects or objects of sentences. For example, in Titus 2:9 the English UST refers to “their masters” twice, although the original language only has *idiois despotais* once. In these cases, You should align each occurrence of the repeated reference with the same original language words, so that the highlighting will show that each of these represents the meaning conveyed by those same words of the original.
-
-Some of the words and sentences of the UST do not directly represent the meaning of the original words. This is information that is only implied by the original words, but included in the :abbr:`UST (unfoldingWord Simplified Text)` because it is necessary for understanding the meaning of the original. For example, in Titus 1:1, the sentence, “I, Paul, write this letter to you, Titus” includes information that is not there in the original words, such as the fact that what the reader is about to read is a letter, and that it is written to someone named Titus. This information, however, makes the text more clear and understandable. For the aligning, then, all of this explanation must be aligned with the single word that it is explaining, *Paulos*.
-
-If you notice places where the UST is wrong or potentially wrong, create an issue for it at https://git.door43.org/unfoldingWord/en_ust/issues and we’ll address it in the next release. In the meantime, align the text as well as possible.
+* If possible, consider editing the GL text to match the original language text.
+* You may consult other Greek or Hebrew manuscripts to see if there is textual support for your translation (see the `Biblical Humanities Dashboard <http://biblicalhumanities.org/dashboard/>` for other manuscripts).
+* If you find support for your translation, make sure to include a comment or note about where you found it and why the translation should include it.
+* You should consider placing these GL words in brackets or in a footnote.
 
