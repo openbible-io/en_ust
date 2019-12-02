@@ -232,6 +232,8 @@ The term listed first is the rendering in the ULT or the original language term,
   * *law* The UST will expand to "**law of Moses**" or "**Jewish law**."
   * *covenant* The UST will use "**agreement**" or "**promise**."
   * *church* The UST will use some form of "**assembly/group of those who believe/trust in God**."
+  * horns –– The Hebrew terms for the various kinds of horns should be rendered as follows in the UST: *qeren* = "**horn**;"  *shofar* = "**large horn**" or "**long horn**" (simply "horn" in ULT); *hatzotzerah* = "**trumpet**." The term *shofar* should never be translated as "trumpet" in either the ULT or UST.
+  * Ark of the Covenant –– The UST will use the term "**sacred chest**" instead of "ark" for this specific item.
   * Metaphors will be turned into either similies or plain, concrete language. Examples:
       * live in your heart: "become a part of you," "be joined to your spirit," "be as close to you as your own hearts."
       * hard heart: "refuse to obey."
