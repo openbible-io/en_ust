@@ -5,7 +5,7 @@
 
 ## Overview
 
-The unfoldingWord® Simplified Text (UST) is an open-licensed revision of *A Translation For Translators* by Ellis W. Deibler, Jr., which is licensed CC BY-SA 4.0 (https://git.door43.org/Door43/T4T). The UST is intended to provide a simple, clear presentation of the meaning of the Bible without using any figures of speech, idioms, or other grammatical features that can be difficult to translate. 
+The unfoldingWord® Simplified Text (UST) is an open-licensed adaptation of *A Translation For Translators* by Ellis W. Deibler, Jr., which is licensed CC BY-SA 4.0 (https://git.door43.org/Door43/T4T). The UST is intended to provide a simple, clear presentation of the meaning of the Bible without using any figures of speech, idioms, or other grammatical features that can be difficult to translate. 
 
 ## Viewing
 
