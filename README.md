@@ -19,7 +19,7 @@ file.
 
 ## Introducing the UST
 
-The unfoldingWord® Simplified Text (UST) is a meaning-centric (and thus "dynamic") version of the Bible in English.  It is intended to be used alongside the unfoldingWord® Literal Text and other translation resources to give English-speaking mother-tongue translators (MTTs) a more complete understanding of the messages communicated in the Bible.  For MTTs who do not have reading knowledge of the original biblical languages, the UST provides as a sense of *what* these messages intended to communicate to the original readers.  It is anticipated that the UST and other resources will be translated from English into the world's Gateway Languages (GLs) so that MTTs worldwide can use them as a set of resources for making accurate translations of the Bible into their own languages.
+The unfoldingWord® Simplified Text (UST) is a meaning-centric version of the Bible in English.  It is intended to be used alongside the unfoldingWord® Literal Text and other translation resources to give English-speaking mother-tongue translators (MTTs) a more complete understanding of the messages communicated in the Bible.  For MTTs who do not have reading knowledge of the original biblical languages, the UST provides a sense of *what* these messages intended to communicate to the original readers.  It is anticipated that the UST and other resources will be translated from English into the world's Gateway Languages (GLs) so that MTTs worldwide can use them as a set of resources for making accurate translations of the Bible into their own languages.
 
 ### Avoid Translation Difficulties
 
