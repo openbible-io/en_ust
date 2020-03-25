@@ -36,12 +36,12 @@ dublin_core:
   description: "An open-licensed translation, intended to provide a 'functional' understanding of the Bible. It increases the translator's understanding of the text by translating theological terms as descriptive phrases."
   format: 'text/usfm3'
   identifier: 'ust'
-  issued: '2020-02-21'
+  issued: '2020-03-25'
   language:
     direction: 'ltr'
     identifier: 'en'
     title: 'English'
-  modified: '2020-02-21'
+  modified: '2020-03-25'
   publisher: 'unfoldingWord'
   relation:
     - 'en/tw'
@@ -60,11 +60,11 @@ dublin_core:
     -
       identifier: 'uhb'
       language: 'hbo'
-      version: '2.1.11'
+      version: '2.1.12'
   subject: 'Aligned Bible'
   title: 'unfoldingWord® Simplified Text'
   type: 'bundle'
-  version: '9'
+  version: '10'
 
 checking:
   checking_entity:
