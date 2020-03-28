@@ -200,7 +200,7 @@ Here are some guidelines for composing or editing text in the UST:
 * Spell out numbers up to and including ten (e.g., one, two…). For numbers larger than ten, use numerals (e.g., 11, 12…).
 * Metaphors may be transformed into similes or substituted with the plain meaning of the metaphor. Similes may be the preferred option when the metaphor is extended over several clauses or verses. 
 
-## Translating the UST from the Original Languages
+## Translating the UST from the Original Language (OrigL)
 
 ###  Translation of Terms Regarding Gender
 
@@ -254,39 +254,53 @@ These items have been completed in Titus, but need to be universally applied:
 
 In the tC (translationCore) Word Alignment tool, the GL (Gateway Language) chapters and verses are listed down the left side. When you click on a verse to open it, the words of that verse appear in a vertical list, ordered from top to bottom, just to the right of the list of chapters and verses. Each word is in a separate box.
 
-The words of the original language (Greek, Hebrew, or Aramaic) text for that verse are also in separate boxes in a field to the right of the GL word list. There is a space under each of the source word boxes outlined with a dotted line.
+The words of the OrigL (Greek, Hebrew, or Aramaic) text for that verse are also in separate boxes in a field to the right of the English word list. There is a space under each of the source word boxes outlined with a dotted line.
 
 ### Alignment Process for the UST
 
-To align the GL text:
+To align the English text:
 
-* Click and drag each word box of the GL text into the space under the word box of the source text that the GL word corresponds to.
-* Drop the GL word by releasing the mouse button.
+* Click and drag each word box of the English text into the space under the word box of the OrigL text that the English word corresponds to.
+* Drop the English word by releasing the mouse button.
 
-When the GL word is over a word box of the original, the dotted outline will turn blue to let you know that the word will drop there. If you make a mistake or decide that the GL word belongs somewhere else, simply drag it again to where it belongs. GL words can also be dragged back to the list.
+When the English word is over a word box of the original, the dotted outline will turn blue to let you know that the word will drop there. If you make a mistake or decide that the GL word belongs somewhere else, simply drag it again to where it belongs. GL words can also be dragged back to the list.
 
 When the same GL word occurs more than once in a verse, each instance of the word will have a small superscript number after it. This number will help you to align each repeated GL word to the correct original word in the correct order. **When aligning, chec to ensure that these numbered words are in their proper places, since it is easy to miss the numbers and align repeated words incorrectly.**
 
 #### Process to Merge and Unmerge Original Language Words
 
-tC (translationCore) supports one-to-one, one-to-many, many-to-one, and many-to-many alignments. That means that one or more GL words can be aligned to one or more original language words, as necessary to get the most accurate alignment of the **meaning** conveyed by the two languages.
+tC (translationCore) supports one-to-one, one-to-many, many-to-one, and many-to-many alignments. That means that one or more English words can be aligned to one or more OrigL words, as necessary to get the most accurate alignment of the **meaning** conveyed by the two languages.
 
-* To align multiple GL words to a single original language word, simply drag and drop the GL words onto the box below the desired original language word.
-* When it is desired to align GL word(s) to a combination of original language words, first drag one of the combination original language words into the same box as the other original language word. Multiple original language words can be merged together in this fashion.
-* To unmerge previously merged original language words, drag the rightmost original language word slightly to the right. A small new alignment box will appear, and the unmerged word can be dropped into that box.
-* The leftmost original language word can also be unmerged by dragging and dropping it into the original language word box immediately to its left.
-* Any GL words that were aligned with that original language word return to the word list.
-* The original language words should remain in the proper order. If the merge contains 3 or more original language words, unmerge the rightmost original language word first. Un-merging the center word(s) first may result in the original language words becoming out of order. When that happens, unmerge the remaining words in that box to properly return the original language words to their original order.
+* To align multiple GL words to a single OrigL word, simply drag and drop the GL words onto the box below the desired OrigL word.
+* When it is desired to align English word(s) to a combination of OrigL words, first drag one of the combination OrigL words into the same box as the other OrigL word. Multiple OrigL words can be merged together in this fashion.
+* To unmerge previously merged OrigL words, drag the rightmost original language word slightly to the right. A small new alignment box will appear, and the unmerged word can be dropped into that box.
+* The leftmost OrigL word can also be unmerged by dragging and dropping it into the OrigL word box immediately to its left.
+* Any English words that were aligned with that OrigL word return to the word list.
+* The OrigL words should remain in the proper order. If the merge contains 3 or more OrigL words, unmerge the rightmost OrigL word first. Un-merging the center word(s) first may result in the OrigL words becoming out of order. When that happens, unmerge the remaining words in that box to properly return the OrigL words to their original order.
 
 ### Alignment Philosophy for the UST
 
-Because each GL has different requirements for sentence structure and the amount of explicit information that must be provided, there is often not a one-to-one correspondence between an original language word and a GL word. In these cases, the GL words that are provided should be aligned with the original language word that implies them.
+Because each GL has different requirements for sentence structure and the amount of explicit information that must be provided, there is often not a one-to-one correspondence between an OrigL word and an English word. In these cases, the English words that are provided should be aligned with the OrigL word that implies them.
 
-**When aligning a GL translation to the original language text, the precision of the alignment between the two languages is the highest priority.  The most important function of the aligned text is to show the UST user as specifically as possible from which word in the original text the GL meaning is derived. In practice, this means that original language words should be merged together ONLY *when absolutely necessary for the accuracy of the alignment.* Otherwise, original language words should not be merged together. In other words, the aligning should be done so that the smallest number of GL words are aligned to the smallest number of original language words that accurately represent their shared meaning.**
+The main objective and goal of text alignment for the UST is the same as for the ULT. However, the process by which to decide which UST words should be aligned with which OrigL words is significantly more complex than for the ULT.  The process is not systematic but must be done by weighing a core group of principles together as a whole and then deciding what is best in each instance.  Sometimes these principles might disagree or even contradict.  In those cases, the aligner must decide which principle takes priority in a given instance and align the UST text accordingly.  **For all these reasons, the UST aligner should expect that it will take multiple attempts at aligning a UST text before it is aligned properly.**  The general principles which should govern the alignment of a UST text are as follows:
 
-When aligning the UST, you must remember that its first priority is to be a clear rendering of the original language text. Therefore, it adds words and phrases to explain the meaning of the original for the reader. These words and phrases should be aligned with the word or words that they are explaining. For example, in Titus 1:1, the phrase, “I am a servant” must be aligned with the single word, *doulos*.
+	•	The overarching purpose of the UST alignment is to show the user from which OrigL words (or groups of words) the GL words (or phrases) take their meaning.  Sometimes these units of meaning are larger, and sometimes they are smaller.
+    
+	•	Smaller units of alignment are more desirable than larger units of alignment.  In other words, only merge OrigL words together when necessary for the sake of alignment of meaning between the two languages.
+    
+	•	If the meaning of an OrigL word(s) is nowhere represented in the English text, leave that word unaligned rather than merging it with another OrigL word.  If necessary, consult with the translator who prepared the UST to determine if the UST is missing elements of meaning that need to be included and then aligned to the OrigL word(s) in view.
+    
+	•	As much as possible, English words should be aligned with OrigL words within that same phrase or clause rather being moved into a different phrase or clause.
+    
+	•	Words in English that express implied information can be aligned with earlier OrigL words but not with later OrigL words.  This is because it is impossible for information to be implied from a place later in the text.
+    
+	•	In some cases, such as for a rhetorical question, the basic unit of meaning for alignment consists of an entire phrase or clause.  In these cases, the entire unit of meaning must be merged in the OrigL and then aligned with the entire unit of meaning in the GL text.
+    
+**NOTE: Sometimes words in the UST will need to be aligned with OrigL words which appear much earlier or much later in the text.  This is often necessary because of the specific rules that the UST must follow (use short sentences, present events in chronological order, etc.).  The aligner should be aware that a properly aligned GST text may appear to have words drastically out of place at first glance.**
 
-Sometimes, for the sake of clarity, the GL of the UST will repeat things that are only mentioned once in the original. This often happens with subjects or objects of sentences. For example, in Titus 2:9 the English UST refers to “their masters” twice, although the original language only has *idiois despotais* once. In these cases, you should align each occurrence of the repeated reference with the same original language words, so that the highlighting will show that each of these represents the meaning conveyed by those same words of the original.
+When aligning the UST, you must remember that its first priority is to be a clear rendering of the meaning of the OrigL text. Therefore, it adds words and phrases to explain the meaning of the original for the reader. These words and phrases should be aligned with the word or words that they are explaining. For example, in Titus 1:1, the phrase, “I am a servant” must be aligned with the single word, *doulos*.
+
+Sometimes, for the sake of clarity, the UST will repeat things that are only mentioned once in the original. This often happens with subjects or objects of sentences. For example, in Titus 2:9 the English UST refers to “their masters” twice, although the original language only has *idiois despotais* once. In these cases, you should align each occurrence of the repeated reference with the same original language words, so that the highlighting will show that each of these represents the meaning conveyed by those same words of the original.
 
 Some of the words and sentences of the UST do not directly represent the meaning of the original words. This is information that is only implied by the original words, but included in the UST because it is necessary for understanding the meaning of the original. For example, in Titus 1:1, the sentence, “I, Paul, write this letter to you, Titus” includes information that is not there in the original words, such as the fact that what the reader is about to read is a letter, and that it is written to someone named Titus. This information, however, makes the text more clear and understandable. For the aligning, then, all of this explanation must be aligned with the single word that it is explaining, *Paulos*.
 
@@ -296,12 +310,12 @@ For English, we follow these principles, but your GL may need a different list t
 
 * Align indefinite articles to their “head word.”  For example, both “a” and “servant” should align to *doulos* in Titus 1:1.
 * Definite articles that English supplies should also be aligned to their “head word.” For example, both “the” and “faith” should align to *pistin* in Titus 1:1.
-* Original language definite articles that English does not use need to be combined with their original language head word. For example, *ton* and *logon* need to be combined, then “word” aligned with that combination in Titus 1:3.
-* Implicit verbs in the original language that are translated explicitly in the target language should be aligned with the predicate. For example, “he should be” that is supplied in English should be aligned to *philoxenon* along with “hospitable” in Titus 1:8.
+* Original language definite articles that English does not use need to be combined with their OrigL head word. For example, *ton* and *logon* need to be combined, then “word” aligned with that combination in Titus 1:3.
+* Implicit verbs in the OrigL that are translated explicitly in the target language should be aligned with the predicate. For example, “he should be” that is supplied in English should be aligned to *philoxenon* along with “hospitable” in Titus 1:8.
 * Words with apostrophes will be split and show up as two words in the word panel. This allows for proper alignment of the two parts of meaning. In most cases in English these are used to represent possession and will be aligned to a single original language word in the genitive case.  For example, both “God” and “s” will align to *theou* in Titus 1:1.
-* Often the original language and GL part of speech won’t match. That is inevitable. Often an original language word will be translated as a GL phrase. For example, the three words “does not lie” in English all align with the single word *apseudes* in Titus 1:2.
-* Sometimes particles in the original language are not translated in the GL. These should be aligned to make the alignment between the original language and the GL as precise as possible. For example, in most cases the Hebrew direct object marker should be merged with the Hebrew direct object and aligned with that translated word in the GL.  However, in cases where the direct object marker has a conjunction prefix that must be translated in the GL, then the Hebrew word containing the conjunction and direct object marker should be aligned with the translated conjunction in the GL.
-* When aligning verbal negations, align any English helping verbs with the original language verb. Only align the English term(s) of negation with the negative particle in the original language.
+* Often the OrigL and English part of speech won’t match. That is inevitable. Often an OrigL word will be translated as an English phrase. For example, the three words “does not lie” in English all align with the single word *apseudes* in Titus 1:2.
+* Sometimes particles in the OrigL are not translated in English. These should be aligned to make the alignment between the OrigL and English as precise as possible. For example, in most cases the Hebrew direct object marker should be merged with the Hebrew direct object and aligned with that translated word in English.  However, in cases where the direct object marker has a conjunction prefix that must be translated in English, then the Hebrew word containing the conjunction and direct object marker should be aligned with the translated conjunction in English.
+* When aligning verbal negations, align any English helping verbs with the OrigL verb. Only align the English term(s) of negation with the negative particle in the OrigL.
 
 Other alignment issues pertinent to Biblical Hebrew include the following:
 
@@ -313,10 +327,9 @@ Other alignment issues pertinent to Biblical Hebrew include the following:
 
 ### Words Not Found in the Original Language
 
-In the process of alignment according to the instructions above, you may find that the GL text has words or phrases that do not represent any meaning in the original language text and are not there because the GL sentence needs them to make sense. If this occurs, follow these recommendations:
+In the process of alignment according to the instructions above, you may find that the English text has words or phrases that do not represent any meaning in the OrigL text and are not there because the English sentence needs them to make sense. If this occurs, follow these recommendations:
 
-* If possible, consider editing the GL text to match the original language text.
+* If possible, consider editing the English text to match the OrigL text.
 * You may consult other Greek or Hebrew manuscripts to see if there is textual support for your translation (see the `Biblical Humanities Dashboard <http://biblicalhumanities.org/dashboard/>` for other manuscripts).
 * If you find support for your translation, make sure to include a comment or note about where you found it and why the translation should include it.
-* You should consider placing these GL words in brackets or in a footnote.
-
+* You should consider placing these English words in brackets or in a footnote.
