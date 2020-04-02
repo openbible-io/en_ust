@@ -284,17 +284,12 @@ Because each GL has different requirements for sentence structure and the amount
 
 The main objective and goal of text alignment for the UST is the same as for the ULT. However, the process by which to decide which UST words should be aligned with which OrigL words is significantly more complex than for the ULT.  The process is not systematic but must be done by weighing a core group of principles together as a whole and then deciding what is best in each instance.  Sometimes these principles might disagree or even contradict.  In those cases, the aligner must decide which principle takes priority in a given instance and align the UST text accordingly.  **For all these reasons, the UST aligner should expect that it will take multiple attempts at aligning a UST text before it is aligned properly.**  The general principles which should govern the alignment of a UST text are as follows:
 
-	•	The overarching purpose of the UST alignment is to show the user from which OrigL words (or groups of words) the GL words (or phrases) take their meaning.  Sometimes these units of meaning are larger, and sometimes they are smaller.
-    
-	•	Smaller units of alignment are more desirable than larger units of alignment.  In other words, only merge OrigL words together when necessary for the sake of alignment of meaning between the two languages.
-    
-	•	If the meaning of an OrigL word(s) is nowhere represented in the English text, leave that word unaligned rather than merging it with another OrigL word.  If necessary, consult with the translator who prepared the UST to determine if the UST is missing elements of meaning that need to be included and then aligned to the OrigL word(s) in view.
-    
-	•	As much as possible, English words should be aligned with OrigL words within that same phrase or clause rather being moved into a different phrase or clause.
-    
-	•	Words in English that express implied information can be aligned with earlier OrigL words but not with later OrigL words.  This is because it is impossible for information to be implied from a place later in the text.
-    
-	•	In some cases, such as for a rhetorical question, the basic unit of meaning for alignment consists of an entire phrase or clause.  In these cases, the entire unit of meaning must be merged in the OrigL and then aligned with the entire unit of meaning in the GL text.
+* The overarching purpose of the UST alignment is to show the user from which OrigL words (or groups of words) the GL words (or phrases) take their meaning.  Sometimes these units of meaning are larger, and sometimes they are smaller.
+* Smaller units of alignment are more desirable than larger units of alignment.  In other words, only merge OrigL words together when necessary for the sake of alignment of meaning between the two languages.
+* If the meaning of an OrigL word(s) is nowhere represented in the English text, leave that word unaligned rather than merging it with another OrigL word.  If necessary, consult with the translator who prepared the UST to determine if the UST is missing elements of meaning that need to be included and then aligned to the OrigL word(s) in view.
+* As much as possible, English words should be aligned with OrigL words within that same phrase or clause rather being moved into a different phrase or clause.
+* Words in English that express implied information can be aligned with earlier OrigL words but not with later OrigL words.  This is because it is impossible for information to be implied from a place later in the text.
+* In some cases, such as for a rhetorical question, the basic unit of meaning for alignment consists of an entire phrase or clause.  In these cases, the entire unit of meaning must be merged in the OrigL and then aligned with the entire unit of meaning in the GL text.
     
 **NOTE: Sometimes words in the UST will need to be aligned with OrigL words which appear much earlier or much later in the text.  This is often necessary because of the specific rules that the UST must follow (use short sentences, present events in chronological order, etc.).  The aligner should be aware that a properly aligned GST text may appear to have words drastically out of place at first glance.**
 
