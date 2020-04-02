@@ -63,7 +63,7 @@ The UST of Romans 2:24 says:
 
 For many language, this is a clearer way of expressing the message that Romans 2:24 intends to communicate. 
 
-**When you edit or translate the UST, you must not use any passive voice constructions.**
+**When editing the UST or translating it into another GL, you must not use any passive voice constructions.**
 
 #### Abstract Nouns
 
@@ -265,7 +265,7 @@ To align the English text:
 
 When the English word is over a word box of the original, the dotted outline will turn blue to let you know that the word will drop there. If you make a mistake or decide that the GL word belongs somewhere else, simply drag it again to where it belongs. GL words can also be dragged back to the list.
 
-When the same GL word occurs more than once in a verse, each instance of the word will have a small superscript number after it. This number will help you to align each repeated GL word to the correct original word in the correct order. **When aligning, chec to ensure that these numbered words are in their proper places, since it is easy to miss the numbers and align repeated words incorrectly.**
+When the same GL word occurs more than once in a verse, each instance of the word will have a small superscript number after it. This number will help you to align each repeated GL word to the correct original word in the correct order. **When aligning, check to ensure that these numbered words are in their proper places, since it is easy to miss the numbers and align repeated words incorrectly.**
 
 #### Process to Merge and Unmerge Original Language Words
 
@@ -287,7 +287,7 @@ The main objective and goal of text alignment for the UST is the same as for the
 * The overarching purpose of the UST alignment is to show the user from which OrigL words (or groups of words) the GL words (or phrases) take their meaning.  Sometimes these units of meaning are larger, and sometimes they are smaller.
 * Smaller units of alignment are more desirable than larger units of alignment.  In other words, only merge OrigL words together when necessary for the sake of alignment of meaning between the two languages.
 * If the meaning of an OrigL word(s) is nowhere represented in the English text, leave that word unaligned rather than merging it with another OrigL word.  If necessary, consult with the translator who prepared the UST to determine if the UST is missing elements of meaning that need to be included and then aligned to the OrigL word(s) in view.
-* As much as possible, English words should be aligned with OrigL words within that same phrase or clause rather being moved into a different phrase or clause.
+* As much as possible, English words should be aligned with OrigL words within that same phrase or clause rather than being moved into a different phrase or clause.
 * Words in English that express implied information can be aligned with earlier OrigL words but not with later OrigL words.  This is because it is impossible for information to be implied from a place later in the text.
 * In some cases, such as for a rhetorical question, the basic unit of meaning for alignment consists of an entire phrase or clause.  In these cases, the entire unit of meaning must be merged in the OrigL and then aligned with the entire unit of meaning in the GL text.
     
