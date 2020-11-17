@@ -46,15 +46,15 @@ dublin_core:
     - 'Benjamin Wright, MA Applied Linguistics, Dallas International University'
     - 'Door43 World Missions Community'
   creator: 'Door43 World Missions Community'
-  description: "An open-licensed translation, intended to provide a ‘functional’ understanding of the Bible. It increases the translator’s understanding of the text by translating theological terms as descriptive phrases."
+  description: "An open-licensed translation, intended to provide a ‘functional’ understanding of the Bible. It increases the translator’s understanding of the text by translating theological terms as descriptive phrases.”
   format: 'text/usfm3'
   identifier: 'ust'
-  issued: '2020-10-29'
+  issued: '2020-11-17'
   language:
     direction: 'ltr'
     identifier: 'en'
     title: 'English'
-  modified: '2020-10-29'
+  modified: '2020-11-17'
   publisher: 'unfoldingWord'
   relation:
     - 'en/tw'
@@ -77,7 +77,7 @@ dublin_core:
   subject: 'Aligned Bible'
   title: 'unfoldingWord® Simplified Text'
   type: 'bundle'
-  version: '15'
+  version: '16'
 
 checking:
   checking_entity:
@@ -613,4 +613,3 @@ projects:
     sort: 66
     path: './67-REV.usfm'
     categories: [ 'bible-nt' ]
-

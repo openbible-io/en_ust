@@ -19,7 +19,7 @@ file.
 
 ## Introducing the UST
 
-The unfoldingWord® Simplified Text (UST) is a meaning-centric version of the Bible in English. It is intended to be used alongside the unfoldingWord® Literal Text and other translation resources to give English-speaking mother-tongue translators (MTTs) a more complete understanding of the messages communicated in the Bible. For MTTs who do not have reading knowledge of the original biblical languages, the UST provides a sense of *what* these messages intended to communicate to the original readers. It is anticipated that the UST and other resources will be translated from English into the world's Gateway Languages (GLs) so that MTTs worldwide can use them as a set of resources for making accurate translations of the Bible into their own languages.
+The unfoldingWord® Simplified Text (UST) is a meaning-centric version of the Bible in English. It is intended to be used alongside the unfoldingWord® Literal Text and other translation resources to give English-speaking mother-tongue translators (MTTs) a more complete understanding of the messages communicated in the Bible. For MTTs who do not have reading knowledge of the original biblical languages, the UST provides a sense of *what* these messages intended to communicate to the original readers. It is anticipated that the UST and other resources will be translated from English into the world’s Gateway Languages (GLs) so that MTTs worldwide can use them as a set of resources for making accurate translations of the Bible into their own languages.
 
 ### Avoid Translation Difficulties
 
@@ -49,17 +49,17 @@ The following are examples of ways that the text of the Bible can be unclear for
 
 #### Passive Voice
 
-Passive voice is a grammatical construction that is common in Greek and English but it is not used in many other languages, so it can be very confusing. For that reason, it is not used in the UST. In passive voice, the receiver of the action changes places with the actor. In English, the actor normally comes first in the sentence. But in passive voice, the receiver of the action comes first. Often, the actor is left unstated. In that case, the UST will fill in the actor. See "Missing Participants" below.
+Passive voice is a grammatical construction that is common in Greek and English but it is not used in many other languages, so it can be very confusing. For that reason, it is not used in the UST. In passive voice, the receiver of the action changes places with the actor. In English, the actor normally comes first in the sentence. But in passive voice, the receiver of the action comes first. Often, the actor is left unstated. In that case, the UST will fill in the actor. See “Missing Participants” below.
 
 For example, the ULT of Romans 2:24 says:
 
-"the name of God is dishonored among the Gentiles because of you."
+“the name of God is dishonored among the Gentiles because of you.”
 
-The action is "dishonor," the actors are "the Gentiles" (non-Jews), and the receiver of the action is "the name of God." The reason for the action is "because of you." The UST rearranges the verse to put the actor and the receiver of the action in a more normal order.
+The action is “dishonor,” the actors are “the Gentiles” (non-Jews), and the receiver of the action is “the name of God.” The reason for the action is “because of you.” The UST rearranges the verse to put the actor and the receiver of the action in a more normal order.
 
 The UST of Romans 2:24 says:
 
-"The non-Jews speak evil about God because of the evil actions of you Jews."
+“The non-Jews speak evil about God because of the evil actions of you Jews.”
 
 For many language, this is a clearer way of expressing the message that Romans 2:24 intends to communicate.
 
@@ -69,14 +69,14 @@ For many language, this is a clearer way of expressing the message that Romans 2
 
 The ULT of Romans 2:10 says:
 
-"But praise, honor, and peace will come to everyone who practices good…"
+“But praise, honor, and peace will come to everyone who practices good…”
 
-In this verse, the words "praise," "honor," "peace," and "good" are abstract nouns. That is, they are words that refer to things that we cannot see or touch. They are ideas. The ideas that these nouns express are closer to actions or descriptions than they are to things. In many languages, therefore, these ideas must be expressed by verbs or description words, not by nouns.
+In this verse, the words “praise,” “honor,” “peace,” and “good” are abstract nouns. That is, they are words that refer to things that we cannot see or touch. They are ideas. The ideas that these nouns express are closer to actions or descriptions than they are to things. In many languages, therefore, these ideas must be expressed by verbs or description words, not by nouns.
 For this reason, the UST expresses these nouns as actions or descriptions.
 
 The UST of Romans 2:10 says:
 
-"But God will praise, honor, and give a peaceful spirit to every person who habitually does good deeds."
+“But God will praise, honor, and give a peaceful spirit to every person who habitually does good deeds.”
 
 **When editing the UST or translating it into another GL, you must avoid using abstract nouns.**
 
@@ -86,11 +86,11 @@ The UST avoids using long or complex sentences. In many languages, long or compl
 
 The ULT translates the first three verses of Romans as one complex sentence. It says:
 
-"1 Paul, a servant of Jesus Christ, called to be an apostle, set apart for the gospel of God, 2 which he promised beforehand by his prophets in the holy scriptures, 3 concerning his Son, who was born from the descendants of David according to the flesh."
+“1 Paul, a servant of Jesus Christ, called to be an apostle, set apart for the gospel of God, 2 which he promised beforehand by his prophets in the holy scriptures, 3 concerning his Son, who was born from the descendants of David according to the flesh.”
 
 The UST breaks that into five sentences that are more simple in form. It says:
 
-"1 I, Paul, who serve Christ Jesus, am writing this letter to all of you believers in the city of Rome. God chose me to be an apostle, and he appointed me in order that I shouldproclaim the good news that comes from him. 2 Long before Jesus came to earth, God promised that he would reveal this good news by means of what his prophets wrote in the sacred scriptures. 3 This good news is about his Son. As to his Son's physical nature, he was born a descendant of King David."
+“1 I, Paul, who serve Christ Jesus, am writing this letter to all of you believers in the city of Rome. God chose me to be an apostle, and he appointed me in order that I shouldproclaim the good news that comes from him. 2 Long before Jesus came to earth, God promised that he would reveal this good news by means of what his prophets wrote in the sacred scriptures. 3 This good news is about his Son. As to his Son’s physical nature, he was born a descendant of King David.”
 
 **When editing the UST or translating it into another GL, you must keep the sentences short and simple.**
 
@@ -100,13 +100,13 @@ The UST often fills in the participants when these are lacking in the original B
 
 In the ULT, Romans 1:1 says:
 
-"Paul, a servant of Jesus Christ, called to be an apostle, set apart for the gospel of God…"
+“Paul, a servant of Jesus Christ, called to be an apostle, set apart for the gospel of God…”
 
 In this verse, there is a participant that is left unstated, but still understood. This participant is God. It is God who called Paul to be an apostle and who set him apart for the Gospel. In some languages, this participant must be stated.
 
 Therefore the UST of Romans 1:1 says:
 
-"God chose me to be an apostle, and he appointed me in order that I should proclaim the good news that comes from him."
+“God chose me to be an apostle, and he appointed me in order that I should proclaim the good news that comes from him.”
 
 **When editing the UST or translating it into another GL, you must include all of the participants that are there in the UST.**
 
@@ -114,13 +114,13 @@ Therefore the UST of Romans 1:1 says:
 
 The ULT of Luke 2:6-7 says:
 
-"6 Now it came about that while they were there, the time came for her to deliver her baby. 7 She gave birth to a son, her firstborn child, and she wrapped him snugly in strips of cloth. Then she put him in an animal feeding trough, because there was no room for them in a guest room."
+“6 Now it came about that while they were there, the time came for her to deliver her baby. 7 She gave birth to a son, her firstborn child, and she wrapped him snugly in strips of cloth. Then she put him in an animal feeding trough, because there was no room for them in a guest room.”
 
 In some languages, events need to be told in the order in which they happened, or else the story will be confusing and hard to understand. People might understand from these verses that Mary delivered her baby outside in the street, and then looked for somewhere to stay and, after a long search, ended up putting him in an animal feeding trough. The UST tells these events in the order in which they happened, so that it is clear that Mary was already in the shelter for animals when she gave birth.
 
 The UST says:
 
-"6-7 When they arrived in Bethlehem, there was no place for them to stay in a place where visitors usually stayed. So they had to stay in a place where animals slept overnight. While they were there the time came for Mary to give birth and she gave birth to her first child, a son. She wrapped him in wide strips of cloth and placed him in the feeding place for the animals."
+“6-7 When they arrived in Bethlehem, there was no place for them to stay in a place where visitors usually stayed. So they had to stay in a place where animals slept overnight. While they were there the time came for Mary to give birth and she gave birth to her first child, a son. She wrapped him in wide strips of cloth and placed him in the feeding place for the animals.”
 
 **When editing the UST or translating it into another GL, you must keep the order of events as they are in the UST.**
 
@@ -128,13 +128,13 @@ The UST says:
 
 The ULT of Romans 2:21 says:
 
-"You who preach not to steal, do you steal?"
+“You who preach not to steal, do you steal?”
 
 This is a figure of speech called a rhetorical question. It is not a real question that is used to seek an answer. It is used to make a point. In this case, Paul is using it to scold his audience and to condemn their hypocrisy. Many languages do not use rhetorical questions, or they do not use them in this way.
 
 To show how to translate this meaning without a rhetorical question, the UST says:
 
-"You who preach that people should not steal things, it is disgusting that you yourself steal things!"
+“You who preach that people should not steal things, it is disgusting that you yourself steal things!”
 
 **When you edit or translate the UST, you must not use rhetorical questions or other figures of speech.**
 
@@ -142,18 +142,18 @@ To show how to translate this meaning without a rhetorical question, the UST say
 
 The ULT of Deuteronomy 32:10 says:
 
-"he guarded him as the apple of his eye."
+“he guarded him as the apple of his eye.”
 
 
-The word "apple" here does not refer to a kind of fruit, but instead refers to the pupil, the dark center of a person's eye. The phrase "the apple of his eye" is an idiom that refers to anything that is extremely precious to a person, or the one thing that is the most precious to a person. In many languages this idiom makes no sense, but they have other idioms that have this meaning. The Other Language translator should use one of these idioms from the target language in the OL translation, but there should be no idiom in the translation of the UST.
+The word “apple” here does not refer to a kind of fruit, but instead refers to the pupil, the dark center of a person’s eye. The phrase “the apple of his eye” is an idiom that refers to anything that is extremely precious to a person, or the one thing that is the most precious to a person. In many languages this idiom makes no sense, but they have other idioms that have this meaning. The Other Language translator should use one of these idioms from the target language in the OL translation, but there should be no idiom in the translation of the UST.
 
 To show the meaning of this verse, the UST expresses this in plain language, without an idiom.
 
 The UST says:
 
-"He protected them and took care of them, as every person takes good care of his own eyes."
+“He protected them and took care of them, as every person takes good care of his own eyes.”
 
-The Notes add another way to translate this that makes the meaning clear. It says, "He protected the people of Israel as something most valuable and precious."
+The Notes add another way to translate this that makes the meaning clear. It says, “He protected the people of Israel as something most valuable and precious.”
 
 **When editing the UST or translating it into another GL, you must not use any idioms. Only use plain language that makes the meaning clear.**
 
@@ -161,13 +161,13 @@ The Notes add another way to translate this that makes the meaning clear. It say
 
 The ULT of Genesis 18:3 says:
 
-He said, "My Lord, if I have found favor in your eyes, please do not pass by your servant."
+He said, “My Lord, if I have found favor in your eyes, please do not pass by your servant.”
 
-Here Abraham refers to himself in the third person as "your servant." To make it clear that Abraham is referring to himself, the UST adds the first person pronoun "me."
+Here Abraham refers to himself in the third person as “your servant.” To make it clear that Abraham is referring to himself, the UST adds the first person pronoun “me.”
 
 The UST of Genesis 18:3 says:
 
-He said to one of them, "My Lord, if you are pleased with me, then please stay here with me, your servant, for a little while."
+He said to one of them, “My Lord, if you are pleased with me, then please stay here with me, your servant, for a little while.”
 
 **When editing the UST or translating it into another GL, you must include the indications of the first person that are there in these passages of the UST so that it can be as clear as possible.**
 
@@ -175,13 +175,13 @@ He said to one of them, "My Lord, if you are pleased with me, then please stay h
 
 The ULT of Mark 1:44 says:
 
-He said to him, "Be sure to say nothing to anyone, but go, show yourself to the priest, and offer for your cleansing what Moses commanded, as a testimony to them."
+He said to him, “Be sure to say nothing to anyone, but go, show yourself to the priest, and offer for your cleansing what Moses commanded, as a testimony to them.”
 
 This was all that Jesus needed to say to the man whom he had just healed of leprosy, because the man was Jewish and knew all about the laws concerning being clean and unclean. But most modern readers of our Bible translations do not know that information. For that reason, the UST makes this information explicit that was left implied in the text. This information is indicated in italics below.
 
 The UST of Mark 1:44 says:
 
-UST: He said, "Do not tell anyone *what just happened*. Instead, go to a priest and show yourself to him *in order that he may examine you and see that you no longer have leprosy*. Then make the offering that Moses commanded *for people whom God has healed from leprosy*. This will be the testimony to the *community that you are healed*."
+UST: He said, “Do not tell anyone *what just happened*. Instead, go to a priest and show yourself to him *in order that he may examine you and see that you no longer have leprosy*. Then make the offering that Moses commanded *for people whom God has healed from leprosy*. This will be the testimony to the *community that you are healed*.”
 
 **When editing the UST or translating it into another GL, you must include all of the implied information that is there in the UST so that it can be as clear as possible.**
 
@@ -193,7 +193,7 @@ Here are some guidelines for composing or editing text in the UST:
 * Do not use contractions.
 * Punctuation marks go inside the quote marks.
 * Capitalization issues: in general, we are following the practice of the 2011 NIV.
-* All pronouns are lower case (except when beginning sentences and except for the first singular "I").
+* All pronouns are lower case (except when beginning sentences and except for the first singular “I”).
 * Capitalize titles (Son of Man, King David, the Messiah).
 * Use vocabulary and phrases that differ from the ULT. The two translations fail to help the MTT when they are the same.
 * Where possible, use common vocabulary that is easy to translate into another language.
@@ -204,7 +204,7 @@ Here are some guidelines for composing or editing text in the UST:
 
 ### Translation of Terms Regarding Gender
 
-Both Biblical Hebrew and Koiné Greek utilize different word forms to indicate grammatical gender, which may or may not correspond to the actual gender of a person or object. For example, the Hebrew phrase *beney yisrael* ("sons of Israel") sometimes literally means "male children of the man named Israel" (Gen 42:5). However, most of the time in the Old Testament this phrase refers figuratively to the entire Israelite nation as a whole, both men and women. In a similar way, the Greek term *adelphoi* ("brothers") can sometimes literally mean "a male person who has the same father and/or mother" (Mark 3:32), but most of the time in the New Testament refers figuratively to Christian believers, both men and women. In both Hebrew and Greek, the meaning of "engendered language" is not always clear. This linguistic feature of "engendered language" poses significant problems for translation; the meaning of the original Hebrew or Greek text is not always clear; also, some languages do not use engendered language, which makes the translation of gender very difficult.
+Both Biblical Hebrew and Koiné Greek utilize different word forms to indicate grammatical gender, which may or may not correspond to the actual gender of a person or object. For example, the Hebrew phrase *beney yisrael* (“sons of Israel”) sometimes literally means “male children of the man named Israel” (Gen 42:5). However, most of the time in the Old Testament this phrase refers figuratively to the entire Israelite nation as a whole, both men and women. In a similar way, the Greek term *adelphoi* (“brothers”) can sometimes literally mean “a male person who has the same father and/or mother” (Mark 3:32), but most of the time in the New Testament refers figuratively to Christian believers, both men and women. In both Hebrew and Greek, the meaning of “engendered language” is not always clear. This linguistic feature of “engendered language” poses significant problems for translation; the meaning of the original Hebrew or Greek text is not always clear; also, some languages do not use engendered language, which makes the translation of gender very difficult.
 
 The UST should reflect as accurately as possible the actual intended referent(s) for Hebrew/Aramaic/Greek terms, as determined from the context. As a general rule, the UST should select gender-neutral language except in cases where the context implies a specific gender is in view. However, sometimes the UST may need to deviate from this general rule; in those cases, the meaning should be explained in a Translation Note.
 
@@ -212,43 +212,43 @@ The UST should reflect as accurately as possible the actual intended referent(s)
 
 A list of decisions as to how to translate some senses of the source language words and phrases into another language is called a Translation Glossary (TG). Such a device is especially useful when more than one person works on the same project, because it helps keep everyone using the same English terms. However, a TG cannot be foolproof, because the source will often use some words to signal more than one sense, depending on context. A TG is therefore a glossary of word senses, not a glossary of words. Check back often to this page, because this TG is likely to develop for the entire life of the unfoldingWord project.
 
-NOTE: Occasionally, the TG's specified translation will not be suitable. As always, the text editors must remain in control of the decision-making process. The TG is to guide you as much as is possible. If you must depart from the TG guidelines, do so and insert a Translation Note to explain the meaning.
+NOTE: Occasionally, the TG’s specified translation will not be suitable. As always, the text editors must remain in control of the decision-making process. The TG is to guide you as much as is possible. If you must depart from the TG guidelines, do so and insert a Translation Note to explain the meaning.
 
 Preferred English renderings for the UST appear in bold type.
 
-  * *adelphoi* The ULT will use *brothers*. Since this term usually refers figuratively to Christian believers, the UST will most often use "**believers**" or "**fellow-believers**."
-  * *gospel* "Gospel" will be used in most cases in the ULT, while the UST will use "**good news**."
-  * *Christ* The ULT will use "Christ" or "the Christ" while the UST will use "**the Messiah**."
-  * *saints* The ULT will use "saints" while the UST will use either "**God's people**" or a form of "**those whom God has set apart for himself**."
-  * *YHWH* Both the ULT and UST will render God's name as "**Yahweh**."
-  * *scribe* The ULT will use "scribe" while the UST will use "**teacher of the Jewish laws**."
-  * *Gentile* The UST will use "**non-Jew**" or "**non-Jewish**."
-  * *nomikos* The ULT will use "expert in the Jewish law" while the UST will use "**authority in the Jewish laws**."
-  * *grace* The ULT will use "grace" while the UST will rework the grammar to use the adjective "**gracious**" or will use a form such as "**God will be kind**."
-  * *peace* The UST will rework the grammar to use the adjective "**peaceful [spirit, etc.]**" or an adjectival phrase such as "**at peace**."
-  * *glory* the UST will rework the grammar to use the adjective "**glorious**" or an equivalent description such as "**who is so great**."
-  * *law* The UST will expand to "**law of Moses**" or "**Jewish law**."
-  * *covenant* The UST will use "**agreement**" or "**promise**."
-  * *church* The UST will use some form of "**assembly/group of those who believe/trust in God**."
-  * horns –– The Hebrew terms for the various kinds of horns should be rendered as follows in the UST: *qeren* = "**horn**;" *shofar* = "**large horn**" or "**long horn**" (simply "horn" in ULT); *hatzotzerah* = "**trumpet**." The term *shofar* should never be translated as "trumpet" in either the ULT or UST.
-  * Ark of the Covenant –– The UST will use the term "**sacred chest**" instead of "ark" for this specific item.
+  * *adelphoi* The ULT will use *brothers*. Since this term usually refers figuratively to Christian believers, the UST will most often use “**believers**” or “**fellow-believers**.”
+  * *gospel* “Gospel” will be used in most cases in the ULT, while the UST will use “**good news**.”
+  * *Christ* The ULT will use “Christ” or “the Christ” while the UST will use “**the Messiah**.”
+  * *saints* The ULT will use “saints” while the UST will use either “**God’s people**” or a form of “**those whom God has set apart for himself**.”
+  * *YHWH* Both the ULT and UST will render God’s name as “**Yahweh**.”
+  * *scribe* The ULT will use “scribe” while the UST will use “**teacher of the Jewish laws**.”
+  * *Gentile* The UST will use “**non-Jew**” or “**non-Jewish**.”
+  * *nomikos* The ULT will use “expert in the Jewish law” while the UST will use “**authority in the Jewish laws**.”
+  * *grace* The ULT will use “grace” while the UST will rework the grammar to use the adjective “**gracious**” or will use a form such as “**God will be kind**.”
+  * *peace* The UST will rework the grammar to use the adjective “**peaceful [spirit, etc.]**” or an adjectival phrase such as “**at peace**.”
+  * *glory* the UST will rework the grammar to use the adjective “**glorious**” or an equivalent description such as “**who is so great**.”
+  * *law* The UST will expand to “**law of Moses**” or “**Jewish law**.”
+  * *covenant* The UST will use “**agreement**” or “**promise**.”
+  * *church* The UST will use some form of “**assembly/group of those who believe/trust in God**.”
+  * horns –– The Hebrew terms for the various kinds of horns should be rendered as follows in the UST: *qeren* = “**horn**;” *shofar* = “**large horn**” or “**long horn**” (simply “horn” in ULT); *hatzotzerah* = “**trumpet**.” The term *shofar* should never be translated as “trumpet” in either the ULT or UST.
+  * Ark of the Covenant –– The UST will use the term “**sacred chest**” instead of “ark” for this specific item.
   * Metaphors will be turned into either similes or plain, concrete language. Examples:
-      * live in your heart: "become a part of you," "be joined to your spirit," "be as close to you as your own hearts."
-      * hard heart: "refuse to obey."
-  * A few abstract nouns are allowed because of the awkwardness or inadequacy of any English circumlocution. These include "**authority**" (when used of a person),"**sin**," "**behavior**," "**work**," "**thing**," "**time**," "**resource**," "**kingdom**," "**relationship**," and some nouns referring to speech ("**message**," "**saying**," etc.), although it is often possible to use a verb instead.
+      * live in your heart: “become a part of you,” “be joined to your spirit,” “be as close to you as your own hearts.”
+      * hard heart: “refuse to obey.”
+  * A few abstract nouns are allowed because of the awkwardness or inadequacy of any English circumlocution. These include “**authority**” (when used of a person),”**sin**,” “**behavior**,” “**work**,” “**thing**,” “**time**,” “**resource**,” “**kingdom**,” “**relationship**,” and some nouns referring to speech (”**message**,” “**saying**,” etc.), although it is often possible to use a verb instead.
 
 These items have been completed in Mark, but need to be universally applied:
-  * *apostle* The ULT will use "apostle" while the UST will use "**sent one**."
-  * *apostle of Jesus Christ* The ULT will use "apostle of Jesus Christ" while the UST will use "**the Messiah Jesus sent me to represent him**."
-  * *disciple* The ULT will use "disciple" while the UST will use "**apprentice**."
-  * *Sabbath* The ULT will use "Sabbath" while the UST will use "**Jewish day of rest**."
-  * *Sea of Galilee* The ULT will use "Sea of Galilee" while the UST will use "**Galilee lake**."
-  * *synagogue* The ULT will use "synagogue" while the UST will use "**Jewish preaching place**."
-  * *wilderness* The ULT will use "wilderness" while the UST will use "**desolate place**."
+  * *apostle* The ULT will use “apostle” while the UST will use “**sent one**.”
+  * *apostle of Jesus Christ* The ULT will use “apostle of Jesus Christ” while the UST will use “**the Messiah Jesus sent me to represent him**.”
+  * *disciple* The ULT will use “disciple” while the UST will use “**apprentice**.”
+  * *Sabbath* The ULT will use “Sabbath” while the UST will use “**Jewish day of rest**.”
+  * *Sea of Galilee* The ULT will use “Sea of Galilee” while the UST will use “**Galilee lake**.”
+  * *synagogue* The ULT will use “synagogue” while the UST will use “**Jewish preaching place**.”
+  * *wilderness* The ULT will use “wilderness” while the UST will use “**desolate place**.”
 
 These items have been completed in Titus, but need to be universally applied:
-  * *episkopos* The ULT will use "overseer" while the UST will use "**leader of the believers**."
-  * *diakonos* The ULT will use "deacon" while the UST will use "**assistant**" (for the church office), "**servant**" or "**agent**" in other contexts.
+  * *episkopos* The ULT will use “overseer” while the UST will use “**leader of the believers**.”
+  * *diakonos* The ULT will use “deacon” while the UST will use “**assistant**” (for the church office), “**servant**” or “**agent**” in other contexts.
 
 ## Aligning the UST
 
@@ -316,9 +316,9 @@ Other alignment issues pertinent to Biblical Hebrew include the following:
 
 * When an infinitive absolute is paired with a finite verb, the infinitive absolute should be aligned separately, if possible. Usually, the infinitive absolute will be translated as an adverb, and it should be aligned with the adverb.
 * As a general rule, the ULT should translate the conjunction in Hebrew verbal forms. The translated conjunction should then be aligned with that Hebrew verb.
-* When aligning construct phrases in Hebrew, the English word "of" should be aligned with the construct noun. If the English translation of the construct phrase uses a single definite article "the", then it should be aligned with the absolute noun. When the English translation uses multiple instances of the definite article "the", then each definite article should be aligned with the corresponding Hebrew noun.
-* When aligning a verbless clause in Hebrew, the supplied "to be" verb should usually be aligned with the predicate instead of the subject. An exception to this rule occurs when the subject is a demonstrative pronoun (or carries some sort of deictic function). In those cases, the supplied "to be" verb should be aligned with the subject of the verbless clause.
-* Sometimes a verb in Hebrew requires an accompanying preposition that is not required in English, or vice versa. In these cases, align with whichever part of speech fits best on a case-by-case basis. For example, take the phrase "...to pay on our fields..." in Nehemiah 14:4 (UST). The English preposition "on" fits better semantically with the noun ("on our fields") rather than with the infinitive ("to pay on"). However, the reverse is true in v.15 in the phrase "...even their servants oppressed the people..." (Heb. שׁלטוּ על־העמ). In this case, the Hebrew שׁלט requires an accompanying preposition, and the concept is already incorporated into the English translation of the verb itself, "oppressed." So in this case, it is best to merge the Hebrew verb and preposition together, then align both with the English "oppressed."
+* When aligning construct phrases in Hebrew, the English word “of” should be aligned with the construct noun. If the English translation of the construct phrase uses a single definite article “the”, then it should be aligned with the absolute noun. When the English translation uses multiple instances of the definite article “the”, then each definite article should be aligned with the corresponding Hebrew noun.
+* When aligning a verbless clause in Hebrew, the supplied “to be” verb should usually be aligned with the predicate instead of the subject. An exception to this rule occurs when the subject is a demonstrative pronoun (or carries some sort of deictic function). In those cases, the supplied “to be” verb should be aligned with the subject of the verbless clause.
+* Sometimes a verb in Hebrew requires an accompanying preposition that is not required in English, or vice versa. In these cases, align with whichever part of speech fits best on a case-by-case basis. For example, take the phrase “...to pay on our fields...” in Nehemiah 14:4 (UST). The English preposition “on” fits better semantically with the noun (“on our fields”) rather than with the infinitive (“to pay on”). However, the reverse is true in v.15 in the phrase “...even their servants oppressed the people...” (Heb. שׁלטוּ על־העמ). In this case, the Hebrew שׁלט requires an accompanying preposition, and the concept is already incorporated into the English translation of the verb itself, “oppressed.” So in this case, it is best to merge the Hebrew verb and preposition together, then align both with the English “oppressed.”
 
 ### Words Not Found in the Original Language
 
