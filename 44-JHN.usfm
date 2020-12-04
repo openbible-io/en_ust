@@ -13074,7 +13074,7 @@
 \w who|x-occurrence="1" x-occurrences="1"\w*
 \w belong|x-occurrence="1" x-occurrences="1"\w*
 \w to|x-occurrence="2" x-occurrences="2"\w*
-\w me|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*\zaln-e\*..
+\w me|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*\zaln-e\*.
 \v 16 \zaln-s |x-strong="G25320" x-lemma="καί" x-morph="Gr,CC,,,,,,,," x-occurrence="1" x-occurrences="3" x-content="καὶ"\*\w And|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="G21920" x-lemma="ἔχω" x-morph="Gr,V,IPA1,,S," x-occurrence="1" x-occurrences="1" x-content="ἔχω"\*\w I|x-occurrence="1" x-occurrences="4"\w*
 \w have|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
@@ -23309,9 +23309,8 @@
 \zaln-s |x-strong="G35880" x-lemma="ὁ" x-morph="Gr,EA,,,,AMS," x-occurrence="1" x-occurrences="1" x-content="τὸν"\*\zaln-s |x-strong="G24240" x-lemma="Ἰησοῦς" x-morph="Gr,N,,,,,AMS," x-occurrence="1" x-occurrences="1" x-content="Ἰησοῦν"\*\w Jesus|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*\zaln-e\*
 \zaln-s |x-strong="G05200" x-lemma="ἀπάγω" x-morph="Gr,V,IAA3,,P," x-occurrence="1" x-occurrences="1" x-content="ἀπήγαγον"\*\w away|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.
 
-\p
-
 \ts\*
+\p
 \v 17 \zaln-s |x-strong="G18310" x-lemma="ἐξέρχομαι" x-morph="Gr,V,IAA3,,S," x-occurrence="1" x-occurrences="1" x-content="ἐξῆλθεν"\*\w He|x-occurrence="1" x-occurrences="1"\w*
 \w went|x-occurrence="1" x-occurrences="1"\w*
 \w out|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
@@ -23471,9 +23470,9 @@
 \w not|x-occurrence="1" x-occurrences="1"\w*
 \w change|x-occurrence="1" x-occurrences="1"\w*
 \w it|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*\zaln-e\*.”
-\q
 
 \ts\*
+\q
 \v 23 \zaln-s |x-strong="G37530" x-lemma="ὅτε" x-morph="Gr,CS,,,,,,,," x-occurrence="1" x-occurrences="1" x-content="ὅτε"\*\w After|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="G35880" x-lemma="ὁ" x-morph="Gr,EA,,,,NMP," x-occurrence="1" x-occurrences="1" x-content="οἱ"\*\w the|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*
 \zaln-s |x-strong="G47570" x-lemma="στρατιώτης" x-morph="Gr,N,,,,,NMP," x-occurrence="1" x-occurrences="1" x-content="στρατιῶται"\*\w soldiers|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
