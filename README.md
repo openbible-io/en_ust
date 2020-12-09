@@ -192,7 +192,7 @@ Here are some guidelines for composing or editing text in the UST:
 * Only use quotation marks at the beginning and ending of direct speech. Do not put quotation marks at the beginning of each verse, even though the speech may span several verses.
 * Do not use contractions.
 * Punctuation marks go inside the quote marks.
-* Capitalization issues: in general, we are following the practice of the 2011 NIV.
+* Capitalization issues: in general, we are following the practice of the 2011 NIV. Exception: the word “law” will not be capitalized except in the rare title, “the Book of the Law.”
 * All pronouns are lower case (except when beginning sentences and except for the first singular “I”).
 * Capitalize titles (Son of Man, King David, the Messiah).
 * Use vocabulary and phrases that differ from the ULT. The two translations fail to help the MTT when they are the same.
