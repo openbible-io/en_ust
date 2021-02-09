@@ -230,12 +230,12 @@ Preferred English renderings for the UST appear in bold type.
   * *law* The UST will expand to “**law of Moses**” or “**Jewish law**.”
   * *covenant* The UST will use “**agreement**” or “**promise**.”
   * *church* The UST will use some form of “**assembly/group of those who believe/trust in God**.”
-  * horns –– The Hebrew terms for the various kinds of horns should be rendered as follows in the UST: *qeren* = “**horn**;” *shofar* = “**large horn**” or “**long horn**” (simply “horn” in ULT); *hatzotzerah* = “**trumpet**.” The term *shofar* should never be translated as “trumpet” in either the ULT or UST.
-  * Ark of the Covenant –– The UST will use the term “**sacred chest**” instead of “ark” for this specific item.
+  * horns – The Hebrew terms for the various kinds of horns should be rendered as follows in the UST: *qeren* = “**horn**;” *shofar* = “**large horn**” or “**long horn**” (simply “horn” in ULT); *hatzotzerah* = “**trumpet**.” The term *shofar* should never be translated as “trumpet” in either the ULT or UST.
+  * Ark of the Covenant – The UST will use the term “**sacred chest**” instead of “ark” for this specific item.
   * Metaphors will be turned into either similes or plain, concrete language. Examples:
-      * live in your heart: “become a part of you,” “be joined to your spirit,” “be as close to you as your own hearts.”
-      * hard heart: “refuse to obey.”
-  * A few abstract nouns are allowed because of the awkwardness or inadequacy of any English circumlocution. These include “**authority**” (when used of a person),”**sin**,” “**behavior**,” “**work**,” “**thing**,” “**time**,” “**resource**,” “**kingdom**,” “**relationship**,” and some nouns referring to speech (”**message**,” “**saying**,” etc.), although it is often possible to use a verb instead.
+    * live in your heart: “become a part of you,” “be joined to your spirit,” “be as close to you as your own hearts.”
+    * hard heart: “refuse to obey.”
+  * A few abstract nouns are allowed because of the awkwardness or inadequacy of any English circumlocution. These include “**authority**” (when used of a person),“**sin**,” “**behavior**,” “**work**,” “**thing**,” “**time**,” “**resource**,” “**kingdom**,” “**relationship**,” and some nouns referring to speech (“**message**,” “**saying**,” etc.), although it is often possible to use a verb instead.
 
 These items have been completed in Mark, but need to be universally applied:
   * *apostle* The ULT will use “apostle” while the UST will use “**sent one**.”
