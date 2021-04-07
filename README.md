@@ -31,6 +31,7 @@ The purpose of the UST is to show the plain meaning of all of those things where
 The primary goal of the UST is to express the meaning of the Bible as clearly as possible. In order to do this, it follows these guidelines.
 
 The UST must avoid:
+
 * Idioms
 * Figures of speech
 * Events out of order
@@ -39,6 +40,7 @@ The UST must avoid:
 * Abstract and/or verbal nouns
 
 Furthermore, the UST must explicitly include:
+
 * Participants where these are unclear
 * Implied information that is necessary for understanding
 
@@ -145,7 +147,6 @@ The ULT of Deuteronomy 32:10 says:
 
 “he guarded him as the apple of his eye.”
 
-
 The word “apple” here does not refer to a kind of fruit, but instead refers to the pupil, the dark center of a person’s eye. The phrase “the apple of his eye” is an idiom that refers to anything that is extremely precious to a person, or the one thing that is the most precious to a person. In many languages this idiom makes no sense, but they have other idioms that have this meaning. The Other Language translator should use one of these idioms from the target language in the OL translation, but there should be no idiom in the translation of the UST.
 
 To show the meaning of this verse, the UST expresses this in plain language, without an idiom.
@@ -217,39 +218,41 @@ NOTE: Occasionally, the TG’s specified translation will not be suitable. As al
 
 Preferred English renderings for the UST appear in bold type.
 
-  * *adelphoi* The ULT will use *brothers*. Since this term usually refers figuratively to Christian believers, the UST will most often use “**believers**” or “**fellow-believers**.”
-  * *gospel* “Gospel” will be used in most cases in the ULT, while the UST will use “**good news**.”
-  * *Christ* The ULT will use “Christ” or “the Christ” while the UST will use “**the Messiah**.”
-  * *saints* The ULT will use “saints” while the UST will use either “**God’s people**” or a form of “**those whom God has set apart for himself**.”
-  * *YHWH* Both the ULT and UST will render God’s name as “**Yahweh**.”
-  * *scribe* The ULT will use “scribe” while the UST will use “**teacher of the Jewish laws**.”
-  * *Gentile* The UST will use “**non-Jew**” or “**non-Jewish**.”
-  * *nomikos* The ULT will use “expert in the Jewish law” while the UST will use “**authority in the Jewish laws**.”
-  * *grace* The ULT will use “grace” while the UST will rework the grammar to use the adjective “**gracious**” or will use a form such as “**God will be kind**.”
-  * *peace* The UST will rework the grammar to use the adjective “**peaceful [spirit, etc.]**” or an adjectival phrase such as “**at peace**.”
-  * *glory* the UST will rework the grammar to use the adjective “**glorious**” or an equivalent description such as “**who is so great**.”
-  * *law* The UST will expand to “**law of Moses**” or “**Jewish law**.”
-  * *covenant* The UST will use “**agreement**” or “**promise**.”
-  * *church* The UST will use some form of “**assembly/group of those who believe/trust in God**.”
-  * horns – The Hebrew terms for the various kinds of horns should be rendered as follows in the UST: *qeren* = “**horn**;” *shofar* = “**large horn**” or “**long horn**” (simply “horn” in ULT); *hatzotzerah* = “**trumpet**.” The term *shofar* should never be translated as “trumpet” in either the ULT or UST.
-  * Ark of the Covenant – The UST will use the term “**sacred chest**” instead of “ark” for this specific item.
-  * Metaphors will be turned into either similes or plain, concrete language. Examples:
-    * live in your heart: “become a part of you,” “be joined to your spirit,” “be as close to you as your own hearts.”
-    * hard heart: “refuse to obey.”
+* *adelphoi* The ULT will use *brothers*. Since this term usually refers figuratively to Christian believers, the UST will most often use “**believers**” or “**fellow-believers**.”
+* *gospel* “Gospel” will be used in most cases in the ULT, while the UST will use “**good news**.”
+* *Christ* The ULT will use “Christ” or “the Christ” while the UST will use “**the Messiah**.”
+* *saints* The ULT will use “saints” while the UST will use either “**God’s people**” or a form of “**those whom God has set apart for himself**.”
+* *YHWH* Both the ULT and UST will render God’s name as “**Yahweh**.”
+* *scribe* The ULT will use “scribe” while the UST will use “**teacher of the Jewish laws**.”
+* *Gentile* The UST will use “**non-Jew**” or “**non-Jewish**.”
+* *nomikos* The ULT will use “expert in the Jewish law” while the UST will use “**authority in the Jewish laws**.”
+* *grace* The ULT will use “grace” while the UST will rework the grammar to use the adjective “**gracious**” or will use a form such as “**God will be kind**.”
+* *peace* The UST will rework the grammar to use the adjective “**peaceful [spirit, etc.]**” or an adjectival phrase such as “**at peace**.”
+* *glory* the UST will rework the grammar to use the adjective “**glorious**” or an equivalent description such as “**who is so great**.”
+* *law* The UST will expand to “**law of Moses**” or “**Jewish law**.”
+* *covenant* The UST will use “**agreement**” or “**promise**.”
+* *church* The UST will use some form of “**assembly/group of those who believe/trust in God**.”
+* horns – The Hebrew terms for the various kinds of horns should be rendered as follows in the UST: *qeren* = “**horn**;” *shofar* = “**large horn**” or “**long horn**” (simply “horn” in ULT); *hatzotzerah* = “**trumpet**.” The term *shofar* should never be translated as “trumpet” in either the ULT or UST.
+* Ark of the Covenant – The UST will use the term “**sacred chest**” instead of “ark” for this specific item.
+* Metaphors will be turned into either similes or plain, concrete language. Examples:
+  * live in your heart: “become a part of you,” “be joined to your spirit,” “be as close to you as your own hearts.”
+  * hard heart: “refuse to obey.”
   * A few abstract nouns are allowed because of the awkwardness or inadequacy of any English circumlocution. These include “**authority**” (when used of a person),“**sin**,” “**behavior**,” “**work**,” “**thing**,” “**time**,” “**resource**,” “**kingdom**,” “**relationship**,” and some nouns referring to speech (“**message**,” “**saying**,” etc.), although it is often possible to use a verb instead.
 
 These items have been completed in Mark, but need to be universally applied:
-  * *apostle* The ULT will use “apostle” while the UST will use “**sent one**.”
-  * *apostle of Jesus Christ* The ULT will use “apostle of Jesus Christ” while the UST will use “**the Messiah Jesus sent me to represent him**.”
-  * *disciple* The ULT will use “disciple” while the UST will use “**apprentice**.”
-  * *Sabbath* The ULT will use “Sabbath” while the UST will use “**Jewish day of rest**.”
-  * *Sea of Galilee* The ULT will use “Sea of Galilee” while the UST will use “**Galilee lake**.”
-  * *synagogue* The ULT will use “synagogue” while the UST will use “**Jewish preaching place**.”
-  * *wilderness* The ULT will use “wilderness” while the UST will use “**desolate place**.”
+
+* *apostle* The ULT will use “apostle” while the UST will use “**sent one**.”
+* *apostle of Jesus Christ* The ULT will use “apostle of Jesus Christ” while the UST will use “**the Messiah Jesus sent me to represent him**.”
+* *disciple* The ULT will use “disciple” while the UST will use “**apprentice**.”
+* *Sabbath* The ULT will use “Sabbath” while the UST will use “**Jewish day of rest**.”
+* *Sea of Galilee* The ULT will use “Sea of Galilee” while the UST will use “**Galilee lake**.”
+* *synagogue* The ULT will use “synagogue” while the UST will use “**Jewish preaching place**.”
+* *wilderness* The ULT will use “wilderness” while the UST will use “**desolate place**.”
 
 These items have been completed in Titus, but need to be universally applied:
-  * *episkopos* The ULT will use “overseer” while the UST will use “**leader of the believers**.”
-  * *diakonos* The ULT will use “deacon” while the UST will use “**assistant**” (for the church office), “**servant**” or “**agent**” in other contexts.
+
+* *episkopos* The ULT will use “overseer” while the UST will use “**leader of the believers**.”
+* *diakonos* The ULT will use “deacon” while the UST will use “**assistant**” (for the church office), “**servant**” or “**agent**” in other contexts.
 
 ## Aligning the UST
 

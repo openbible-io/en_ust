@@ -8,9 +8,9 @@ PHP 1:9-11 Remove sentence breaks?
 
 **If the issue is about a particular word or expression that occurs throughout the Bible, please simply use a title appropriate to the issue. For example:**
 
-”Saints” or ”Believers”
+“Saints” or “Believers”
 
-In footnotes, change ”omit” to ”does not have”
+In footnotes, change “omit” to “does not have”
 
 **Then please explain the issue in this box, giving an example from the ULB as it stands now and a suggestion for how to fix it.**
 
