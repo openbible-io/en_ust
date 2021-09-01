@@ -1,6 +1,6 @@
 <img src="https://cdn.door43.org/assets/uw-icons/logo-ust-256.png" alt="drawing" width="100"/>
 
-# unfoldingWord® Simplified Text - English
+# unfoldingWord® Simplified Text—English
 
 *an unrestricted simplified version of the Bible intended for translation into any language as a tool for use by Bible translators*
 
