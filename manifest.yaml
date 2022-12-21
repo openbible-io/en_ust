@@ -4,7 +4,7 @@ dublin_core:
     - Nicholas Alsop
     - 'Larry T Brooks, M.Div., Assemblies of God Theological Seminary'
     - Matt Carlton
-    - "George â\x80\x9CDrewâ\x80\x9D Curley, M.Div., PhD, Professor of Biblical Languages"
+    - "George &#65533;\x80\x9CDrew&#65533;\x80\x9D Curley, M.Div., PhD, Professor of Biblical Languages"
     - >-
       Paul M Fahnestock, M.Div. Reformed Theological Seminary, D. Min.
       Pittsburgh Theological Seminary
@@ -47,7 +47,7 @@ dublin_core:
     - 'Dave Statezni, BA Orig langs., M.Div. Fuller Theological Seminary'
     - 'David Trombold, M. Div.'
     - James Vigen
-    - "Hendrik â\x80\x9CHenryâ\x80\x9D de Vries"
+    - "Hendrik &#65533;\x80\x9CHenry&#65533;\x80\x9D de Vries"
     - >-
       Thomas Warren, M.Div., Trinity Evangelical Divinity School, D.Min,
       Reformed Theological Seminary
@@ -56,15 +56,15 @@ dublin_core:
     - 'Benjamin Wright, MA Applied Linguistics, Dallas International University'
     - Door43 World Missions Community
   creator: Door43 World Missions Community
-  description: "An open-licensed translation, intended to provide a â\x80\x98functionalâ\x80\x99 understanding of the Bible. It increases the translatorâ\x80\x99s understanding of the text by translating theological terms as descriptive phrases."
+  description: "An open-licensed translation, intended to provide a &#65533;\x80\x98functional&#65533;\x80\x99 understanding of the Bible. It increases the translator&#65533;\x80\x99s understanding of the text by translating theological terms as descriptive phrases."
   format: text/usfm3
   identifier: ust
-  issued: '2022-12-20'
+  issued: '2022-12-21'
   language:
     direction: ltr
     identifier: en
     title: English
-  modified: '2022-12-20'
+  modified: '2022-12-21'
   publisher: unfoldingWord
   relation:
     - en/tw?v=36
@@ -83,11 +83,11 @@ dublin_core:
       version: '0.26'
     - identifier: ust
       language: en
-      version: '40'
+      version: '41'
   subject: Aligned Bible
-  title: unfoldingWordÂ® Simplified Text
+  title: unfoldingWord® Simplified Text
   type: bundle
-  version: '41'
+  version: '42'
 checking:
   checking_entity:
     - unfoldingWord
