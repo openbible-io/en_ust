@@ -16,6 +16,8 @@ jobs:
           fetch-depth: 10
       - name: Pull upstream
         run: |
-          git remote add upstream 'https://git.door43.org/unfoldingWord/en_ust.git'
+          git config user.name ci
+          git config user.email ci@openbible.io
+          git remote add upstream 'https://git.door43.org/unfoldingWord/en_ult.git'
           git pull --no-rebase upstream master
-          git push
+          git push origin master
