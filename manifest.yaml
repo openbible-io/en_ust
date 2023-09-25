@@ -70,9 +70,11 @@ dublin_core:
   modified: '2023-09-25'
   publisher: unfoldingWord
   relation:
-    - en/tw?v=36
-    - en/tq?v=38
-    - en/tn?v=66
+    - en/tw
+    - en/tq
+    - en/tn
+    - el-x-koine/ugnt?v=0.30
+    - hbo/uhb?v=2.1.30    
   rights: CC BY-SA 4.0
   source:
     - identifier: t4t
