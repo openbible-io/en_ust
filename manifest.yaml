@@ -62,19 +62,17 @@ dublin_core:
     the text by translating theological terms as descriptive phrases.
   format: text/usfm3
   identifier: ust
-  issued: '2023-02-11'
+  issued: '2023-09-25'
   language:
     direction: ltr
     identifier: en
     title: English
-  modified: '2023-02-11'
+  modified: '2023-09-25'
   publisher: unfoldingWord
   relation:
-    - hbo/uhb?v=2.1.30
-    - el-x-koine/ugnt?v=0.32
-    - en/tn?v=75
-    - en/tq?v=45
-    - en/tw?v=43
+    - en/tw?v=36
+    - en/tq?v=38
+    - en/tn?v=66
   rights: CC BY-SA 4.0
   source:
     - identifier: t4t
@@ -88,11 +86,11 @@ dublin_core:
       version: '0.26'
     - identifier: ust
       language: en
-      version: '43'
+      version: '47'
   subject: Aligned Bible
   title: unfoldingWord® Simplified Text
   type: bundle
-  version: '44'
+  version: '75'
 checking:
   checking_entity:
     - unfoldingWord
