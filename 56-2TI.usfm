@@ -67,8 +67,7 @@
 \w my|x-occurrence="1" x-occurrences="1"\w*
 \w own|x-occurrence="1" x-occurrences="1"\w*
 \w son|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.
-\p
-{\zaln-s |x-strong="G05750" x-lemma="ἀπό" x-morph="Gr,P,,,,,G,,," x-occurrence="1" x-occurrences="1" x-content="ἀπὸ"\*\w May|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*}
+\p {\zaln-s |x-strong="G05750" x-lemma="ἀπό" x-morph="Gr,P,,,,,G,,," x-occurrence="1" x-occurrences="1" x-content="ἀπὸ"\*\w May|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*}
 \zaln-s |x-strong="G23160" x-lemma="θεός" x-morph="Gr,N,,,,,GMS," x-occurrence="1" x-occurrences="1" x-content="Θεοῦ"\*\w God|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="G39620" x-lemma="πατήρ" x-morph="Gr,N,,,,,GMS," x-occurrence="1" x-occurrences="1" x-content="Πατρὸς"\*\w the|x-occurrence="1" x-occurrences="2"\w*
 \w Father|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
