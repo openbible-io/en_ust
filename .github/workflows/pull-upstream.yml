@@ -19,3 +19,11 @@ jobs:
           git remote add upstream 'https://git.door43.org/unfoldingWord/en_ust.git'
           git pull --ff-only upstream master
           git push origin upstream
+      - name: Transform USFM
+        run: npx --yes @openbible/usfm -o dist *.usfm
+      - name: Setup Rclone
+        uses: AnimMouse/setup-rclone@v1
+        with:
+          rclone_config: ${{ secrets.RCLONE_CONFIG }}
+          disable_base64: true
+      - run: rclone sync --progress dist static:bibles/en_ust
