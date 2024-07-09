@@ -7,4 +7,5 @@ I would use the `master` branch, but GitHub doesn't allow cron jobs on non-maste
 ## Why?
 
 Door43 is slow to clone (1m30s) vs GitHub (3s).
+Additionally, this repo contains metadata in `index.json`.
 
