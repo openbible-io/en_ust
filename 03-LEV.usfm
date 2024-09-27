@@ -12273,14 +12273,14 @@
 \w completely|x-occurrence="1" x-occurrences="1"\w*
 \w cloven|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*)
 \zaln-s |x-strong="H5927" x-lemma="עָלָה" x-morph="He,Vhrfsc" x-occurrence="1" x-occurrences="1" x-content="מַעֲלַ֥ת"\*\w and|x-occurrence="2" x-occurrences="2"\w*
-\w also|x-occurrence="1" x-occurrences="1"\w*
-\w rechews|x-occurrence="1" x-occurrences="1"\w*
-\w partially|x-occurrence="1" x-occurrences="1"\w*
+\w also|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H1625" x-lemma="גֵּרָה" x-morph="He,Ncfsa" x-occurrence="1" x-occurrences="1" x-content="גֵּרָ֖ה"\*\w rechews|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H5927" x-lemma="עָלָה" x-morph="He,Vhrfsc" x-occurrence="1" x-occurrences="1" x-content="מַעֲלַ֥ת"\*\w partially|x-occurrence="1" x-occurrences="1"\w*
 \w digested|x-occurrence="1" x-occurrences="1"\w*
 \w food|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*—\zaln-s |x-strong="H0853" x-lemma="אֵת" x-morph="He,To:Sp3fs" x-occurrence="1" x-occurrences="1" x-content="אֹתָ֖⁠הּ"\*\w these|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
-\zaln-s |x-strong="H0398" x-lemma="אָכַל" x-morph="He,Vqi2mp" x-occurrence="1" x-occurrences="1" x-content="תֹּאכֵֽלוּ"\*\w are|x-occurrence="2" x-occurrences="3"\w*\zaln-e\*
-\zaln-s |x-strong="H1625" x-lemma="גֵּרָה" x-morph="He,Ncfsa" x-occurrence="1" x-occurrences="1" x-content="גֵּרָ֖ה"\*\w the|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*
-\zaln-s |x-strong="H0398" x-lemma="אָכַל" x-morph="He,Vqi2mp" x-occurrence="1" x-occurrences="1" x-content="תֹּאכֵֽלוּ"\*\w types|x-occurrence="1" x-occurrences="1"\w*
+\zaln-s |x-strong="H0398" x-lemma="אָכַל" x-morph="He,Vqi2mp" x-occurrence="1" x-occurrences="1" x-content="תֹּאכֵֽלוּ"\*\w are|x-occurrence="2" x-occurrences="3"\w*
+\w the|x-occurrence="2" x-occurrences="2"\w*
+\w types|x-occurrence="1" x-occurrences="1"\w*
 \w of|x-occurrence="1" x-occurrences="1"\w*
 \w animals|x-occurrence="1" x-occurrences="1"\w*
 \w that|x-occurrence="2" x-occurrences="2"\w*
@@ -23987,12 +23987,10 @@
 
 \ts\*
 \p
-\v 10 \zaln-s |x-strong="c:H5414" x-lemma="נָתַן" x-morph="He,C:Vqq1cs" x-occurrence="1" x-occurrences="1" x-content="וְ⁠נָתַתִּ֣י"\*\w I|x-occurrence="1" x-occurrences="2"\w*
+\v 10 \zaln-s |x-strong="c:H5414" x-lemma="נָתַן" x-morph="He,C:Vqq1cs" x-occurrence="1" x-occurrences="1" x-content="וְ⁠נָתַתִּ֣י"\*\zaln-s |x-strong="H6440" x-lemma="פָּנִים" x-morph="He,Ncbpc:Sp1cs" x-occurrence="1" x-occurrences="1" x-content="פָנַ֗⁠י"\*\w I|x-occurrence="1" x-occurrences="2"\w*
 \w will|x-occurrence="1" x-occurrences="2"\w*
-\w set|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
-\zaln-s |x-strong="H6440" x-lemma="פָּנִים" x-morph="He,Ncbpc:Sp1cs" x-occurrence="1" x-occurrences="1" x-content="פָנַ֗⁠י"\*\w myself|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
-\zaln-s |x-strong="c:H0376" x-lemma="אִישׁ" x-morph="He,C:Ncmsa" x-occurrence="1" x-occurrences="1" x-content="וְ⁠אִ֨ישׁ"\*\zaln-s |x-strong="H0376" x-lemma="אִישׁ" x-morph="He,Ncmsa" x-occurrence="1" x-occurrences="1" x-content="אִ֜ישׁ"\*\zaln-s |x-strong="b:H5315" x-lemma="נֶפֶשׁ" x-morph="He,Rd:Ncbsa" x-occurrence="1" x-occurrences="1" x-content="בַּ⁠נֶּ֨פֶשׁ֙"\*\w against|x-occurrence="1" x-occurrences="1"\w*
-\w any|x-occurrence="1" x-occurrences="2"\w*
+\w oppose|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*
+\zaln-s |x-strong="c:H0376" x-lemma="אִישׁ" x-morph="He,C:Ncmsa" x-occurrence="1" x-occurrences="1" x-content="וְ⁠אִ֨ישׁ"\*\zaln-s |x-strong="H0376" x-lemma="אִישׁ" x-morph="He,Ncmsa" x-occurrence="1" x-occurrences="1" x-content="אִ֜ישׁ"\*\zaln-s |x-strong="b:H5315" x-lemma="נֶפֶשׁ" x-morph="He,Rd:Ncbsa" x-occurrence="1" x-occurrences="1" x-content="בַּ⁠נֶּ֨פֶשׁ֙"\*\w any|x-occurrence="1" x-occurrences="2"\w*
 \w person|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*\zaln-e\*\zaln-e\*,
 \zaln-s |x-strong="m:H1004b" x-lemma="בַּיִת" x-morph="He,R:Ncmsc" x-occurrence="1" x-occurrences="1" x-content="מִ⁠בֵּ֣ית"\*\w whether|x-occurrence="1" x-occurrences="1"\w*
 \w a|x-occurrence="1" x-occurrences="1"\w*
