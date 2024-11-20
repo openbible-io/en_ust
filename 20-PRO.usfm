@@ -807,24 +807,30 @@
 \w understand|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.
 
 \ts\*
-\q1  \v 3 \zaln-s |x-strong="H3588a" x-lemma="כִּי" x-morph="He,C" x-occurrence="1" x-occurrences="1" x-content="כִּ֤י"\*\zaln-s |x-strong="H0518a" x-lemma="אִם" x-morph="He,C" x-occurrence="1" x-occurrences="1" x-content="אִ֣ם"\*\w Yes|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*,
+\q1  \v 3 \zaln-s |x-strong="H3588a" x-lemma="כִּי" x-morph="He,C" x-occurrence="1" x-occurrences="1" x-content="כִּ֤י"\*\w Yes|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
 \zaln-s |x-strong="H7121" x-lemma="קָרָא" x-morph="He,Vqi2ms" x-occurrence="1" x-occurrences="1" x-content="תִקְרָ֑א"\*\w cry|x-occurrence="1" x-occurrences="1"\w*
-\w out|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
-\zaln-s |x-strong="l:H0998" x-lemma="בִּינָה" x-morph="He,Rd:Ncfsa" x-occurrence="1" x-occurrences="1" x-content="לַ⁠בִּינָ֣ה"\*\w to|x-occurrence="1" x-occurrences="2"\w*
-\w learn|x-occurrence="1" x-occurrences="2"\w*
+\w out|x-occurrence="1" x-occurrences="1"\w*\zaln-e\* {\zaln-s |x-strong="H7121" x-lemma="קָרָא" x-morph="He,Vqi2ms" x-occurrence="1" x-occurrences="1" x-content="תִקְרָ֑א"\*\w to|x-occurrence="1" x-occurrences="4"\w*
+\w God|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*}
+\zaln-s |x-strong="H0518a" x-lemma="אִם" x-morph="He,C" x-occurrence="1" x-occurrences="1" x-content="אִ֣ם"\*\zaln-s |x-strong="l:H0998" x-lemma="בִּינָה" x-morph="He,Rd:Ncfsa" x-occurrence="1" x-occurrences="1" x-content="לַ⁠בִּינָ֣ה"\*\w for|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*\zaln-e\* {\zaln-s |x-strong="H0518a" x-lemma="אִם" x-morph="He,C" x-occurrence="1" x-occurrences="1" x-content="אִ֣ם"\*\zaln-s |x-strong="l:H0998" x-lemma="בִּינָה" x-morph="He,Rd:Ncfsa" x-occurrence="1" x-occurrences="1" x-content="לַ⁠בִּינָ֣ה"\*\w him|x-occurrence="1" x-occurrences="2"\w*
+\w to|x-occurrence="2" x-occurrences="4"\w*
+\w show|x-occurrence="1" x-occurrences="1"\w*
+\w you|x-occurrence="1" x-occurrences="4"\w*}
 \w what|x-occurrence="1" x-occurrences="2"\w*
-\w you|x-occurrence="1" x-occurrences="2"\w*
+\w you|x-occurrence="2" x-occurrences="4"\w*
 \w should|x-occurrence="1" x-occurrences="2"\w*
-\w understand|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.
-\q2 \zaln-s |x-strong="H5414" x-lemma="נָתַן" x-morph="He,Vqi2ms" x-occurrence="1" x-occurrences="1" x-content="תִּתֵּ֥ן"\*\zaln-s |x-strong="H6963a" x-lemma="קוֹל" x-morph="He,Ncmsc:Sp2ms" x-occurrence="1" x-occurrences="1" x-content="קוֹלֶֽ⁠ךָ"\*\w Cry|x-occurrence="1" x-occurrences="1"\w*
-\w loudly|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*
-\zaln-s |x-strong="l:H8394" x-lemma="תָּבוּן" x-morph="He,Rd:Ncfsa" x-occurrence="1" x-occurrences="1" x-content="לַ֝⁠תְּבוּנָ֗ה"\*\w to|x-occurrence="2" x-occurrences="2"\w*
-\w learn|x-occurrence="2" x-occurrences="2"\w*
+\w perceive|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*.
+\q2 \zaln-s |x-strong="H5414" x-lemma="נָתַן" x-morph="He,Vqi2ms" x-occurrence="1" x-occurrences="1" x-content="תִּתֵּ֥ן"\*\zaln-s |x-strong="H6963a" x-lemma="קוֹל" x-morph="He,Ncmsc:Sp2ms" x-occurrence="1" x-occurrences="1" x-content="קוֹלֶֽ⁠ךָ"\*\w Call|x-occurrence="1" x-occurrences="1"\w*
+\w loudly|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\* {\zaln-s |x-strong="H5414" x-lemma="נָתַן" x-morph="He,Vqi2ms" x-occurrence="1" x-occurrences="1" x-content="תִּתֵּ֥ן"\*\zaln-s |x-strong="H6963a" x-lemma="קוֹל" x-morph="He,Ncmsc:Sp2ms" x-occurrence="1" x-occurrences="1" x-content="קוֹלֶֽ⁠ךָ"\*\w to|x-occurrence="3" x-occurrences="4"\w*
+\w God|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*\zaln-e\*}
+\zaln-s |x-strong="l:H8394" x-lemma="תָּבוּן" x-morph="He,Rd:Ncfsa" x-occurrence="1" x-occurrences="1" x-content="לַ֝⁠תְּבוּנָ֗ה"\*\w for|x-occurrence="2" x-occurrences="2"\w*\zaln-e\* {\zaln-s |x-strong="l:H8394" x-lemma="תָּבוּן" x-morph="He,Rd:Ncfsa" x-occurrence="1" x-occurrences="1" x-content="לַ֝⁠תְּבוּנָ֗ה"\*\w him|x-occurrence="2" x-occurrences="2"\w*
+\w to|x-occurrence="4" x-occurrences="4"\w*
+\w teach|x-occurrence="1" x-occurrences="1"\w*
+\w you|x-occurrence="3" x-occurrences="4"\w*}
 \w what|x-occurrence="2" x-occurrences="2"\w*
-\w you|x-occurrence="2" x-occurrences="2"\w*
+\w you|x-occurrence="4" x-occurrences="4"\w*
 \w should|x-occurrence="2" x-occurrences="2"\w*
-\w perceive|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*!
-\q1 \v 4 \zaln-s |x-strong="H1245" x-lemma="בָּקַשׁ" x-morph="He,Vpi2ms:Sp3fs" x-occurrence="1" x-occurrences="1" x-content="תְּבַקְשֶׁ֥⁠נָּה"\*\w Try|x-occurrence="1" x-occurrences="1"\w*
+\w understand|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*!
+\q1  \v 4 \zaln-s |x-strong="H1245" x-lemma="בָּקַשׁ" x-morph="He,Vpi2ms:Sp3fs" x-occurrence="1" x-occurrences="1" x-content="תְּבַקְשֶׁ֥⁠נָּה"\*\w Try|x-occurrence="1" x-occurrences="1"\w*
 \w to|x-occurrence="1" x-occurrences="2"\w*
 \w learn|x-occurrence="1" x-occurrences="1"\w*
 \w what|x-occurrence="1" x-occurrences="1"\w*
