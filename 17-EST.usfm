@@ -532,10 +532,14 @@
 \w to|x-occurrence="3" x-occurrences="3"\w*
 \w do|x-occurrence="1" x-occurrences="1"\w*
 \w things|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.
-\v 14 \zaln-s |x-strong="H0413" x-lemma="אֵל" x-morph="He,R:Sp3ms" x-occurrence="1" x-occurrences="1" x-content="אֵלָ֗י⁠ו"\*\w The|x-occurrence="1" x-occurrences="1"\w*
-\w king|x-occurrence="1" x-occurrences="2"\w*’\w s|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
-\zaln-s |x-strong="c:d:H7138" x-lemma="קָרוֹב" x-morph="He,C:Td:Aamsa" x-occurrence="1" x-occurrences="1" x-content="וְ⁠הַ⁠קָּרֹ֣ב"\*\w closest|x-occurrence="1" x-occurrences="1"\w*
+\v 14 \zaln-s |x-strong="c:d:H7138" x-lemma="קָרוֹב" x-morph="He,C:Td:Aamsa" x-occurrence="1" x-occurrences="1" x-content="וְ⁠הַ⁠קָּרֹ֣ב"\*\w The|x-occurrence="1" x-occurrences="1"\w*
 \w advisors|x-occurrence="1" x-occurrences="1"\w*
+\w whom|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H0413" x-lemma="אֵל" x-morph="He,R:Sp3ms" x-occurrence="1" x-occurrences="1" x-content="אֵלָ֗י⁠ו"\*\w the|x-occurrence="1" x-occurrences="5"\w*
+\w king|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*
+\zaln-s |x-strong="c:d:H7138" x-lemma="קָרוֹב" x-morph="He,C:Td:Aamsa" x-occurrence="1" x-occurrences="1" x-content="וְ⁠הַ⁠קָּרֹ֣ב"\*\w relied|x-occurrence="1" x-occurrences="1"\w*
+\w on|x-occurrence="1" x-occurrences="1"\w*
+\w most|x-occurrence="1" x-occurrences="2"\w*
 \w were|x-occurrence="1" x-occurrences="3"\w*\zaln-e\*
 \zaln-s |x-strong="H3771" x-lemma="כַּרְשְׁנָא" x-morph="He,Np" x-occurrence="1" x-occurrences="1" x-content="כַּרְשְׁנָ֤א"\*\w Karshena|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
 \zaln-s |x-strong="H8369" x-lemma="שֵׁתָר" x-morph="He,Np" x-occurrence="1" x-occurrences="1" x-content="שֵׁתָר֙"\*\w Shethar|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
@@ -552,7 +556,7 @@
 \w from|x-occurrence="1" x-occurrences="1"\w*
 \w various|x-occurrence="1" x-occurrences="1"\w*
 \w places|x-occurrence="1" x-occurrences="1"\w*
-\w in|x-occurrence="1" x-occurrences="2"\w*\zaln-e\* {\zaln-s |x-strong="H6539" x-lemma="פָּרַס" x-morph="He,Np" x-occurrence="1" x-occurrences="1" x-content="פָּרַ֣ס"\*\w the|x-occurrence="1" x-occurrences="4"\w*
+\w in|x-occurrence="1" x-occurrences="2"\w*\zaln-e\* {\zaln-s |x-strong="H6539" x-lemma="פָּרַס" x-morph="He,Np" x-occurrence="1" x-occurrences="1" x-content="פָּרַ֣ס"\*\w the|x-occurrence="2" x-occurrences="5"\w*
 \w kingdoms|x-occurrence="1" x-occurrences="1"\w*
 \w of|x-occurrence="1" x-occurrences="1"\w*}
 \w Persia|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
@@ -560,17 +564,17 @@
 \w Media|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.
 \zaln-s |x-strong="H7200" x-lemma="רָאָה" x-morph="He,Vqrmpc" x-occurrence="1" x-occurrences="1" x-content="רֹאֵי֙"\*\w They|x-occurrence="1" x-occurrences="2"\w*
 \w advised|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
-\zaln-s |x-strong="d:H4428" x-lemma="מֶלֶךְ" x-morph="He,Td:Ncmsa" x-occurrence="1" x-occurrences="1" x-content="הַ⁠מֶּ֔לֶךְ"\*\w the|x-occurrence="2" x-occurrences="4"\w*
+\zaln-s |x-strong="d:H4428" x-lemma="מֶלֶךְ" x-morph="He,Td:Ncmsa" x-occurrence="1" x-occurrences="1" x-content="הַ⁠מֶּ֔לֶךְ"\*\w the|x-occurrence="3" x-occurrences="5"\w*
 \w king|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*
 \zaln-s |x-strong="H6440" x-lemma="פָּנִים" x-morph="He,Ncbpc" x-occurrence="1" x-occurrences="1" x-content="פְּנֵ֣י"\*\w personally|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.
 \zaln-s |x-strong="d:H3427" x-lemma="יָשַׁב" x-morph="He,Td:Vqrmpa" x-occurrence="1" x-occurrences="1" x-content="הַ⁠יֹּשְׁבִ֥ים"\*\w They|x-occurrence="2" x-occurrences="2"\w*
 \w were|x-occurrence="3" x-occurrences="3"\w*
-\w the|x-occurrence="3" x-occurrences="4"\w*\zaln-e\*
-\zaln-s |x-strong="H7223" x-lemma="רִאשׁוֹן" x-morph="He,Aafsa" x-occurrence="1" x-occurrences="1" x-content="רִאשֹׁנָ֖ה"\*\w most|x-occurrence="1" x-occurrences="1"\w*
+\w the|x-occurrence="4" x-occurrences="5"\w*\zaln-e\*
+\zaln-s |x-strong="H7223" x-lemma="רִאשׁוֹן" x-morph="He,Aafsa" x-occurrence="1" x-occurrences="1" x-content="רִאשֹׁנָ֖ה"\*\w most|x-occurrence="2" x-occurrences="2"\w*
 \w powerful|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="d:H3427" x-lemma="יָשַׁב" x-morph="He,Td:Vqrmpa" x-occurrence="1" x-occurrences="1" x-content="הַ⁠יֹּשְׁבִ֥ים"\*\w officials|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*
 \zaln-s |x-strong="b:H4438" x-lemma="מַלְכוּת" x-morph="He,Rd:Ncfsa" x-occurrence="1" x-occurrences="1" x-content="בַּ⁠מַּלְכֽוּת"\*\w in|x-occurrence="2" x-occurrences="2"\w*
-\w the|x-occurrence="4" x-occurrences="4"\w*
+\w the|x-occurrence="5" x-occurrences="5"\w*
 \w empire|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.
 \v 15 \zaln-s |x-strong="k:H1881" x-lemma="דָּת" x-morph="He,R:Ncfsa" x-occurrence="1" x-occurrences="1" x-content="כְּ⁠דָת֙"\*\w The|x-occurrence="1" x-occurrences="1"\w*
 \w king|x-occurrence="1" x-occurrences="1"\w*
