@@ -276,7 +276,7 @@
 \w as|x-occurrence="1" x-occurrences="1"\w*
 \w sacrifices|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*
 \zaln-s |x-strong="m:H1004b" x-lemma="בַּיִת" x-morph="He,R:Ncmsc" x-occurrence="1" x-occurrences="1" x-content="מִ⁠בֵּ֣ית"\*\w at|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
-\zaln-s |x-strong="H3068" x-lemma="יְהֹוָה" x-morph="He,Np" x-occurrence="1" x-occurrences="1" x-content="יְהוָ֑ה"\*\w Yahweh|x-occurrence="1" x-occurrences="2"\w*'\w s|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H3068" x-lemma="יְהֹוָה" x-morph="He,Np" x-occurrence="1" x-occurrences="1" x-content="יְהוָ֑ה"\*\w Yahweh|x-occurrence="1" x-occurrences="2"\w*’\w s|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="m:H1004b" x-lemma="בַּיִת" x-morph="He,R:Ncmsc" x-occurrence="1" x-occurrences="1" x-content="מִ⁠בֵּ֣ית"\*\w temple|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
 \q2 \zaln-s |x-strong="d:H3548" x-lemma="כֹּהֵן" x-morph="He,Td:Ncmpa" x-occurrence="1" x-occurrences="1" x-content="הַ⁠כֹּ֣הֲנִ֔ים"\*\w so|x-occurrence="1" x-occurrences="1"\w*
 \w the|x-occurrence="1" x-occurrences="1"\w*
@@ -1363,8 +1363,7 @@
 
 
 \ts\*
-\q2
-\v 21 \q1 \zaln-s |x-strong="H3372" x-lemma="יָרֵא" x-morph="He,Vqj2fs" x-occurrence="1" x-occurrences="1" x-content="תִּֽירְאִ֖י"\*\w Do|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\q1 \v 21 \zaln-s |x-strong="H3372" x-lemma="יָרֵא" x-morph="He,Vqj2fs" x-occurrence="1" x-occurrences="1" x-content="תִּֽירְאִ֖י"\*\w Do|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="H0408" x-lemma="אַל" x-morph="He,Tn" x-occurrence="1" x-occurrences="1" x-content="אַל"\*\w not|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="H3372" x-lemma="יָרֵא" x-morph="He,Vqj2fs" x-occurrence="1" x-occurrences="1" x-content="תִּֽירְאִ֖י"\*\w be|x-occurrence="1" x-occurrences="2"\w*
 \w afraid|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
