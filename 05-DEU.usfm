@@ -22233,13 +22233,12 @@
 \w when|x-occurrence="2" x-occurrences="2"\w*
 \w you|x-occurrence="4" x-occurrences="4"\w*
 \w sell|x-occurrence="1" x-occurrences="1"\w*
-\w something|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*\zaln-e\*
+\w something|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*\zaln-e\*.
 \v 14 \zaln-s |x-strong="H3808" x-lemma="לֹא" x-morph="He,Tn" x-occurrence="1" x-occurrences="1" x-content="לֹא"\*\w or|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="H1961" x-lemma="הָיָה" x-morph="He,Vqi3ms" x-occurrence="1" x-occurrences="1" x-content="יִהְיֶ֥ה"\*\zaln-s |x-strong="l" x-lemma="" x-morph="He,R:Sp2ms" x-occurrence="1" x-occurrences="1" x-content="לְ⁠ךָ֛"\*\zaln-s |x-strong="b:H1004b" x-lemma="בַּיִת" x-morph="He,R:Ncmsc:Sp2ms" x-occurrence="1" x-occurrences="1" x-content="בְּ⁠בֵיתְ⁠ךָ֖"\*\w by|x-occurrence="1" x-occurrences="1"\w*
 \w having|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*\zaln-e\*
 \zaln-s |x-strong="H0374" x-lemma="אֵיפָה" x-morph="He,Ncfsa" x-occurrence="1" x-occurrences="1" x-content="אֵיפָ֣ה"\*\zaln-s |x-strong="H1419a" x-lemma="גָּדוֹל" x-morph="He,Aafsa" x-occurrence="1" x-occurrences="1" x-content="גְּדוֹלָ֖ה"\*\w one|x-occurrence="1" x-occurrences="1"\w*
-\w measuring|x-occurrence="1" x-occurrences="2"\w*
-\w cup|x-occurrence="1" x-occurrences="2"\w*
+\w measure|x-occurrence="1" x-occurrences="2"\w*
 \w which|x-occurrence="1" x-occurrences="2"\w*
 \w you|x-occurrence="1" x-occurrences="4"\w*
 \w use|x-occurrence="1" x-occurrences="2"\w*
@@ -22250,8 +22249,7 @@
 \zaln-s |x-strong="c:H0374" x-lemma="אֵיפָה" x-morph="He,C:Ncfsa" x-occurrence="1" x-occurrences="1" x-content="וְ⁠אֵיפָ֑ה"\*\zaln-s |x-strong="c:H6996a" x-lemma="קָטָן" x-morph="He,C:Aafsa" x-occurrence="1" x-occurrences="1" x-content="וּ⁠קְטַנָּֽה"\*\w and|x-occurrence="1" x-occurrences="1"\w*
 \w a|x-occurrence="1" x-occurrences="1"\w*
 \w different|x-occurrence="1" x-occurrences="1"\w*
-\w measuring|x-occurrence="2" x-occurrences="2"\w*
-\w cup|x-occurrence="2" x-occurrences="2"\w*
+\w measure|x-occurrence="2" x-occurrences="2"\w*
 \w which|x-occurrence="2" x-occurrences="2"\w*
 \w you|x-occurrence="3" x-occurrences="4"\w*
 \w use|x-occurrence="2" x-occurrences="2"\w*
@@ -22271,8 +22269,7 @@
 \zaln-s |x-strong="H0068" x-lemma="אֶבֶן" x-morph="He,Ncfsa" x-occurrence="1" x-occurrences="1" x-content="אֶ֣בֶן"\*\w weights|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="H0374" x-lemma="אֵיפָה" x-morph="He,Ncfsa" x-occurrence="1" x-occurrences="1" x-content="אֵיפָ֧ה"\*\w and|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="H8003" x-lemma="שָׁלֵם" x-morph="He,Aafsa" x-occurrence="1" x-occurrences="1" x-content="שְׁלֵמָ֛ה"\*\zaln-s |x-strong="c:H6664" x-lemma="צֶדֶק" x-morph="He,C:Ncmsa" x-occurrence="1" x-occurrences="1" x-content="וָ⁠צֶ֖דֶק"\*\zaln-s |x-strong="H1961" x-lemma="הָיָה" x-morph="He,Vqi3ms" x-occurrence="2" x-occurrences="2" x-content="יִֽהְיֶה"\*\zaln-s |x-strong="l" x-lemma="" x-morph="He,R:Sp2fs" x-occurrence="1" x-occurrences="1" x-content="לָּ֑⁠ךְ"\*\w correct|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*\zaln-e\*\zaln-e\*\zaln-e\*
-\zaln-s |x-strong="H0374" x-lemma="אֵיפָה" x-morph="He,Ncfsa" x-occurrence="1" x-occurrences="1" x-content="אֵיפָ֧ה"\*\w measuring|x-occurrence="1" x-occurrences="1"\w*
-\w cups|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
+\zaln-s |x-strong="H0374" x-lemma="אֵיפָה" x-morph="He,Ncfsa" x-occurrence="1" x-occurrences="1" x-content="אֵיפָ֧ה"\*\w measures|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
 \zaln-s |x-strong="H4616" x-lemma="מַעַן" x-morph="He,R" x-occurrence="1" x-occurrences="1" x-content="לְמַ֨עַן֙"\*\w in|x-occurrence="2" x-occurrences="3"\w*
 \w order|x-occurrence="1" x-occurrences="1"\w*
 \w that|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*
