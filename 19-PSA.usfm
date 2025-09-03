@@ -3828,25 +3828,31 @@
 \w me|x-occurrence="2" x-occurrences="2"\w*
 \w to|x-occurrence="1" x-occurrences="1"\w*
 \w do|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.
-\q1 \v 8 \zaln-s |x-strong="H7737b" x-lemma="שָׁוָה" x-morph="He,Vpp1cs" x-occurrence="1" x-occurrences="1" x-content="שִׁוִּ֬יתִי"\*\w I|x-occurrence="1" x-occurrences="1"\w*
-\w know|x-occurrence="1" x-occurrences="1"\w*
-\w that|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\q1 \v 8 \zaln-s |x-strong="H7737b" x-lemma="שָׁוָה" x-morph="He,Vpp1cs" x-occurrence="1" x-occurrences="1" x-content="שִׁוִּ֬יתִי"\*\w I|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*
+\w have|x-occurrence="1" x-occurrences="1"\w*
+\w chosen|x-occurrence="1" x-occurrences="1"\w*
+\w to|x-occurrence="1" x-occurrences="1"\w*
+\zaln-s |x-strong="H8548" x-lemma="תָּמִיד" x-morph="He,Ncmsa" x-occurrence="1" x-occurrences="1" x-content="תָמִ֑יד"\*\w always|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*
+\w think|x-occurrence="1" x-occurrences="1"\w*
+\w about|x-occurrence="1" x-occurrences="2"\w*
 \zaln-s |x-strong="H3068" x-lemma="יְהֹוָה" x-morph="He,Np" x-occurrence="1" x-occurrences="1" x-content="יְהוָ֣ה"\*\w Yahweh|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
-\zaln-s |x-strong="H8548" x-lemma="תָּמִיד" x-morph="He,Ncmsa" x-occurrence="1" x-occurrences="1" x-content="תָמִ֑יד"\*\w is|x-occurrence="1" x-occurrences="1"\w*
-\w always|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
-\zaln-s |x-strong="H3588a" x-lemma="כִּי" x-morph="He,C" x-occurrence="1" x-occurrences="1" x-content="כִּ֥י"\*\w with|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
-\zaln-s |x-strong="l:H5048" x-lemma="נֶגֶד" x-morph="He,R:R:Sp1cs" x-occurrence="1" x-occurrences="1" x-content="לְ⁠נֶגְדִּ֣⁠י"\*\w me|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*.
-\q \zaln-s |x-strong="H1077" x-lemma="בַּל" x-morph="He,Tn" x-occurrence="1" x-occurrences="1" x-content="בַּל"\*\w Nothing|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
-\zaln-s |x-strong="H4131" x-lemma="מוֹט" x-morph="He,VNi1cs" x-occurrence="1" x-occurrences="1" x-content="אֶמּֽוֹט"\*\w will|x-occurrence="1" x-occurrences="1"\w*
-\w take|x-occurrence="1" x-occurrences="1"\w*
-\w me|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*
-\zaln-s |x-strong="m:H3225" x-lemma="יָמִין" x-morph="He,R:Ncfsc:Sp1cs" x-occurrence="1" x-occurrences="1" x-content="מִֽ֝⁠ימִינִ֗⁠י"\*\w from|x-occurrence="1" x-occurrences="1"\w*
-\w his|x-occurrence="1" x-occurrences="1"\w*
-\w side|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.
+\w and|x-occurrence="1" x-occurrences="1"\w*
+\w because|x-occurrence="1" x-occurrences="1"\w*
+\w he|x-occurrence="1" x-occurrences="1"\w*
+\w is|x-occurrence="1" x-occurrences="1"\w*
+\w always|x-occurrence="2" x-occurrences="2"\w*
+\w with|x-occurrence="1" x-occurrences="1"\w*
+\zaln-s |x-strong="l:H5048" x-lemma="נֶגֶד" x-morph="He,R:R:Sp1cs" x-occurrence="1" x-occurrences="1" x-content="לְ⁠נֶגְדִּ֣⁠י"\*\w me|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
+\q \w I|x-occurrence="2" x-occurrences="2"\w*
+\zaln-s |x-strong="H4131" x-lemma="מוֹט" x-morph="He,VNi1cs" x-occurrence="1" x-occurrences="1" x-content="אֶמּֽוֹט"\*\w will|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\w not|x-occurrence="1" x-occurrences="1"\w*
+\w worry|x-occurrence="1" x-occurrences="1"\w*
+\w about|x-occurrence="2" x-occurrences="2"\w*
+\w anything|x-occurrence="1" x-occurrences="1"\w*.
 
 
 \ts\*
-\q1 \v 9 \zaln-s |x-strong="l:H3651c" x-lemma="כֵּן" x-morph="He,R:D" x-occurrence="1" x-occurrences="1" x-content="לָ⁠כֵ֤ן"\*\w Therefore|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\q1  \v 9 \zaln-s |x-strong="l:H3651c" x-lemma="כֵּן" x-morph="He,R:D" x-occurrence="1" x-occurrences="1" x-content="לָ⁠כֵ֤ן"\*\w Therefore|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="H8055" x-lemma="שָׂמַח" x-morph="He,Vqp3ms" x-occurrence="1" x-occurrences="1" x-content="שָׂמַ֣ח"\*\w I|x-occurrence="1" x-occurrences="3"\w*
 \w am|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*
 \zaln-s |x-strong="c:H1523" x-lemma="גִּיל" x-morph="He,C:Vqw3ms" x-occurrence="1" x-occurrences="1" x-content="וַ⁠יָּ֣גֶל"\*\w glad|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*;
