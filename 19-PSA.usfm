@@ -5579,18 +5579,32 @@
 \w now|x-occurrence="1" x-occurrences="1"\w*
 \w my|x-occurrence="1" x-occurrences="1"\w*
 \w subjects|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.
-\q1  \v 44 \zaln-s |x-strong="H5236" x-lemma="נֵכָר" x-morph="He,Ncmsa" x-occurrence="1" x-occurrences="1" x-content="נֵ֝כָ֗ר"\*\w When|x-occurrence="1" x-occurrences="1"\w*
-\w foreigners|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
-\zaln-s |x-strong="l:H8088b" x-lemma="שֵׁמַע" x-morph="He,R:Ncmsc" x-occurrence="1" x-occurrences="1" x-content="לְ⁠שֵׁ֣מַֽע"\*\zaln-s |x-strong="H0241" x-lemma="אֹזֶן" x-morph="He,Ncfsa" x-occurrence="1" x-occurrences="1" x-content="אֹ֭זֶן"\*\zaln-s |x-strong="H8085" x-lemma="שָׁמַע" x-morph="He,VNi3mp" x-occurrence="1" x-occurrences="1" x-content="יִשָּׁ֣מְעוּ"\*\w hear|x-occurrence="1" x-occurrences="1"\w*
-\w about|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*\zaln-e\*
-\zaln-s |x-strong="l" x-lemma="" x-morph="He,R:Sp1cs" x-occurrence="1" x-occurrences="1" x-content="לִ֑⁠י"\*\w me|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*,
-\zaln-s |x-strong="H3584" x-lemma="כָּחַשׁ" x-morph="He,Vpi3mp" x-occurrence="1" x-occurrences="1" x-content="יְכַחֲשׁוּ"\*\w they|x-occurrence="1" x-occurrences="2"\w*
-\w cringe|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
-\zaln-s |x-strong="H1121a" x-lemma="בֵּן" x-morph="He,Ncmpc" x-occurrence="1" x-occurrences="1" x-content="בְּנֵֽי"\*\w and|x-occurrence="1" x-occurrences="1"\w*
-\w they|x-occurrence="2" x-occurrences="2"\w*
-\w obey|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
-\zaln-s |x-strong="l" x-lemma="" x-morph="He,R:Sp1cs" x-occurrence="1" x-occurrences="1" x-content="לִֽ⁠י"\*\w me|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*.
-\q1 \v 45 \zaln-s |x-strong="H5236" x-lemma="נֵכָר" x-morph="He,Ncmsa" x-occurrence="1" x-occurrences="1" x-content="נֵכָ֥ר"\*\w They|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\q1  \v 44 \zaln-s |x-strong="l:H8088b" x-lemma="שֵׁמַע" x-morph="He,R:Ncmsc" x-occurrence="1" x-occurrences="1" x-content="לְ⁠שֵׁ֣מַֽע"\*\zaln-s |x-strong="H0241" x-lemma="אֹזֶן" x-morph="He,Ncfsa" x-occurrence="1" x-occurrences="1" x-content="אֹ֭זֶן"\*\w When|x-occurrence="1" x-occurrences="1"\w*
+\w they|x-occurrence="1" x-occurrences="2"\w*
+\w heard|x-occurrence="1" x-occurrences="1"\w*
+\w about|x-occurrence="1" x-occurrences="1"\w*
+\w what|x-occurrence="1" x-occurrences="1"\w*
+\w Yahweh|x-occurrence="1" x-occurrences="1"\w*
+\w enabled|x-occurrence="1" x-occurrences="1"\w*
+\w me|x-occurrence="1" x-occurrences="3"\w*
+\w to|x-occurrence="1" x-occurrences="2"\w*
+\w do|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*,
+\zaln-s |x-strong="H8085" x-lemma="שָׁמַע" x-morph="He,VNi3mp" x-occurrence="1" x-occurrences="1" x-content="יִשָּׁ֣מְעוּ"\*\w they|x-occurrence="2" x-occurrences="2"\w*
+\w obeyed|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="l" x-lemma="" x-morph="He,R:Sp1cs" x-occurrence="1" x-occurrences="1" x-content="לִ֑⁠י"\*\w me|x-occurrence="2" x-occurrences="3"\w*\zaln-e\*.
+\w Foreign|x-occurrence="1" x-occurrences="1"\w*
+\w rulers|x-occurrence="1" x-occurrences="1"\w*
+\w fearfully|x-occurrence="1" x-occurrences="1"\w*
+\w bow|x-occurrence="1" x-occurrences="1"\w*
+\w down|x-occurrence="1" x-occurrences="1"\w*
+\w in|x-occurrence="1" x-occurrences="1"\w*
+\w front|x-occurrence="1" x-occurrences="1"\w*
+\w of|x-occurrence="1" x-occurrences="1"\w*
+\w me|x-occurrence="3" x-occurrences="3"\w* {\w to|x-occurrence="2" x-occurrences="2"\w*
+\w show|x-occurrence="1" x-occurrences="1"\w*
+\w their|x-occurrence="1" x-occurrences="1"\w*
+\w submission|x-occurrence="1" x-occurrences="1"\w*}.
+\q1  \v 45 \zaln-s |x-strong="H5236" x-lemma="נֵכָר" x-morph="He,Ncmsa" x-occurrence="1" x-occurrences="1" x-content="נֵכָ֥ר"\*\w They|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="H5034b" x-lemma="נָבֵל" x-morph="He,Vqi3mp" x-occurrence="1" x-occurrences="1" x-content="יִבֹּ֑לוּ"\*\zaln-s |x-strong="c:H2727" x-lemma="חָרַג" x-morph="He,C:Vqi3mp" x-occurrence="1" x-occurrences="1" x-content="וְ֝⁠יַחְרְג֗וּ"\*\w are|x-occurrence="1" x-occurrences="1"\w*
 \w no|x-occurrence="1" x-occurrences="1"\w*
 \w longer|x-occurrence="1" x-occurrences="1"\w*
