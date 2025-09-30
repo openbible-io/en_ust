@@ -5604,16 +5604,16 @@
 \w show|x-occurrence="1" x-occurrences="1"\w*
 \w their|x-occurrence="1" x-occurrences="1"\w*
 \w submission|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*}.
-\q1  \v 45 \w I|x-occurrence="1" x-occurrences="1"\w*
+\q1  \v 45 \zaln-s |x-strong="H1121a" x-lemma="בֵּן" x-morph="He,Ncmpc" x-occurrence="1" x-occurrences="1" x-content="בְּנֵי"\*\zaln-s |x-strong="H5236" x-lemma="נֵכָר" x-morph="He,Ncmsa" x-occurrence="1" x-occurrences="1" x-content="נֵכָ֥ר"\*\w I|x-occurrence="1" x-occurrences="1"\w*
 \w defeat|x-occurrence="1" x-occurrences="1"\w*
 \w foreign|x-occurrence="1" x-occurrences="1"\w*
 \w armies|x-occurrence="1" x-occurrences="1"\w*
 \w that|x-occurrence="1" x-occurrences="3"\w*
 \w resist|x-occurrence="1" x-occurrences="1"\w*
-\zaln-s |x-strong="m:H4526" x-lemma="מִסְגֶּרֶת" x-morph="He,R:Ncfpc:Sp3mp" x-occurrence="1" x-occurrences="1" x-content="מִֽ⁠מִּסְגְּרֽוֹתֵי⁠הֶֽם"\*\w me|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
-\w so|x-occurrence="1" x-occurrences="1"\w*
+\w me|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*
+\zaln-s |x-strong="H5034b" x-lemma="נָבֵל" x-morph="He,Vqi3mp" x-occurrence="1" x-occurrences="1" x-content="יִבֹּ֑לוּ"\*\w so|x-occurrence="1" x-occurrences="1"\w*
 \w that|x-occurrence="2" x-occurrences="3"\w*
-\zaln-s |x-strong="m:H4526" x-lemma="מִסְגֶּרֶת" x-morph="He,R:Ncfpc:Sp3mp" x-occurrence="1" x-occurrences="1" x-content="מִֽ⁠מִּסְגְּרֽוֹתֵי⁠הֶֽם"\*\w they|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\w they|x-occurrence="1" x-occurrences="1"\w*
 \w become|x-occurrence="1" x-occurrences="1"\w*
 \w weak|x-occurrence="1" x-occurrences="1"\w*,
 \w like|x-occurrence="1" x-occurrences="1"\w*
@@ -5624,22 +5624,21 @@
 \w up|x-occurrence="1" x-occurrences="1"\w*
 \w in|x-occurrence="1" x-occurrences="1"\w*
 \w the|x-occurrence="1" x-occurrences="1"\w*
-\w sun|x-occurrence="1" x-occurrences="1"\w*.
-\zaln-s |x-strong="H5236" x-lemma="נֵכָר" x-morph="He,Ncmsa" x-occurrence="1" x-occurrences="1" x-content="נֵכָ֥ר"\*\w They|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\w sun|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.
+\zaln-s |x-strong="m:H4526" x-lemma="מִסְגֶּרֶת" x-morph="He,R:Ncfpc:Sp3mp" x-occurrence="1" x-occurrences="1" x-content="מִֽ⁠מִּסְגְּרֽוֹתֵי⁠הֶֽם"\*\w They|x-occurrence="1" x-occurrences="1"\w*
 \w surrender|x-occurrence="1" x-occurrences="1"\w*
-\zaln-s |x-strong="H1121a" x-lemma="בֵּן" x-morph="He,Ncmpc" x-occurrence="1" x-occurrences="1" x-content="בְּנֵי"\*\w and|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*
-\zaln-s |x-strong="m:H4526" x-lemma="מִסְגֶּרֶת" x-morph="He,R:Ncfpc:Sp3mp" x-occurrence="1" x-occurrences="1" x-content="מִֽ⁠מִּסְגְּרֽוֹתֵי⁠הֶֽם"\*\w come|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\w and|x-occurrence="1" x-occurrences="2"\w*
+\w come|x-occurrence="1" x-occurrences="1"\w*
 \w out|x-occurrence="1" x-occurrences="1"\w*
 \w of|x-occurrence="1" x-occurrences="1"\w*
-\zaln-s |x-strong="m:H4526" x-lemma="מִסְגֶּרֶת" x-morph="He,R:Ncfpc:Sp3mp" x-occurrence="1" x-occurrences="1" x-content="מִֽ⁠מִּסְגְּרֽוֹתֵי⁠הֶֽם"\*\w their|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
-\w cities|x-occurrence="1" x-occurrences="1"\w*
-\w with|x-occurrence="1" x-occurrences="2"\w*
-\w walls|x-occurrence="1" x-occurrences="1"\w*
-\w shaking|x-occurrence="1" x-occurrences="1"\w*
-\w with|x-occurrence="2" x-occurrences="2"\w*
+\w their|x-occurrence="1" x-occurrences="1"\w*
+\w walled|x-occurrence="1" x-occurrences="1"\w*
+\w cities|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="c:H2727" x-lemma="חָרַג" x-morph="He,C:Vqi3mp" x-occurrence="1" x-occurrences="1" x-content="וְ֝⁠יַחְרְג֗וּ"\*\w shaking|x-occurrence="1" x-occurrences="1"\w*
+\w with|x-occurrence="1" x-occurrences="1"\w*
 \w weakness|x-occurrence="1" x-occurrences="1"\w*
 \w and|x-occurrence="2" x-occurrences="2"\w*
-\w fear|x-occurrence="1" x-occurrences="1"\w*.
+\w fear|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.
 
 \ts\*
 \q1  \v 46 \zaln-s |x-strong="H3068" x-lemma="יְהֹוָה" x-morph="He,Np" x-occurrence="1" x-occurrences="1" x-content="יְ֭הוָה"\*\w Yahweh|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
