@@ -8040,8 +8040,8 @@
 \w it|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="l:H3068" x-lemma="יְהֹוָה" x-morph="He,R:Np" x-occurrence="1" x-occurrences="1" x-content="לַֽ֭⁠יהוָה"\*\w belongs|x-occurrence="1" x-occurrences="1"\w*
 \w to|x-occurrence="1" x-occurrences="2"\w*
-\w Yahweh|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*;
-\q2 \zaln-s |x-strong="c:H3427" x-lemma="יָשַׁב" x-morph="He,C:Vqrmpc" x-occurrence="1" x-occurrences="1" x-content="וְ⁠יֹ֣שְׁבֵי"\*\w all|x-occurrence="1" x-occurrences="1"\w*
+\w Yahweh|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.
+\q2 \zaln-s |x-strong="c:H3427" x-lemma="יָשַׁב" x-morph="He,C:Vqrmpc" x-occurrence="1" x-occurrences="1" x-content="וְ⁠יֹ֣שְׁבֵי"\*\w All|x-occurrence="1" x-occurrences="1"\w*
 \w the|x-occurrence="1" x-occurrences="2"\w*
 \w people|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="b" x-lemma="" x-morph="He,R:Sp3fs" x-occurrence="1" x-occurrences="1" x-content="בָֽ⁠הּ"\*\w in|x-occurrence="2" x-occurrences="2"\w*
@@ -8050,47 +8050,62 @@
 \zaln-s |x-strong="c:H3427" x-lemma="יָשַׁב" x-morph="He,C:Vqrmpc" x-occurrence="1" x-occurrences="1" x-content="וְ⁠יֹ֣שְׁבֵי"\*\w belong|x-occurrence="1" x-occurrences="1"\w*
 \w to|x-occurrence="2" x-occurrences="2"\w*
 \w him|x-occurrence="1" x-occurrences="1"\w*,
-\w too|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*;
-\q1  \v 2 \zaln-s |x-strong="H1931" x-lemma="הוּא" x-morph="He,Pp3ms" x-occurrence="1" x-occurrences="1" x-content="ה֭וּא"\*\w he|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
-\zaln-s |x-strong="H3559a" x-lemma="כּוּן" x-morph="He,Voi3ms:Sp3fs" x-occurrence="1" x-occurrences="1" x-content="יְכוֹנְנֶֽ⁠הָ"\*\w built|x-occurrence="1" x-occurrences="1"\w*
-\w the|x-occurrence="1" x-occurrences="3"\w*
-\w land|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
-\zaln-s |x-strong="c:H5921a" x-lemma="עַל" x-morph="He,C:R" x-occurrence="1" x-occurrences="1" x-content="וְ⁠עַל"\*\w on|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
-\zaln-s |x-strong="H3245" x-lemma="יָסַד" x-morph="He,Vqp3ms:Sp3fs" x-occurrence="1" x-occurrences="1" x-content="יְסָדָ֑⁠הּ"\*\zaln-s |x-strong="H5104" x-lemma="נָהָר" x-morph="He,Ncmpa" x-occurrence="1" x-occurrences="1" x-content="נְ֝הָר֗וֹת"\*\w the|x-occurrence="2" x-occurrences="3"\w*
-\w water|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*\zaln-e\*,
-\q2 \zaln-s |x-strong="H5921a" x-lemma="עַל" x-morph="He,R" x-occurrence="1" x-occurrences="1" x-content="עַל"\*\w above|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
-\zaln-s |x-strong="H3220" x-lemma="יָם" x-morph="He,Ncmpa" x-occurrence="1" x-occurrences="1" x-content="יַמִּ֣ים"\*\w the|x-occurrence="3" x-occurrences="3"\w*
-\w water|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*
-\zaln-s |x-strong="H3588a" x-lemma="כִּי" x-morph="He,C" x-occurrence="1" x-occurrences="1" x-content="כִּי"\*\w that|x-occurrence="1" x-occurrences="1"\w*
-\w is|x-occurrence="1" x-occurrences="1"\w*
+\w too|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
+\q1  \v 2 \zaln-s |x-strong="H3588a" x-lemma="כִּי" x-morph="He,C" x-occurrence="1" x-occurrences="1" x-content="כִּי"\*\w because|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H1931" x-lemma="הוּא" x-morph="He,Pp3ms" x-occurrence="1" x-occurrences="1" x-content="ה֭וּא"\*\w he|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H3245" x-lemma="יָסַד" x-morph="He,Vqp3ms:Sp3fs" x-occurrence="1" x-occurrences="1" x-content="יְסָדָ֑⁠הּ"\*\zaln-s |x-strong="H3559a" x-lemma="כּוּן" x-morph="He,Voi3ms:Sp3fs" x-occurrence="1" x-occurrences="1" x-content="יְכוֹנְנֶֽ⁠הָ"\*\w caused|x-occurrence="1" x-occurrences="1"\w*
+\w the|x-occurrence="1" x-occurrences="5"\w*
+\w ground|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*
+\zaln-s |x-strong="H5921a" x-lemma="עַל" x-morph="He,R" x-occurrence="1" x-occurrences="1" x-content="עַל"\*\w to|x-occurrence="1" x-occurrences="1"\w*
+\w be|x-occurrence="1" x-occurrences="1"\w*
+\w above|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*
+\zaln-s |x-strong="H3220" x-lemma="יָם" x-morph="He,Ncmpa" x-occurrence="1" x-occurrences="1" x-content="יַמִּ֣ים"\*\w the|x-occurrence="2" x-occurrences="5"\w*
+\w water|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*,
+\q2 \zaln-s |x-strong="c:H5921a" x-lemma="עַל" x-morph="He,C:R" x-occurrence="1" x-occurrences="1" x-content="וְ⁠עַל"\*\w above|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*
+\zaln-s |x-strong="H5104" x-lemma="נָהָר" x-morph="He,Ncmpa" x-occurrence="1" x-occurrences="1" x-content="נְ֝הָר֗וֹת"\*\w the|x-occurrence="3" x-occurrences="5"\w*
+\w water|x-occurrence="2" x-occurrences="2"\w*
+\w that|x-occurrence="1" x-occurrences="1"\w*
+\w was|x-occurrence="1" x-occurrences="1"\w*
 \w deep|x-occurrence="1" x-occurrences="1"\w*
-\w below|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.
+\w below|x-occurrence="1" x-occurrences="1"\w*
+\w the|x-occurrence="4" x-occurrences="5"\w*
+\w surface|x-occurrence="1" x-occurrences="1"\w*
+\w of|x-occurrence="1" x-occurrences="1"\w*
+\w the|x-occurrence="5" x-occurrences="5"\w*
+\w earth|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.
 
 
 \ts\*
-\q1 \v 3 \zaln-s |x-strong="c:H4310" x-lemma="מִי" x-morph="He,C:Ti" x-occurrence="1" x-occurrences="1" x-content="וּ⁠מִי"\*\w Who|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
-\zaln-s |x-strong="H4310" x-lemma="מִי" x-morph="He,Ti" x-occurrence="1" x-occurrences="1" x-content="מִֽי"\*\w will|x-occurrence="1" x-occurrences="1"\w*
-\w be|x-occurrence="1" x-occurrences="1"\w*
-\w allowed|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
-\zaln-s |x-strong="H5927" x-lemma="עָלָה" x-morph="He,Vqi3ms" x-occurrence="1" x-occurrences="1" x-content="יַעֲלֶ֥ה"\*\w to|x-occurrence="1" x-occurrences="2"\w*
+\q1  \v 3 \zaln-s |x-strong="H4310" x-lemma="מִי" x-morph="He,Ti" x-occurrence="1" x-occurrences="1" x-content="מִֽי"\*\w This|x-occurrence="1" x-occurrences="1"\w*
+\w is|x-occurrence="1" x-occurrences="1"\w*
+\w the|x-occurrence="1" x-occurrences="1"\w*
+\w type|x-occurrence="1" x-occurrences="1"\w*
+\w of|x-occurrence="1" x-occurrences="1"\w*
+\w person|x-occurrence="1" x-occurrences="1"\w*
+\w who|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H3068" x-lemma="יְהֹוָה" x-morph="He,Np" x-occurrence="1" x-occurrences="1" x-content="יְהוָ֑ה"\*\w Yahweh|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H5927" x-lemma="עָלָה" x-morph="He,Vqi3ms" x-occurrence="1" x-occurrences="1" x-content="יַעֲלֶ֥ה"\*\w will|x-occurrence="1" x-occurrences="1"\w*
+\w allow|x-occurrence="1" x-occurrences="1"\w*
+\w to|x-occurrence="1" x-occurrences="2"\w*
 \w go|x-occurrence="1" x-occurrences="1"\w*
 \w up|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
-\zaln-s |x-strong="b:H2022" x-lemma="הַר" x-morph="He,R:Ncmsc" x-occurrence="1" x-occurrences="1" x-content="בְ⁠הַר"\*\w onto|x-occurrence="1" x-occurrences="1"\w*
+\zaln-s |x-strong="b:H2022" x-lemma="הַר" x-morph="He,R:Ncmsc" x-occurrence="1" x-occurrences="1" x-content="בְ⁠הַר"\*\w onto|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H3068" x-lemma="יְהֹוָה" x-morph="He,Np" x-occurrence="1" x-occurrences="1" x-content="יְהוָ֑ה"\*\w his|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*
+\zaln-s |x-strong="b:H2022" x-lemma="הַר" x-morph="He,R:Ncmsc" x-occurrence="1" x-occurrences="1" x-content="בְ⁠הַר"\*\w mountain|x-occurrence="1" x-occurrences="1"\w*,
 \w Mount|x-occurrence="1" x-occurrences="1"\w*
-\w Zion|x-occurrence="1" x-occurrences="1"\w*
-\w in|x-occurrence="1" x-occurrences="3"\w*
-\w Jerusalem|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
-\q2 \zaln-s |x-strong="b:H4725" x-lemma="מָקוֹם" x-morph="He,R:Ncmsc" x-occurrence="1" x-occurrences="1" x-content="בִּ⁠מְק֥וֹם"\*\w in|x-occurrence="2" x-occurrences="3"\w*
+\w Zion|x-occurrence="1" x-occurrences="1"\w*\zaln-e\* {\zaln-s |x-strong="b:H2022" x-lemma="הַר" x-morph="He,R:Ncmsc" x-occurrence="1" x-occurrences="1" x-content="בְ⁠הַר"\*\w in|x-occurrence="1" x-occurrences="3"\w*
+\w Jerusalem|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*},
+\q2 \zaln-s |x-strong="c:H4310" x-lemma="מִי" x-morph="He,C:Ti" x-occurrence="1" x-occurrences="1" x-content="וּ⁠מִי"\*\w in|x-occurrence="2" x-occurrences="3"\w*
 \w order|x-occurrence="1" x-occurrences="1"\w*
-\w to|x-occurrence="2" x-occurrences="2"\w*
-\w stand|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
-\zaln-s |x-strong="H6965b" x-lemma="קוּם" x-morph="He,Vqi3ms" x-occurrence="1" x-occurrences="1" x-content="יָ֝קוּם"\*\w and|x-occurrence="1" x-occurrences="1"\w*
-\w worship|x-occurrence="1" x-occurrences="1"\w*
-\w in|x-occurrence="3" x-occurrences="3"\w*\zaln-e\*
-\zaln-s |x-strong="H3068" x-lemma="יְהֹוָה" x-morph="He,Np" x-occurrence="1" x-occurrences="1" x-content="יְהוָ֑ה"\*\w Yahweh|x-occurrence="1" x-occurrences="1"\w*’\w s|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
-\zaln-s |x-strong="H6944" x-lemma="קֹדֶשׁ" x-morph="He,Ncmsc:Sp3ms" x-occurrence="1" x-occurrences="1" x-content="קָדְשֽׁ⁠וֹ"\*\w holy|x-occurrence="1" x-occurrences="1"\w*
-\w temple|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*?
-\q1 \v 4 \zaln-s |x-strong="H5355a" x-lemma="נָקִי" x-morph="He,Aamsc" x-occurrence="1" x-occurrences="1" x-content="נְקִ֥י"\*\zaln-s |x-strong="H3824" x-lemma="לֵבָב" x-morph="He,Ncmsa" x-occurrence="1" x-occurrences="1" x-content="לֵ֫בָ֥ב"\*\w Only|x-occurrence="1" x-occurrences="1"\w*
+\w to|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*
+\zaln-s |x-strong="H6965b" x-lemma="קוּם" x-morph="He,Vqi3ms" x-occurrence="1" x-occurrences="1" x-content="יָ֝קוּם"\*\w stand|x-occurrence="1" x-occurrences="1"\w*\zaln-e\* {\zaln-s |x-strong="H6965b" x-lemma="קוּם" x-morph="He,Vqi3ms" x-occurrence="1" x-occurrences="1" x-content="יָ֝קוּם"\*\w and|x-occurrence="1" x-occurrences="1"\w*
+\w worship|x-occurrence="1" x-occurrences="1"\w*}
+\w him|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="b:H4725" x-lemma="מָקוֹם" x-morph="He,R:Ncmsc" x-occurrence="1" x-occurrences="1" x-content="בִּ⁠מְק֥וֹם"\*\w in|x-occurrence="3" x-occurrences="3"\w*\zaln-e\*
+\zaln-s |x-strong="H6944" x-lemma="קֹדֶשׁ" x-morph="He,Ncmsc:Sp3ms" x-occurrence="1" x-occurrences="1" x-content="קָדְשֽׁ⁠וֹ"\*\w his|x-occurrence="2" x-occurrences="2"\w*
+\w holy|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="b:H4725" x-lemma="מָקוֹם" x-morph="He,R:Ncmsc" x-occurrence="1" x-occurrences="1" x-content="בִּ⁠מְק֥וֹם"\*\w temple|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.
+\q1  \v 4 \zaln-s |x-strong="H5355a" x-lemma="נָקִי" x-morph="He,Aamsc" x-occurrence="1" x-occurrences="1" x-content="נְקִ֥י"\*\zaln-s |x-strong="H3824" x-lemma="לֵבָב" x-morph="He,Ncmsa" x-occurrence="1" x-occurrences="1" x-content="לֵ֫בָ֥ב"\*\w Only|x-occurrence="1" x-occurrences="1"\w*
 \w those|x-occurrence="1" x-occurrences="1"\w*
 \w whose|x-occurrence="1" x-occurrences="1"\w*
 \w actions|x-occurrence="1" x-occurrences="1"\w*
