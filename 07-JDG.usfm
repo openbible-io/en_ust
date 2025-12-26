@@ -5631,8 +5631,7 @@
 \w are|x-occurrence="2" x-occurrences="2"\w*}
 \w dividing|x-occurrence="1" x-occurrences="1"\w*
 \w up|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*
-\q2
-\zaln-s |x-strong="H7998" x-lemma="שָׁלָל" x-morph="He,Ncmsa" x-occurrence="1" x-occurrences="1" x-content="שָׁלָ֗ל"\*\w the|x-occurrence="1" x-occurrences="4"\w*
+\q2 \zaln-s |x-strong="H7998" x-lemma="שָׁלָל" x-morph="He,Ncmsa" x-occurrence="1" x-occurrences="1" x-content="שָׁלָ֗ל"\*\w the|x-occurrence="1" x-occurrences="4"\w*
 \w things|x-occurrence="1" x-occurrences="1"\w*
 \w and|x-occurrence="2" x-occurrences="3"\w*
 \w the|x-occurrence="2" x-occurrences="4"\w*
@@ -17474,7 +17473,8 @@
 \zaln-s |x-strong="H0376" x-lemma="אִישׁ" x-morph="He,Ncmsa" x-occurrence="1" x-occurrences="1" x-content="אִֽישׁ"\*\w men|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.”
 \m
 
-\ts\* \v 17 \zaln-s |x-strong="c:H1961" x-lemma="הָיָה" x-morph="He,C:Vqw3ms" x-occurrence="1" x-occurrences="1" x-content="וַֽ⁠יְהִי֙"\*\w After|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\ts\*
+\v 17 \zaln-s |x-strong="c:H1961" x-lemma="הָיָה" x-morph="He,C:Vqw3ms" x-occurrence="1" x-occurrences="1" x-content="וַֽ⁠יְהִי֙"\*\w After|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="k:H3615" x-lemma="כָּלָה" x-morph="He,R:Vpc:Sp3ms" x-occurrence="1" x-occurrences="1" x-content="כְּ⁠כַלֹּת֣⁠וֹ"\*\w Samson|x-occurrence="1" x-occurrences="1"\w*
 \w finished|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="l:H1696" x-lemma="דָבַר" x-morph="He,R:Vpc" x-occurrence="1" x-occurrences="1" x-content="לְ⁠דַבֵּ֔ר"\*\w speaking|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
