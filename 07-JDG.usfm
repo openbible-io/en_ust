@@ -5170,7 +5170,7 @@
 \w fight|x-occurrence="1" x-occurrences="2"\w*
 \w against|x-occurrence="1" x-occurrences="1"\w*
 \w Sisera|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*}.
-\q2 “\zaln-s |x-strong="H0836" x-lemma="אָשֵׁר" x-morph="He,Np" x-occurrence="1" x-occurrences="1" x-content="אָשֵׁ֗ר"\*\w Similarly|x-occurrence="1" x-occurrences="1"\w*,
+\q2 \zaln-s |x-strong="H0836" x-lemma="אָשֵׁר" x-morph="He,Np" x-occurrence="1" x-occurrences="1" x-content="אָשֵׁ֗ר"\*\w Similarly|x-occurrence="1" x-occurrences="1"\w*,
 \w the|x-occurrence="8" x-occurrences="10"\w*
 \w men|x-occurrence="3" x-occurrences="3"\w*
 \w of|x-occurrence="5" x-occurrences="6"\w*
@@ -6148,8 +6148,7 @@
 \w clan|x-occurrence="1" x-occurrences="1"\w*
 \w of|x-occurrence="2" x-occurrences="3"\w*
 \w Abiezer|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*.
-\zaln-s |x-strong="H1121a" x-lemma="בֵּן" x-morph="He,Ncmsc:Sp3ms" x-occurrence="1" x-occurrences="1" x-content="בְּנ֗⁠וֹ"\*\w Joash|x-occurrence="2" x-occurrences="2"\w*’
-\w s|x-occurrence="1" x-occurrences="1"\w*
+\zaln-s |x-strong="H1121a" x-lemma="בֵּן" x-morph="He,Ncmsc:Sp3ms" x-occurrence="1" x-occurrences="1" x-content="בְּנ֗⁠וֹ"\*\w Joash|x-occurrence="2" x-occurrences="2"\w*’\w s|x-occurrence="1" x-occurrences="1"\w*
 \w son|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="c:H1439" x-lemma="גִּדְעוֹן" x-morph="He,C:Np" x-occurrence="1" x-occurrences="1" x-content="וְ⁠גִדְע֣וֹן"\*\w Gideon|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="H2251" x-lemma="חָבַט" x-morph="He,Vqrmsa" x-occurrence="1" x-occurrences="1" x-content="חֹבֵ֤ט"\*\w was|x-occurrence="2" x-occurrences="4"\w*
