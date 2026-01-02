@@ -14097,6 +14097,7 @@
 \w what|x-occurrence="2" x-occurrences="2"\w*
 \w is|x-occurrence="2" x-occurrences="2"\w*
 \w wrong|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*\zaln-e\*.’”
+
 \m
 \v 28 \zaln-s |x-strong="c:H3808" x-lemma="לֹא" x-morph="He,C:Tn" x-occurrence="1" x-occurrences="1" x-content="וְ⁠לֹ֣א"\*\w But|x-occurrence="1" x-occurrences="1"\w*
 \w even|x-occurrence="1" x-occurrences="1"\w*
@@ -16556,7 +16557,9 @@
 \zaln-s |x-strong="c:m:H5794" x-lemma="עַז" x-morph="He,C:R:Aamsa" x-occurrence="1" x-occurrences="1" x-content="וּ⁠מֵ⁠עַ֖ז"\*\w of|x-occurrence="2" x-occurrences="2"\w*
 \w something|x-occurrence="2" x-occurrences="2"\w*
 \w strong|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.”
-\m \zaln-s |x-strong="H3201" x-lemma="יָכֹל" x-morph="He,Vqp3cp" x-occurrence="1" x-occurrences="1" x-content="יָכְל֛וּ"\*\w They|x-occurrence="1" x-occurrences="1"\w*
+
+\m
+\zaln-s |x-strong="H3201" x-lemma="יָכֹל" x-morph="He,Vqp3cp" x-occurrence="1" x-occurrences="1" x-content="יָכְל֛וּ"\*\w They|x-occurrence="1" x-occurrences="1"\w*
 \w tried|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="H7969" x-lemma="שָׁלוֹשׁ" x-morph="He,Acmsc" x-occurrence="1" x-occurrences="1" x-content="שְׁלֹ֥שֶׁת"\*\w for|x-occurrence="1" x-occurrences="1"\w*
 \w three|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
@@ -17469,9 +17472,9 @@
 \w killed|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="H0505" x-lemma="אֶלֶף" x-morph="He,Acbsa" x-occurrence="1" x-occurrences="1" x-content="אֶ֥לֶף"\*\w 1|x-occurrence="1" x-occurrences="1"\w*,\w 000|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="H0376" x-lemma="אִישׁ" x-morph="He,Ncmsa" x-occurrence="1" x-occurrences="1" x-content="אִֽישׁ"\*\w men|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.”
-\m
 
 \ts\*
+\m
 \v 17 \zaln-s |x-strong="c:H1961" x-lemma="הָיָה" x-morph="He,C:Vqw3ms" x-occurrence="1" x-occurrences="1" x-content="וַֽ⁠יְהִי֙"\*\w After|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="k:H3615" x-lemma="כָּלָה" x-morph="He,R:Vpc:Sp3ms" x-occurrence="1" x-occurrences="1" x-content="כְּ⁠כַלֹּת֣⁠וֹ"\*\w Samson|x-occurrence="1" x-occurrences="1"\w*
 \w finished|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
