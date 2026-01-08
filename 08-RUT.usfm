@@ -423,7 +423,7 @@
 \w to|x-occurrence="1" x-occurrences="3"\w*
 \w me|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*\zaln-e\*\zaln-e\*\zaln-e\*,
 \zaln-s |x-strong="H3588a" x-lemma="כִּי" x-morph="He,C" x-occurrence="1" x-occurrences="2" x-content="כִּֽי"\*\zaln-s |x-strong="H4843" x-lemma="מָרַר" x-morph="He,Vqp3ms" x-occurrence="1" x-occurrences="1" x-content="מַר"\*\w causing|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*
-\zaln-s |x-strong="l" x-morph="He,R:Sp1cs" x-occurrence="1" x-occurrences="1" x-content="לִ֤⁠י"\*\w me|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*
+\zaln-s |x-strong="l" x-lemma="" x-morph="He,R:Sp1cs" x-occurrence="1" x-occurrences="1" x-content="לִ֤⁠י"\*\w me|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*
 \zaln-s |x-strong="H3588a" x-lemma="כִּי" x-morph="He,C" x-occurrence="1" x-occurrences="2" x-content="כִּֽי"\*\zaln-s |x-strong="H4843" x-lemma="מָרַר" x-morph="He,Vqp3ms" x-occurrence="1" x-occurrences="1" x-content="מַר"\*\w to|x-occurrence="2" x-occurrences="3"\w*
 \w grieve|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*
 \zaln-s |x-strong="H3966" x-lemma="מְאֹד" x-morph="He,D" x-occurrence="1" x-occurrences="1" x-content="מְאֹד֙"\*\w very|x-occurrence="2" x-occurrences="2"\w*
@@ -1497,7 +1497,7 @@
 \zaln-s |x-strong="H1692" x-lemma="דָּבַק" x-morph="He,Vqi2fs:Sn" x-occurrence="1" x-occurrences="1" x-content="תִּדְבָּקִ֔י⁠ן"\*\w to|x-occurrence="1" x-occurrences="1"\w*
 \w stay|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="H5973a" x-lemma="עִם" x-morph="He,R" x-occurrence="1" x-occurrences="1" x-content="עִם"\*\w with|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
-\zaln-s |x-strong="H0834a" x-lemma="אֲשֶׁר" x-morph="He,Tr" x-occurrence="1" x-occurrences="2" x-content="אֲשֶׁר"\*\zaln-s |x-strong="l" x-morph="He,R:Sp1cs" x-occurrence="1" x-occurrences="1" x-content="לִ⁠י֙"\*\w his|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*\zaln-e\*
+\zaln-s |x-strong="H0834a" x-lemma="אֲשֶׁר" x-morph="He,Tr" x-occurrence="1" x-occurrences="2" x-content="אֲשֶׁר"\*\zaln-s |x-strong="l" x-lemma="" x-morph="He,R:Sp1cs" x-occurrence="1" x-occurrences="1" x-content="לִ⁠י֙"\*\w his|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*\zaln-e\*
 \zaln-s |x-strong="d:H5288" x-lemma="נַעַר" x-morph="He,Td:Ncmpa" x-occurrence="1" x-occurrences="1" x-content="הַ⁠נְּעָרִ֤ים"\*\w workers|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="H5704" x-lemma="עַד" x-morph="He,R" x-occurrence="1" x-occurrences="1" x-content="עַ֣ד"\*\zaln-s |x-strong="H0518a" x-lemma="אִם" x-morph="He,C" x-occurrence="1" x-occurrences="1" x-content="אִם"\*\zaln-s |x-strong="H3615" x-lemma="כָּלָה" x-morph="He,Vpp3cp" x-occurrence="1" x-occurrences="1" x-content="כִּלּ֔וּ"\*\w until|x-occurrence="1" x-occurrences="1"\w*
 \w they|x-occurrence="1" x-occurrences="1"\w*
@@ -1506,7 +1506,7 @@
 \zaln-s |x-strong="d:H7105a" x-lemma="קָצִיר" x-morph="He,Td:Ncmsa" x-occurrence="1" x-occurrences="1" x-content="הַ⁠קָּצִ֖יר"\*\w bringing|x-occurrence="1" x-occurrences="1"\w*
 \w in|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="H0853" x-lemma="אֵת" x-morph="He,To" x-occurrence="1" x-occurrences="1" x-content="אֵ֥ת"\*\zaln-s |x-strong="H3605" x-lemma="כֹּל" x-morph="He,Ncmsc" x-occurrence="1" x-occurrences="1" x-content="כָּל"\*\w all|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*
-\zaln-s |x-strong="H0834a" x-lemma="אֲשֶׁר" x-morph="He,Tr" x-occurrence="2" x-occurrences="2" x-content="אֲשֶׁר"\*\zaln-s |x-strong="l" x-morph="He,R:Sp1cs" x-occurrence="1" x-occurrences="1" x-content="לִֽ⁠י"\*\w his|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*\zaln-e\*
+\zaln-s |x-strong="H0834a" x-lemma="אֲשֶׁר" x-morph="He,Tr" x-occurrence="2" x-occurrences="2" x-content="אֲשֶׁר"\*\zaln-s |x-strong="l" x-lemma="" x-morph="He,R:Sp1cs" x-occurrence="1" x-occurrences="1" x-content="לִֽ⁠י"\*\w his|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*\zaln-e\*
 \zaln-s |x-strong="d:H7105a" x-lemma="קָצִיר" x-morph="He,Td:Ncmsa" x-occurrence="1" x-occurrences="1" x-content="הַ⁠קָּצִ֖יר"\*\w grain|x-occurrence="1" x-occurrences="1"\w*
 \w from|x-occurrence="2" x-occurrences="2"\w*
 \w the|x-occurrence="2" x-occurrences="2"\w*
