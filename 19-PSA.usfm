@@ -10126,20 +10126,21 @@
 \w I|x-occurrence="3" x-occurrences="3"\w*
 \w became|x-occurrence="1" x-occurrences="1"\w*
 \w afraid|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.
-\q1 \v 8 {\w Then|x-occurrence="1" x-occurrences="1"\w*}
+\q1 \v 8 {\zaln-s |x-strong="H0413" x-lemma="אֵל" x-morph="He,R:Sp2ms" x-occurrence="1" x-occurrences="1" x-content="אֵלֶ֣י⁠ךָ"\*\w Then|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*}
 \zaln-s |x-strong="H7121" x-lemma="קָרָא" x-morph="He,Vqi1cs" x-occurrence="1" x-occurrences="1" x-content="אֶקְרָ֑א"\*\w I|x-occurrence="1" x-occurrences="2"\w*
 \w called|x-occurrence="1" x-occurrences="1"\w*
 \w out|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="H0413" x-lemma="אֵל" x-morph="He,R:Sp2ms" x-occurrence="1" x-occurrences="1" x-content="אֵלֶ֣י⁠ךָ"\*\w to|x-occurrence="1" x-occurrences="2"\w*
 \w you|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*,
-\zaln-s |x-strong="H3068" x-lemma="יְהֹוָה" x-morph="He,Np" x-occurrence="1" x-occurrences="1" x-content="יְהוָ֣ה"\*\w and|x-occurrence="1" x-occurrences="1"\w*
-\w I|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*
-\zaln-s |x-strong="H2603a" x-lemma="חָנַן" x-morph="He,Vti1cs" x-occurrence="1" x-occurrences="1" x-content="אֶתְחַנָּֽן"\*\w pleaded|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
-\zaln-s |x-strong="H0136" x-lemma="אֲדֹנָי" x-morph="He,Ncmpc:Sp1cs" x-occurrence="1" x-occurrences="1" x-content="אֲ֝דֹנָ֗⁠י"\*\w for|x-occurrence="1" x-occurrences="1"\w*
-\w you|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*
-\zaln-s |x-strong="c:H0413" x-lemma="אֵל" x-morph="He,C:R" x-occurrence="1" x-occurrences="1" x-content="וְ⁠אֶל"\*\w to|x-occurrence="2" x-occurrences="2"\w*
+\w Yahweh|x-occurrence="1" x-occurrences="1"\w*,
+\w and|x-occurrence="1" x-occurrences="1"\w*
+\w I|x-occurrence="2" x-occurrences="2"\w*
+\w pleaded|x-occurrence="1" x-occurrences="1"\w*
+\w for|x-occurrence="1" x-occurrences="1"\w*
+\w you|x-occurrence="2" x-occurrences="2"\w*
+\w to|x-occurrence="2" x-occurrences="2"\w*
 \w help|x-occurrence="1" x-occurrences="1"\w*
-\w me|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.
+\w me|x-occurrence="1" x-occurrences="1"\w*.
 
 \ts\*
 \q1  \v 9 \zaln-s |x-strong="H4100" x-lemma="מָה" x-morph="He,Ti" x-occurrence="1" x-occurrences="1" x-content="מַה"\*\w I|x-occurrence="1" x-occurrences="6"\w*
