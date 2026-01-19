@@ -10363,26 +10363,32 @@
 \w me|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*.
 
 \ts\*
-\q1  \v 3 \zaln-s |x-strong="H3588a" x-lemma="כִּי" x-morph="He,C" x-occurrence="1" x-occurrences="1" x-content="כִּֽי"\*\w Yes|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
+\q1  \v 3 {\zaln-s |x-strong="H3588a" x-lemma="כִּי" x-morph="He,C" x-occurrence="1" x-occurrences="1" x-content="כִּֽי"\*\w Yes|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,}
 \zaln-s |x-strong="H8034" x-lemma="שֵׁם" x-morph="He,Ncmsc:Sp2ms" x-occurrence="1" x-occurrences="1" x-content="שִׁ֝מְ⁠ךָ֗"\*\w you|x-occurrence="1" x-occurrences="2"\w*
-\w are|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
-\zaln-s |x-strong="H5553" x-lemma="סֶלַע" x-morph="He,Ncmsc:Sp1cs" x-occurrence="1" x-occurrences="1" x-content="סַלְעִ֣⁠י"\*\w like|x-occurrence="1" x-occurrences="1"\w*
-\w my|x-occurrence="1" x-occurrences="2"\w*
-\w huge|x-occurrence="1" x-occurrences="1"\w*
+\w are|x-occurrence="1" x-occurrences="1"\w*\zaln-e\* {\zaln-s |x-strong="H5553" x-lemma="סֶלַע" x-morph="He,Ncmsc:Sp1cs" x-occurrence="1" x-occurrences="1" x-content="סַלְעִ֣⁠י"\*\w like|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*}
+\w a|x-occurrence="1" x-occurrences="2"\w*
+\zaln-s |x-strong="H5553" x-lemma="סֶלַע" x-morph="He,Ncmsc:Sp1cs" x-occurrence="1" x-occurrences="1" x-content="סַלְעִ֣⁠י"\*\w huge|x-occurrence="1" x-occurrences="1"\w*
 \w rock|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
-\zaln-s |x-strong="c:H4686b" x-lemma="מָצוּד" x-morph="He,C:Ncbsc:Sp1cs" x-occurrence="1" x-occurrences="1" x-content="וּ⁠מְצוּדָתִ֣⁠י"\*\w and|x-occurrence="1" x-occurrences="2"\w*
-\w my|x-occurrence="2" x-occurrences="2"\w*
-\w fort|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*;
+\zaln-s |x-strong="c:H4686b" x-lemma="מָצוּד" x-morph="He,C:Ncbsc:Sp1cs" x-occurrence="1" x-occurrences="1" x-content="וּ⁠מְצוּדָתִ֣⁠י"\*\w and|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*
+\w like|x-occurrence="2" x-occurrences="2"\w*
+\w a|x-occurrence="2" x-occurrences="2"\w*
+\w fortress|x-occurrence="1" x-occurrences="1"\w* {\w where|x-occurrence="1" x-occurrences="1"\w*
+\w I|x-occurrence="1" x-occurrences="2"\w*
+\w can|x-occurrence="1" x-occurrences="1"\w*
+\w go|x-occurrence="1" x-occurrences="1"\w*
+\w to|x-occurrence="1" x-occurrences="1"\w*
+\w be|x-occurrence="1" x-occurrences="1"\w*
+\w safe|x-occurrence="1" x-occurrences="1"\w*};
 \q2 \zaln-s |x-strong="c:H5095" x-lemma="נָהַל" x-morph="He,C:Vpi2ms:Sp1cs" x-occurrence="1" x-occurrences="1" x-content="וּֽ⁠תְנַהֲלֵֽ⁠נִי"\*\w guide|x-occurrence="1" x-occurrences="1"\w*
 \w me|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*
 \zaln-s |x-strong="H5148" x-lemma="נָחָה" x-morph="He,Vhi2ms:Sp1cs" x-occurrence="1" x-occurrences="1" x-content="תַּֽנְחֵ֥⁠נִי"\*\w and|x-occurrence="2" x-occurrences="2"\w*
 \w lead|x-occurrence="1" x-occurrences="1"\w*
 \w me|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*
 \zaln-s |x-strong="c:H4616" x-lemma="מַעַן" x-morph="He,C:R" x-occurrence="1" x-occurrences="1" x-content="וּ⁠לְמַ֥עַן"\*\w because|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
-\zaln-s |x-strong="H0859a" x-lemma="אַתָּה" x-morph="He,Pp2ms" x-occurrence="1" x-occurrences="1" x-content="אָ֑תָּה"\*\w I|x-occurrence="1" x-occurrences="1"\w*
+\zaln-s |x-strong="H0859a" x-lemma="אַתָּה" x-morph="He,Pp2ms" x-occurrence="1" x-occurrences="1" x-content="אָ֑תָּה"\*\w I|x-occurrence="2" x-occurrences="2"\w*
 \w worship|x-occurrence="1" x-occurrences="1"\w*
 \w you|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*.
-\q1 \v 4 \zaln-s |x-strong="H0859a" x-lemma="אַתָּה" x-morph="He,Pp2ms" x-occurrence="1" x-occurrences="1" x-content="אַ֝תָּה"\*\w You|x-occurrence="1" x-occurrences="1"\w*
+\q1  \v 4 \zaln-s |x-strong="H0859a" x-lemma="אַתָּה" x-morph="He,Pp2ms" x-occurrence="1" x-occurrences="1" x-content="אַ֝תָּה"\*\w You|x-occurrence="1" x-occurrences="1"\w*
 \w are|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="H3318" x-lemma="יָצָא" x-morph="He,Vhi2ms:Sp1cs" x-occurrence="1" x-occurrences="1" x-content="תּוֹצִיאֵ֗⁠נִי"\*\w the|x-occurrence="1" x-occurrences="2"\w*
 \w one|x-occurrence="1" x-occurrences="1"\w*
