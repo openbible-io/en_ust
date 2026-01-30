@@ -10571,13 +10571,13 @@
 \w who|x-occurrence="1" x-occurrences="1"\w*
 \w are|x-occurrence="1" x-occurrences="1"\w*
 \w dead|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.
-\q2 \w I|x-occurrence="1" x-occurrences="1"\w*
-\w am|x-occurrence="1" x-occurrences="1"\w* {\w as|x-occurrence="1" x-occurrences="2"\w*
-\w useless|x-occurrence="1" x-occurrences="1"\w*
-\w as|x-occurrence="2" x-occurrences="2"\w*}
-\w a|x-occurrence="1" x-occurrences="1"\w*
-\w broken|x-occurrence="1" x-occurrences="1"\w*
-\w pot|x-occurrence="1" x-occurrences="1"\w*.
+\q2 \zaln-s |x-strong="H1961" x-lemma="הָיָה" x-morph="He,Vqp1cs" x-occurrence="1" x-occurrences="1" x-content="הָ֝יִ֗יתִי"\*\w I|x-occurrence="1" x-occurrences="1"\w*
+\w am|x-occurrence="1" x-occurrences="1"\w*\zaln-e\* {\zaln-s |x-strong="k:H3627" x-lemma="כְּלִי" x-morph="He,R:Ncmsa" x-occurrence="1" x-occurrences="1" x-content="כִּ⁠כְלִ֥י"\*\w as|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*
+\zaln-s |x-strong="H0006" x-lemma="אָבַד" x-morph="He,Vqrmsa" x-occurrence="1" x-occurrences="1" x-content="אֹבֵֽד"\*\w useless|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="k:H3627" x-lemma="כְּלִי" x-morph="He,R:Ncmsa" x-occurrence="1" x-occurrences="1" x-content="כִּ⁠כְלִ֥י"\*\w as|x-occurrence="2" x-occurrences="2"\w*}
+\w a|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H0006" x-lemma="אָבַד" x-morph="He,Vqrmsa" x-occurrence="1" x-occurrences="1" x-content="אֹבֵֽד"\*\w broken|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="k:H3627" x-lemma="כְּלִי" x-morph="He,R:Ncmsa" x-occurrence="1" x-occurrences="1" x-content="כִּ⁠כְלִ֥י"\*\w pot|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.
 \q1  \v 13 \zaln-s |x-strong="H4032" x-lemma="מָגוֹר" x-morph="He,Ncmsa" x-occurrence="1" x-occurrences="1" x-content="מָג֪וֹר"\*\w There|x-occurrence="1" x-occurrences="1"\w*
 \w are|x-occurrence="1" x-occurrences="2"\w*
 \w terrifying|x-occurrence="1" x-occurrences="1"\w*
