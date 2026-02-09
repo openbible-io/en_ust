@@ -25665,7 +25665,7 @@
 \w a|x-occurrence="1" x-occurrences="2"\w*
 \w song|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*,
 \zaln-s |x-strong="H4210" x-lemma="מִזְמוֹר" x-morph="He,Ncmsa" x-occurrence="1" x-occurrences="1" x-content="מִזְמ֥וֹר"\*\w a|x-occurrence="2" x-occurrences="2"\w*
-\w psalm|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.{\zaln-s |x-strong="l:H5329" x-lemma="נָצַח" x-morph="He,Rd:Vprmsa" x-occurrence="1" x-occurrences="1" x-content="לַ⁠מְנַצֵּ֥ח"\*\w Here|x-occurrence="1" x-occurrences="1"\w*
+\w psalm|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*. {\zaln-s |x-strong="l:H5329" x-lemma="נָצַח" x-morph="He,Rd:Vprmsa" x-occurrence="1" x-occurrences="1" x-content="לַ⁠מְנַצֵּ֥ח"\*\w Here|x-occurrence="1" x-occurrences="1"\w*
 \w are|x-occurrence="1" x-occurrences="1"\w*
 \w the|x-occurrence="1" x-occurrences="2"\w*
 \w words|x-occurrence="1" x-occurrences="1"\w*}
@@ -26332,8 +26332,8 @@
 \w present|x-occurrence="1" x-occurrences="1"\w*
 \w in|x-occurrence="2" x-occurrences="2"\w*
 \w his|x-occurrence="3" x-occurrences="3"\w*
-\w sanctuary|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*
-\q1 \v 19 \zaln-s |x-strong="H1288" x-lemma="בָּרַךְ" x-morph="He,Vqsmsa" x-occurrence="1" x-occurrences="1" x-content="בָּ֤ר֣וּךְ"\*\w Praise|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\w sanctuary|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*.
+\q1  \v 19 \zaln-s |x-strong="H1288" x-lemma="בָּרַךְ" x-morph="He,Vqsmsa" x-occurrence="1" x-occurrences="1" x-content="בָּ֤ר֣וּךְ"\*\w Praise|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="H0136" x-lemma="אֲדֹנָי" x-morph="He,Ncmpc:Sp1cs" x-occurrence="1" x-occurrences="1" x-content="אֲדֹנָ⁠י֮"\*\w the|x-occurrence="1" x-occurrences="2"\w*
 \w Lord|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
 \zaln-s |x-strong="H6006" x-lemma="עָמַס" x-morph="He,Vqi3ms" x-occurrence="1" x-occurrences="1" x-content="יַֽעֲמָס"\*\w who|x-occurrence="1" x-occurrences="2"\w*
