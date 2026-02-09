@@ -850,15 +850,62 @@
 \w themselves|x-occurrence="1" x-occurrences="1"\w*
 \w became|x-occurrence="1" x-occurrences="1"\w*
 \w worthless|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*.
-\q1  \v 6 They should have said,
-\q2 ‘We need Yahweh. He is the one who brought us safely out of Egypt
-\q1 and led us through a desert plain where there were a lot of pits.
-\q2 We need Yahweh. He is the one who led us
-\q1 where there was no water and where it was very dangerous,
-\q2 through a land where no one lives or even travels.’
+\q1  \v 6 \zaln-s |x-strong="H0559" x-lemma="אָמַר" x-morph="He,Vqp3cp" x-occurrence="1" x-occurrences="1" x-content="אָמְר֔וּ"\*\w They|x-occurrence="1" x-occurrences="1"\w*
+\w did|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="c:H3808" x-lemma="לֹא" x-morph="He,C:Tn" x-occurrence="1" x-occurrences="1" x-content="וְ⁠לֹ֣א"\*\w not|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H0559" x-lemma="אָמַר" x-morph="He,Vqp3cp" x-occurrence="1" x-occurrences="1" x-content="אָמְר֔וּ"\*\w say|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
+\q2 ‘\zaln-s |x-strong="H0346" x-lemma="אַיֵּה" x-morph="He,Ti" x-occurrence="1" x-occurrences="1" x-content="אַיֵּ֣ה"\*\w We|x-occurrence="1" x-occurrences="1"\w*
+\w need|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H3068" x-lemma="יְהֹוָה" x-morph="He,Np" x-occurrence="1" x-occurrences="1" x-content="יְהוָ֔ה"\*\w Yahweh|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
+\zaln-s |x-strong="d:H5927" x-lemma="עָלָה" x-morph="He,Td:Vhrmsa" x-occurrence="1" x-occurrences="1" x-content="הַ⁠מַּעֲלֶ֥ה"\*\w who|x-occurrence="1" x-occurrences="1"\w*
+\w brought|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H0853" x-lemma="אֵת" x-morph="He,To:Sp1cp" x-occurrence="1" x-occurrences="1" x-content="אֹתָ֖⁠נוּ"\*\w us|x-occurrence="1" x-occurrences="3"\w*\zaln-e\* {\zaln-s |x-strong="d:H5927" x-lemma="עָלָה" x-morph="He,Td:Vhrmsa" x-occurrence="1" x-occurrences="1" x-content="הַ⁠מַּעֲלֶ֥ה"\*\w safely|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*}
+\zaln-s |x-strong="m:H0776" x-lemma="אֶרֶץ" x-morph="He,R:Ncbsc" x-occurrence="1" x-occurrences="1" x-content="מֵ⁠אֶ֣רֶץ"\*\w out|x-occurrence="1" x-occurrences="1"\w*
+\w of|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*
+\zaln-s |x-strong="H4714" x-lemma="מִצְרַיִם" x-morph="He,Np" x-occurrence="1" x-occurrences="1" x-content="מִצְרָ֑יִם"\*\w Egypt|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\q1 \zaln-s |x-strong="d:H3212" x-lemma="יָלַךְ" x-morph="He,Td:Vhrmsa" x-occurrence="1" x-occurrences="1" x-content="הַ⁠מּוֹלִ֨יךְ"\*\w and|x-occurrence="1" x-occurrences="3"\w*
+\w led|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*
+\zaln-s |x-strong="H0853" x-lemma="אֵת" x-morph="He,To:Sp1cp" x-occurrence="1" x-occurrences="1" x-content="אֹתָ֜⁠נוּ"\*\w us|x-occurrence="2" x-occurrences="3"\w*\zaln-e\*
+\zaln-s |x-strong="b:H0776" x-lemma="אֶרֶץ" x-morph="He,R:Ncbsc" x-occurrence="1" x-occurrences="1" x-content="בְּ⁠אֶ֨רֶץ"\*\w through|x-occurrence="1" x-occurrences="3"\w*\zaln-e\*
+\zaln-s |x-strong="H6160" x-lemma="עֲרָבָה" x-morph="He,Ncfsa" x-occurrence="1" x-occurrences="1" x-content="עֲרָבָ֤ה"\*\w a|x-occurrence="1" x-occurrences="3"\w*
+\w desert|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="c:H7745" x-lemma="שׁוּחָה" x-morph="He,C:Ncfsa" x-occurrence="1" x-occurrences="1" x-content="וְ⁠שׁוּחָה֙"\*\w where|x-occurrence="1" x-occurrences="4"\w*
+\w there|x-occurrence="1" x-occurrences="2"\w*
+\w were|x-occurrence="1" x-occurrences="1"\w*
+\w a|x-occurrence="2" x-occurrences="3"\w*
+\w lot|x-occurrence="1" x-occurrences="1"\w*
+\w of|x-occurrence="2" x-occurrences="2"\w*
+\w pits|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*;
+\q2 \zaln-s |x-strong="b:H0776" x-lemma="אֶרֶץ" x-morph="He,R:Ncbsc" x-occurrence="1" x-occurrences="1" x-content="בְּ⁠אֶ֨רֶץ֙"\*\w where|x-occurrence="2" x-occurrences="4"\w*\zaln-e\*
+\zaln-s |x-strong="H6723" x-lemma="צִיָּה" x-morph="He,Ncfsa" x-occurrence="1" x-occurrences="1" x-content="צִיָּ֣ה"\*\w there|x-occurrence="2" x-occurrences="2"\w*
+\w was|x-occurrence="1" x-occurrences="2"\w*
+\w no|x-occurrence="1" x-occurrences="3"\w*
+\w water|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="c:H6757" x-lemma="צַלְמָוֶת" x-morph="He,C:Ncmsa" x-occurrence="1" x-occurrences="1" x-content="וְ⁠צַלְמָ֔וֶת"\*\w and|x-occurrence="2" x-occurrences="3"\w*
+\w where|x-occurrence="3" x-occurrences="4"\w*
+\w it|x-occurrence="1" x-occurrences="1"\w*
+\w was|x-occurrence="2" x-occurrences="2"\w*
+\w very|x-occurrence="1" x-occurrences="1"\w*
+\w dangerous|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.
+\q1 {\zaln-s |x-strong="b:H0776" x-lemma="אֶרֶץ" x-morph="He,R:Ncbsa" x-occurrence="1" x-occurrences="1" x-content="בְּ⁠אֶ֗רֶץ"\*\w He|x-occurrence="1" x-occurrences="1"\w*
+\w led|x-occurrence="2" x-occurrences="2"\w*
+\w us|x-occurrence="3" x-occurrences="3"\w*
+\w through|x-occurrence="2" x-occurrences="3"\w*
+\w a|x-occurrence="3" x-occurrences="3"\w*
+\w land|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*}
+\zaln-s |x-strong="H5674a" x-lemma="עָבַר" x-morph="He,Vqp3ms" x-occurrence="1" x-occurrences="1" x-content="עָ֤בַר"\*\w that|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H3808" x-lemma="לֹא" x-morph="He,Tn" x-occurrence="1" x-occurrences="1" x-content="לֹֽא"\*\w no|x-occurrence="2" x-occurrences="3"\w*\zaln-e\*
+\zaln-s |x-strong="H0376" x-lemma="אִישׁ" x-morph="He,Ncmsa" x-occurrence="1" x-occurrences="1" x-content="אִ֔ישׁ"\*\w one|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*
+\zaln-s |x-strong="H5674a" x-lemma="עָבַר" x-morph="He,Vqp3ms" x-occurrence="1" x-occurrences="1" x-content="עָ֤בַר"\*\w travels|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="b" x-lemma="" x-morph="He,R:Sp3fs" x-occurrence="1" x-occurrences="1" x-content="בָּ⁠הּ֙"\*\w through|x-occurrence="3" x-occurrences="3"\w*\zaln-e\*
+\zaln-s |x-strong="c:H3808" x-lemma="לֹא" x-morph="He,C:Tn" x-occurrence="1" x-occurrences="1" x-content="וְ⁠לֹֽא"\*\w and|x-occurrence="3" x-occurrences="3"\w*\zaln-e\*
+\zaln-s |x-strong="H3427" x-lemma="יָשַׁב" x-morph="He,Vqp3ms" x-occurrence="1" x-occurrences="1" x-content="יָשַׁ֥ב"\*\zaln-s |x-strong="H8033" x-lemma="שָׁם" x-morph="He,D" x-occurrence="1" x-occurrences="1" x-content="שָֽׁם"\*\w where|x-occurrence="4" x-occurrences="4"\w*\zaln-e\*\zaln-e\*
+\zaln-s |x-strong="c:H3808" x-lemma="לֹא" x-morph="He,C:Tn" x-occurrence="1" x-occurrences="1" x-content="וְ⁠לֹֽא"\*\w no|x-occurrence="3" x-occurrences="3"\w*\zaln-e\*
+\zaln-s |x-strong="H0120" x-lemma="אָדָם" x-morph="He,Ncmsa" x-occurrence="1" x-occurrences="1" x-content="אָדָ֖ם"\*\w one|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*
+\zaln-s |x-strong="H3427" x-lemma="יָשַׁב" x-morph="He,Vqp3ms" x-occurrence="1" x-occurrences="1" x-content="יָשַׁ֥ב"\*\zaln-s |x-strong="H8033" x-lemma="שָׁם" x-morph="He,D" x-occurrence="1" x-occurrences="1" x-content="שָֽׁם"\*\w lives|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*.’
 
 \ts\*
-\q1 \v 7 But when I, Yahweh, brought you into a very fertile land,
+\q1  \v 7 But when I, Yahweh, brought you into a very fertile land,
 \q2 in order that you could enjoy all the fruit and other good things that you would harvest,
 \q1 you caused the land that I promised to give to you to be unfit for me
 \q2 and to become disgusting to me.
