@@ -1105,22 +1105,22 @@
 \w nothing|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*.
 
 \ts\*
-\q1  \v 12 {\w It|x-occurrence="1" x-occurrences="1"\w*
+\q1  \v 12 {\zaln-s |x-strong="H8064" x-lemma="שָׁמַיִם" x-morph="He,Ncmpa" x-occurrence="1" x-occurrences="1" x-content="שָׁמַ֖יִם"\*\w It|x-occurrence="1" x-occurrences="1"\w*
 \w is|x-occurrence="1" x-occurrences="3"\w*
 \w as|x-occurrence="1" x-occurrences="2"\w*
 \w though|x-occurrence="1" x-occurrences="2"\w*
 \w everything|x-occurrence="1" x-occurrences="1"\w*
 \w in|x-occurrence="1" x-occurrences="1"\w*}
 \w the|x-occurrence="1" x-occurrences="1"\w*
-\w sky|x-occurrence="1" x-occurrences="1"\w*
-\w is|x-occurrence="2" x-occurrences="3"\w*
-\w dismayed|x-occurrence="1" x-occurrences="1"\w*
-\w about|x-occurrence="1" x-occurrences="1"\w*
-\w what|x-occurrence="1" x-occurrences="1"\w*
+\w sky|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H8074" x-lemma="שָׁמֵם" x-morph="He,Vqv2mp" x-occurrence="1" x-occurrences="1" x-content="שֹׁ֥מּוּ"\*\w is|x-occurrence="2" x-occurrences="3"\w*
+\w dismayed|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H5921a" x-lemma="עַל" x-morph="He,R" x-occurrence="1" x-occurrences="1" x-content="עַל"\*\w about|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H2063" x-lemma="זֹאת" x-morph="He,Pdxfs" x-occurrence="1" x-occurrences="1" x-content="זֹ֑את"\*\w what|x-occurrence="1" x-occurrences="1"\w*
 \w you|x-occurrence="1" x-occurrences="2"\w*
 \w have|x-occurrence="1" x-occurrences="1"\w*
-\w done|x-occurrence="1" x-occurrences="1"\w*;
-\q2 \w it|x-occurrence="1" x-occurrences="1"\w*
+\w done|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*;
+\q2 \zaln-s |x-strong="c:H8175a" x-lemma="שָׂעַר" x-morph="He,C:Vqv2mp" x-occurrence="1" x-occurrences="1" x-content="וְ⁠שַׂעֲר֛וּ"\*\zaln-s |x-strong="H2717b" x-lemma="חָרַב" x-morph="He,Vqv2mp" x-occurrence="1" x-occurrences="1" x-content="חָרְב֥וּ"\*\zaln-s |x-strong="H3966" x-lemma="מְאֹד" x-morph="He,D" x-occurrence="1" x-occurrences="1" x-content="מְאֹ֖ד"\*\w it|x-occurrence="1" x-occurrences="1"\w*
 \w is|x-occurrence="3" x-occurrences="3"\w*
 \w as|x-occurrence="2" x-occurrences="2"\w*
 \w though|x-occurrence="2" x-occurrences="2"\w*
@@ -1130,18 +1130,60 @@
 \w they|x-occurrence="2" x-occurrences="2"\w*
 \w are|x-occurrence="1" x-occurrences="1"\w*
 \w very|x-occurrence="1" x-occurrences="1"\w*
-\w horrified|x-occurrence="1" x-occurrences="1"\w*!
-\q1 \w I|x-occurrence="1" x-occurrences="1"\w*,
-\w Yahweh|x-occurrence="1" x-occurrences="1"\w*,
-\w declare|x-occurrence="1" x-occurrences="1"\w*
-\w this|x-occurrence="1" x-occurrences="1"\w* {\w to|x-occurrence="1" x-occurrences="1"\w*
-\w you|x-occurrence="2" x-occurrences="2"\w*}.\v 13 You, my people, have done two evil things:
-\q1 you have rejected me, the one who is like a fountain where you can obtain fresh water,
-\q2 and you are worshiping gods that are like pits in the ground
-\q2 that are cracked and which are not able to hold any water.
+\w horrified|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*\zaln-e\*!
+\q1 \zaln-s |x-strong="H3068" x-lemma="יְהֹוָה" x-morph="He,Np" x-occurrence="1" x-occurrences="1" x-content="יְהוָֽה"\*\w I|x-occurrence="1" x-occurrences="1"\w*,
+\w Yahweh|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
+\zaln-s |x-strong="H5002" x-lemma="נְאֻם" x-morph="He,Ncmsc" x-occurrence="1" x-occurrences="1" x-content="נְאֻם"\*\w declare|x-occurrence="1" x-occurrences="1"\w*
+\w this|x-occurrence="1" x-occurrences="1"\w*\zaln-e\* {\zaln-s |x-strong="H5002" x-lemma="נְאֻם" x-morph="He,Ncmsc" x-occurrence="1" x-occurrences="1" x-content="נְאֻם"\*\w to|x-occurrence="1" x-occurrences="1"\w*
+\w you|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*}.\v 13 {\w You|x-occurrence="1" x-occurrences="2"\w*,}
+\w my|x-occurrence="1" x-occurrences="1"\w*
+\w people|x-occurrence="1" x-occurrences="1"\w*,
+\w have|x-occurrence="1" x-occurrences="2"\w*
+\w done|x-occurrence="1" x-occurrences="1"\w*
+\w two|x-occurrence="1" x-occurrences="1"\w*
+\w evil|x-occurrence="1" x-occurrences="1"\w*
+\w things|x-occurrence="1" x-occurrences="1"\w*:
+\q1 \w You|x-occurrence="2" x-occurrences="2"\w*
+\w have|x-occurrence="2" x-occurrences="2"\w*
+\w rejected|x-occurrence="1" x-occurrences="1"\w*
+\w me|x-occurrence="1" x-occurrences="1"\w*,
+\w the|x-occurrence="1" x-occurrences="2"\w*
+\w one|x-occurrence="1" x-occurrences="1"\w*
+\w who|x-occurrence="1" x-occurrences="1"\w*
+\w is|x-occurrence="1" x-occurrences="1"\w* {\w like|x-occurrence="1" x-occurrences="2"\w*}
+\w a|x-occurrence="1" x-occurrences="1"\w*
+\w fountain|x-occurrence="1" x-occurrences="1"\w* {\w where|x-occurrence="1" x-occurrences="1"\w*
+\w you|x-occurrence="1" x-occurrences="2"\w*
+\w can|x-occurrence="1" x-occurrences="1"\w*
+\w obtain|x-occurrence="1" x-occurrences="1"\w*}
+\w fresh|x-occurrence="1" x-occurrences="1"\w*
+\w water|x-occurrence="1" x-occurrences="2"\w*,
+\q2 \w and|x-occurrence="1" x-occurrences="2"\w*
+\w you|x-occurrence="2" x-occurrences="2"\w* {\w are|x-occurrence="1" x-occurrences="4"\w*
+\w worshiping|x-occurrence="1" x-occurrences="1"\w*
+\w gods|x-occurrence="1" x-occurrences="1"\w*
+\w that|x-occurrence="1" x-occurrences="2"\w*
+\w are|x-occurrence="2" x-occurrences="4"\w*
+\w like|x-occurrence="2" x-occurrences="2"\w*}
+\w pits|x-occurrence="1" x-occurrences="1"\w*
+\w in|x-occurrence="1" x-occurrences="1"\w*
+\w the|x-occurrence="2" x-occurrences="2"\w*
+\w ground|x-occurrence="1" x-occurrences="1"\w*
+\q2 \w that|x-occurrence="2" x-occurrences="2"\w*
+\w are|x-occurrence="3" x-occurrences="4"\w*
+\w cracked|x-occurrence="1" x-occurrences="1"\w*
+\w and|x-occurrence="2" x-occurrences="2"\w*
+\w which|x-occurrence="1" x-occurrences="1"\w*
+\w are|x-occurrence="4" x-occurrences="4"\w*
+\w not|x-occurrence="1" x-occurrences="1"\w*
+\w able|x-occurrence="1" x-occurrences="1"\w*
+\w to|x-occurrence="1" x-occurrences="1"\w*
+\w hold|x-occurrence="1" x-occurrences="1"\w*
+\w any|x-occurrence="1" x-occurrences="1"\w*
+\w water|x-occurrence="2" x-occurrences="2"\w*.
 
 \ts\*
-\q1 \v 14 You Israelite people, you were certainly not slaves when you were born;
+\q1  \v 14 You Israelite people, you were certainly not slaves when you were born;
 \q2 so why were you captured by your enemies?
 \q1 \v 15 Your enemies roared like lions,
 \q2 and they destroyed your land.
