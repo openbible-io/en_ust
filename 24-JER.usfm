@@ -2511,29 +2511,26 @@
 \w this|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.
 
 \ts\*
-\v 8 \w I|x-occurrence="1" x-occurrences="2"\w*
-\w observed|x-occurrence="1" x-occurrences="1"\w*
-\w that|x-occurrence="1" x-occurrences="3"\w*
-\w it|x-occurrence="1" x-occurrences="1"\w*
+\v 8 \zaln-s |x-strong="c:H7200" x-lemma="רָאָה" x-morph="He,C:Vqw1cs" x-occurrence="1" x-occurrences="1" x-content="וָ⁠אֵ֗רֶא"\*\w I|x-occurrence="1" x-occurrences="2"\w*
+\w observed|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H3588a" x-lemma="כִּי" x-morph="He,C" x-occurrence="1" x-occurrences="1" x-content="כִּ֤י"\*\w that|x-occurrence="1" x-occurrences="3"\w*\zaln-e\*
+\zaln-s |x-strong="H5921a" x-lemma="עַל" x-morph="He,R" x-occurrence="1" x-occurrences="1" x-content="עַל"\*\zaln-s |x-strong="H3605" x-lemma="כֹּל" x-morph="He,Ncmsc" x-occurrence="1" x-occurrences="1" x-content="כָּל"\*\zaln-s |x-strong="H0182" x-lemma="אוֹדוֹת" x-morph="He,Ncfpa" x-occurrence="1" x-occurrences="1" x-content="אֹדוֹת֙"\*\zaln-s |x-strong="H0834a" x-lemma="אֲשֶׁר" x-morph="He,Tr" x-occurrence="1" x-occurrences="1" x-content="אֲשֶׁ֤ר"\*\w it|x-occurrence="1" x-occurrences="1"\w*
 \w was|x-occurrence="1" x-occurrences="1"\w*
-\w because|x-occurrence="1" x-occurrences="2"\w*
-\w the|x-occurrence="1" x-occurrences="1"\w*
-\w unfaithful|x-occurrence="1" x-occurrences="2"\w*
-\w people|x-occurrence="1" x-occurrences="2"\w*
-\w of|x-occurrence="1" x-occurrences="2"\w*
-\w Israel|x-occurrence="1" x-occurrences="1"\w*
-\w worshiped|x-occurrence="1" x-occurrences="1"\w*
-\w idols|x-occurrence="1" x-occurrences="1"\w*
-\w that|x-occurrence="2" x-occurrences="3"\w*
-\w I|x-occurrence="2" x-occurrences="2"\w*
+\w because|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*\zaln-e\*\zaln-e\*\zaln-e\*
+\zaln-s |x-strong="H3478" x-lemma="יִשְׂרָאֵל" x-morph="He,Np" x-occurrence="1" x-occurrences="1" x-content="יִשְׂרָאֵ֔ל"\*\w the|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*
+\zaln-s |x-strong="H4878" x-lemma="מְשׁוּבָה" x-morph="He,Ncfsa" x-occurrence="1" x-occurrences="1" x-content="מְשֻׁבָ֣ה"\*\w unfaithful|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*
+\zaln-s |x-strong="H3478" x-lemma="יִשְׂרָאֵל" x-morph="He,Np" x-occurrence="1" x-occurrences="1" x-content="יִשְׂרָאֵ֔ל"\*\w people|x-occurrence="1" x-occurrences="3"\w*
+\w of|x-occurrence="1" x-occurrences="3"\w*
+\w Israel|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*
+\zaln-s |x-strong="H5003" x-lemma="נָאַף" x-morph="He,Vpp3fs" x-occurrence="1" x-occurrences="1" x-content="נִֽאֲפָה֙"\*\w worshiped|x-occurrence="1" x-occurrences="1"\w*
+\w idols|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H5921a" x-lemma="עַל" x-morph="He,R" x-occurrence="1" x-occurrences="1" x-content="עַל"\*\zaln-s |x-strong="H3605" x-lemma="כֹּל" x-morph="He,Ncmsc" x-occurrence="1" x-occurrences="1" x-content="כָּל"\*\zaln-s |x-strong="H0182" x-lemma="אוֹדוֹת" x-morph="He,Ncfpa" x-occurrence="1" x-occurrences="1" x-content="אֹדוֹת֙"\*\zaln-s |x-strong="H0834a" x-lemma="אֲשֶׁר" x-morph="He,Tr" x-occurrence="1" x-occurrences="1" x-content="אֲשֶׁ֤ר"\*\w that|x-occurrence="2" x-occurrences="3"\w*\zaln-e\*\zaln-e\*\zaln-e\*\zaln-e\*
+\zaln-s |x-strong="H7971" x-lemma="שָׁלַח" x-morph="He,Vpp1cs:Sp3fs" x-occurrence="1" x-occurrences="1" x-content="שִׁלַּחְתִּ֕י⁠הָ"\*\w I|x-occurrence="2" x-occurrences="2"\w*
 \w sent|x-occurrence="1" x-occurrences="1"\w*
 \w them|x-occurrence="1" x-occurrences="1"\w*
-\w away|x-occurrence="1" x-occurrences="2"\w* {\w as|x-occurrence="1" x-occurrences="2"\w*
-\w captives|x-occurrence="1" x-occurrences="1"\w*
-\w to|x-occurrence="1" x-occurrences="3"\w*
-\w other|x-occurrence="1" x-occurrences="2"\w*
-\w countries|x-occurrence="1" x-occurrences="1"\w*,}
-\w as|x-occurrence="2" x-occurrences="2"\w*
+\w away|x-occurrence="1" x-occurrences="2"\w*\zaln-e\* {\zaln-s |x-strong="H7971" x-lemma="שָׁלַח" x-morph="He,Vpp1cs:Sp3fs" x-occurrence="1" x-occurrences="1" x-content="שִׁלַּחְתִּ֕י⁠הָ"\*\w as|x-occurrence="1" x-occurrences="2"\w*
+\w captives|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,}
+\zaln-s |x-strong="c:H5414" x-lemma="נָתַן" x-morph="He,C:Vqw1cs" x-occurrence="1" x-occurrences="1" x-content="וָ⁠אֶתֵּ֛ן"\*\zaln-s |x-strong="H0853" x-lemma="אֵת" x-morph="He,To" x-occurrence="1" x-occurrences="1" x-content="אֶת"\*\zaln-s |x-strong="H5612a" x-lemma="סֵפֶר" x-morph="He,Ncmsc" x-occurrence="1" x-occurrences="1" x-content="סֵ֥פֶר"\*\zaln-s |x-strong="H3748" x-lemma="כְּרִיתוּת" x-morph="He,Ncfpc:Sp3fs" x-occurrence="1" x-occurrences="1" x-content="כְּרִיתֻתֶ֖י⁠הָ"\*\zaln-s |x-strong="H0413" x-lemma="אֵל" x-morph="He,R:Sp3fs" x-occurrence="1" x-occurrences="1" x-content="אֵלֶ֑י⁠הָ"\*\w as|x-occurrence="2" x-occurrences="2"\w*
 \w a|x-occurrence="1" x-occurrences="3"\w*
 \w man|x-occurrence="1" x-occurrences="1"\w*
 \w writes|x-occurrence="1" x-occurrences="1"\w*
@@ -2549,52 +2546,58 @@
 \w and|x-occurrence="1" x-occurrences="4"\w*
 \w then|x-occurrence="1" x-occurrences="1"\w*
 \w sends|x-occurrence="1" x-occurrences="1"\w*
-\w her|x-occurrence="1" x-occurrences="1"\w*
+\w her|x-occurrence="1" x-occurrences="2"\w*
 \w away|x-occurrence="2" x-occurrences="2"\w*
 \w because|x-occurrence="2" x-occurrences="2"\w*
 \w she|x-occurrence="1" x-occurrences="1"\w*
 \w has|x-occurrence="1" x-occurrences="1"\w*
 \w committed|x-occurrence="1" x-occurrences="1"\w*
-\w adultery|x-occurrence="1" x-occurrences="1"\w*.
-\w The|x-occurrence="1" x-occurrences="1"\w*
-\w people|x-occurrence="2" x-occurrences="2"\w*
-\w of|x-occurrence="2" x-occurrences="2"\w*
-\w Judah|x-occurrence="1" x-occurrences="1"\w*,
-\w who|x-occurrence="1" x-occurrences="2"\w*
+\w adultery|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*\zaln-e\*\zaln-e\*\zaln-e\*.
+\zaln-s |x-strong="H3063" x-lemma="יְהוּדָה" x-morph="He,Np" x-occurrence="1" x-occurrences="1" x-content="יְהוּדָה֙"\*\w The|x-occurrence="1" x-occurrences="1"\w*
+\w people|x-occurrence="2" x-occurrences="3"\w*
+\w of|x-occurrence="2" x-occurrences="3"\w*
+\w Judah|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
+\zaln-s |x-strong="H0269" x-lemma="אָחוֹת" x-morph="He,Ncfsc:Sp3fs" x-occurrence="1" x-occurrences="1" x-content="אֲחוֹתָ֔⁠הּ"\*\w who|x-occurrence="1" x-occurrences="2"\w*
 \w also|x-occurrence="1" x-occurrences="1"\w*
 \w descended|x-occurrence="1" x-occurrences="1"\w*
 \w from|x-occurrence="1" x-occurrences="1"\w*
-\w Jacob|x-occurrence="1" x-occurrences="1"\w*,
-\w acted|x-occurrence="1" x-occurrences="1"\w*
-\w treacherously|x-occurrence="1" x-occurrences="1"\w* {\w towards|x-occurrence="1" x-occurrences="1"\w*
-\w me|x-occurrence="1" x-occurrences="3"\w*},
-\w and|x-occurrence="2" x-occurrences="4"\w*
-\w did|x-occurrence="1" x-occurrences="1"\w*
-\w not|x-occurrence="1" x-occurrences="1"\w*
-\w respect|x-occurrence="1" x-occurrences="1"\w*
-\w me|x-occurrence="2" x-occurrences="3"\w*,
-\w and|x-occurrence="3" x-occurrences="4"\w*
+\w Jacob|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
+\zaln-s |x-strong="H0898" x-lemma="בָּגַד" x-morph="He,Vqrfsa" x-occurrence="1" x-occurrences="1" x-content="בֹּֽגֵדָ֤ה"\*\w acted|x-occurrence="1" x-occurrences="1"\w*
+\w treacherously|x-occurrence="1" x-occurrences="1"\w*\zaln-e\* {\zaln-s |x-strong="H0898" x-lemma="בָּגַד" x-morph="He,Vqrfsa" x-occurrence="1" x-occurrences="1" x-content="בֹּֽגֵדָ֤ה"\*\w towards|x-occurrence="1" x-occurrences="1"\w*
+\w me|x-occurrence="1" x-occurrences="3"\w*\zaln-e\*}
+\zaln-s |x-strong="H1571" x-lemma="גַּם" x-morph="He,Ta" x-occurrence="1" x-occurrences="1" x-content="גַּם"\*\w like|x-occurrence="1" x-occurrences="2"\w*
+\w the|x-occurrence="2" x-occurrences="2"\w*
+\w people|x-occurrence="3" x-occurrences="3"\w*
+\w of|x-occurrence="3" x-occurrences="3"\w*
+\w Israel|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*,
+\zaln-s |x-strong="c:H3808" x-lemma="לֹא" x-morph="He,C:Tn" x-occurrence="1" x-occurrences="1" x-content="וְ⁠לֹ֨א"\*\w and|x-occurrence="2" x-occurrences="4"\w*\zaln-e\*
+\zaln-s |x-strong="H3372" x-lemma="יָרֵא" x-morph="He,Vqp3fs" x-occurrence="1" x-occurrences="1" x-content="יָֽרְאָ֜ה"\*\w they|x-occurrence="1" x-occurrences="1"\w*
+\w did|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="c:H3808" x-lemma="לֹא" x-morph="He,C:Tn" x-occurrence="1" x-occurrences="1" x-content="וְ⁠לֹ֨א"\*\w not|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H3372" x-lemma="יָרֵא" x-morph="He,Vqp3fs" x-occurrence="1" x-occurrences="1" x-content="יָֽרְאָ֜ה"\*\w respect|x-occurrence="1" x-occurrences="1"\w*
+\w me|x-occurrence="2" x-occurrences="3"\w*\zaln-e\*,
+\zaln-s |x-strong="c:H3212" x-lemma="יָלַךְ" x-morph="He,C:Vqw3fs" x-occurrence="1" x-occurrences="1" x-content="וַ⁠תֵּ֖לֶךְ"\*\zaln-s |x-strong="c:H2181" x-lemma="זָנָה" x-morph="He,C:Vqw3fs" x-occurrence="1" x-occurrences="1" x-content="וַ⁠תִּ֥זֶן"\*\w and|x-occurrence="3" x-occurrences="4"\w*
 \w were|x-occurrence="1" x-occurrences="1"\w*
 \w unfaithful|x-occurrence="2" x-occurrences="2"\w*
-\w to|x-occurrence="2" x-occurrences="3"\w*
+\w to|x-occurrence="1" x-occurrences="2"\w*
 \w me|x-occurrence="3" x-occurrences="3"\w*
-\w like|x-occurrence="1" x-occurrences="1"\w*
+\w like|x-occurrence="2" x-occurrences="2"\w*
 \w a|x-occurrence="3" x-occurrences="3"\w*
 \w woman|x-occurrence="1" x-occurrences="1"\w*
 \w who|x-occurrence="2" x-occurrences="2"\w*
 \w abandons|x-occurrence="1" x-occurrences="1"\w*
-\w here|x-occurrence="1" x-occurrences="1"\w*
+\w her|x-occurrence="2" x-occurrences="2"\w*
 \w husband|x-occurrence="1" x-occurrences="1"\w*
 \w and|x-occurrence="4" x-occurrences="4"\w*
 \w goes|x-occurrence="1" x-occurrences="1"\w*
 \w searching|x-occurrence="1" x-occurrences="1"\w*
 \w for|x-occurrence="1" x-occurrences="1"\w*
-\w other|x-occurrence="2" x-occurrences="2"\w*
+\w other|x-occurrence="1" x-occurrences="1"\w*
 \w men|x-occurrence="1" x-occurrences="1"\w*
-\w to|x-occurrence="3" x-occurrences="3"\w*
+\w to|x-occurrence="2" x-occurrences="2"\w*
 \w have|x-occurrence="1" x-occurrences="1"\w*
 \w sex|x-occurrence="1" x-occurrences="1"\w*
-\w with|x-occurrence="1" x-occurrences="1"\w*.
+\w with|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*.
 \v 9 They did not care that worshiping idols offended me, so they have made the entire land unacceptable to me by worshiping idols of wood and stone.
 \v 10 The people of Judah have pretended to return to me, but they have not been sincere. This is true because I, Yahweh, have said it.”
 
