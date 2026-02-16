@@ -2685,14 +2685,48 @@
 \w done|x-occurrence="1" x-occurrences="1"\w*
 \w is|x-occurrence="1" x-occurrences="1"\w*
 \w worse|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*\zaln-e\*.
-\v 12 So go and tell this to the people of Israel,
-\q1 ‘Yahweh says this to you Israelite people who have turned away from him:
-\q1 I am merciful.
-\q2 I will not continue to be angry with you forever.
-\q2 So return to me.
+\v 12 \zaln-s |x-strong="H1980" x-lemma="הָלַךְ" x-morph="He,Vqa" x-occurrence="1" x-occurrences="1" x-content="הָלֹ֡ךְ"\*\w Go|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="c:H7121" x-lemma="קָרָא" x-morph="He,C:Vqq2ms" x-occurrence="1" x-occurrences="1" x-content="וְ⁠קָֽרָאתָ֩"\*\w and|x-occurrence="1" x-occurrences="1"\w*
+\w tell|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H0853" x-lemma="אֵת" x-morph="He,To" x-occurrence="1" x-occurrences="1" x-content="אֶת"\*\zaln-s |x-strong="d:H1697" x-lemma="דָּבָר" x-morph="He,Td:Ncmpa" x-occurrence="1" x-occurrences="1" x-content="הַ⁠דְּבָרִ֨ים"\*\zaln-s |x-strong="d:H0428" x-lemma="אֵלֶּה" x-morph="He,Td:Pdxcp" x-occurrence="1" x-occurrences="1" x-content="הָ⁠אֵ֜לֶּה"\*\zaln-s |x-strong="c:H0559" x-lemma="אָמַר" x-morph="He,C:Vqq2ms" x-occurrence="1" x-occurrences="1" x-content="וְ֠⁠אָמַרְתָּ"\*\w this|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*\zaln-e\*\zaln-e\*\zaln-e\*
+\zaln-s |x-strong="H6828" x-lemma="צָפוֹן" x-morph="He,Ncfsa:Sd" x-occurrence="1" x-occurrences="1" x-content="צָפ֗וֹנָ⁠ה"\*\w to|x-occurrence="1" x-occurrences="4"\w*
+\w the|x-occurrence="1" x-occurrences="1"\w*
+\w people|x-occurrence="1" x-occurrences="2"\w*
+\w of|x-occurrence="1" x-occurrences="1"\w*
+\w Israel|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
+\q1 ‘\zaln-s |x-strong="H3068" x-lemma="יְהֹוָה" x-morph="He,Np" x-occurrence="1" x-occurrences="2" x-content="יְהוָ֔ה"\*\w Yahweh|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H5002" x-lemma="נְאֻם" x-morph="He,Ncmsc" x-occurrence="1" x-occurrences="2" x-content="נְאֻם"\*\w says|x-occurrence="1" x-occurrences="1"\w*
+\w this|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*
+\zaln-s |x-strong="H3478" x-lemma="יִשְׂרָאֵל" x-morph="He,Np" x-occurrence="1" x-occurrences="1" x-content="יִשְׂרָאֵל֙"\*\w to|x-occurrence="2" x-occurrences="4"\w*
+\w you|x-occurrence="1" x-occurrences="2"\w*
+\w Israelite|x-occurrence="1" x-occurrences="1"\w*
+\w people|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*
+\zaln-s |x-strong="H4878" x-lemma="מְשׁוּבָה" x-morph="He,Ncfsa" x-occurrence="1" x-occurrences="1" x-content="מְשֻׁבָ֤ה"\*\w who|x-occurrence="1" x-occurrences="1"\w*
+\w have|x-occurrence="1" x-occurrences="1"\w*
+\w turned|x-occurrence="1" x-occurrences="1"\w*
+\w away|x-occurrence="1" x-occurrences="1"\w*
+\w from|x-occurrence="1" x-occurrences="1"\w*
+\w him|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*:
+\q1 \zaln-s |x-strong="H0589" x-lemma="אֲנִי" x-morph="He,Pp1cs" x-occurrence="1" x-occurrences="1" x-content="אֲנִי֙"\*\w I|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*
+\zaln-s |x-strong="H2623" x-lemma="חָסִיד" x-morph="He,Aamsa" x-occurrence="1" x-occurrences="1" x-content="חָסִ֤יד"\*\w am|x-occurrence="1" x-occurrences="1"\w*
+\w merciful|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.
+\q2 \zaln-s |x-strong="H5307" x-lemma="נָפַל" x-morph="He,Vhi1cs" x-occurrence="1" x-occurrences="1" x-content="אַפִּ֥יל"\*\zaln-s |x-strong="H6440" x-lemma="פָּנִים" x-morph="He,Ncbpc:Sp1cs" x-occurrence="1" x-occurrences="1" x-content="פָּנַ֖⁠י"\*\w I|x-occurrence="2" x-occurrences="2"\w*
+\w will|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*
+\zaln-s |x-strong="H3808" x-lemma="לֹא" x-morph="He,Tn" x-occurrence="1" x-occurrences="1" x-content="לֽוֹא"\*\zaln-s |x-strong="H3808" x-lemma="לֹא" x-morph="He,Tn" x-occurrence="1" x-occurrences="1" x-content="לֹ֥א"\*\w not|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*
+\zaln-s |x-strong="H5201" x-lemma="נָטַר" x-morph="He,Vqi1cs" x-occurrence="1" x-occurrences="1" x-content="אֶטּ֖וֹר"\*\w continue|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H5307" x-lemma="נָפַל" x-morph="He,Vhi1cs" x-occurrence="1" x-occurrences="1" x-content="אַפִּ֥יל"\*\zaln-s |x-strong="H6440" x-lemma="פָּנִים" x-morph="He,Ncbpc:Sp1cs" x-occurrence="1" x-occurrences="1" x-content="פָּנַ֖⁠י"\*\w to|x-occurrence="3" x-occurrences="4"\w*
+\w be|x-occurrence="1" x-occurrences="1"\w*
+\w angry|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*
+\zaln-s |x-strong="b" x-morph="He,R:Sp2mp" x-occurrence="1" x-occurrences="1" x-content="בָּ⁠כֶ֑ם"\*\w with|x-occurrence="1" x-occurrences="1"\w*
+\w you|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*
+\zaln-s |x-strong="l:H5769" x-lemma="עוֹלָם" x-morph="He,R:Ncmsa" x-occurrence="1" x-occurrences="1" x-content="לְ⁠עוֹלָֽם"\*\w forever|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.
+\q2 \zaln-s |x-strong="H7725" x-lemma="שׁוּב" x-morph="He,Vqv2ms:Sh" x-occurrence="1" x-occurrences="1" x-content="שׁ֣וּבָ⁠ה"\*\w So|x-occurrence="1" x-occurrences="1"\w*
+\w return|x-occurrence="1" x-occurrences="1"\w*
+\w to|x-occurrence="4" x-occurrences="4"\w*
+\w me|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.
 
 \ts\*
-\q1 \v 13 But you must admit that you are guilty,
+\q1  \v 13 But you must admit that you are guilty,
 \q2 and that you have rebelled against me, Yahweh, your God,
 \q1 that you have worshiped idols under big trees everywhere,
 \q2 and you have not obeyed me.
