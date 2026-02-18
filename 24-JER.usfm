@@ -4446,7 +4446,8 @@
 \q2 \w Search|x-occurrence="1" x-occurrences="1"\w*
 \w in|x-occurrence="2" x-occurrences="2"\w*
 \w the|x-occurrence="2" x-occurrences="3"\w*
-\w marketplaces|x-occurrence="1" x-occurrences="1"\w*
+\w city|x-occurrence="1" x-occurrences="2"\w*
+\w squares|x-occurrence="1" x-occurrences="1"\w*
 \w to|x-occurrence="2" x-occurrences="4"\w*
 \w find|x-occurrence="1" x-occurrences="2"\w*
 \w people|x-occurrence="2" x-occurrences="3"\w*
@@ -4456,7 +4457,7 @@
 \w is|x-occurrence="1" x-occurrences="1"\w*
 \w just|x-occurrence="1" x-occurrences="1"\w*
 \w and|x-occurrence="2" x-occurrences="3"\w*
-\w fair|x-occurrence="1" x-occurrences="1"\w*,
+\w right|x-occurrence="1" x-occurrences="1"\w*,
 \q2 \w who|x-occurrence="2" x-occurrences="2"\w*
 \w try|x-occurrence="1" x-occurrences="1"\w*
 \w to|x-occurrence="3" x-occurrences="4"\w*
@@ -4466,24 +4467,24 @@
 \w me|x-occurrence="1" x-occurrences="1"\w*.
 \q1 \w If|x-occurrence="1" x-occurrences="1"\w*
 \w you|x-occurrence="1" x-occurrences="1"\w*
-\w find|x-occurrence="2" x-occurrences="2"\w*
-\w even|x-occurrence="1" x-occurrences="1"\w*
+\w can|x-occurrence="1" x-occurrences="1"\w*
+\w find|x-occurrence="2" x-occurrences="2"\w* {\w even|x-occurrence="1" x-occurrences="1"\w*}
 \w one|x-occurrence="1" x-occurrences="1"\w*
 \w person|x-occurrence="1" x-occurrences="1"\w*
 \w like|x-occurrence="1" x-occurrences="1"\w*
 \w that|x-occurrence="1" x-occurrences="1"\w*,
-\q2 \w I|x-occurrence="1" x-occurrences="1"\w*
+\q2 \w then|x-occurrence="1" x-occurrences="1"\w*
+\w I|x-occurrence="1" x-occurrences="1"\w*
 \w will|x-occurrence="1" x-occurrences="1"\w*
 \w forgive|x-occurrence="1" x-occurrences="1"\w*
 \w the|x-occurrence="3" x-occurrences="3"\w*
 \w people|x-occurrence="3" x-occurrences="3"\w*
 \w of|x-occurrence="2" x-occurrences="2"\w*
-\w Jerusalem|x-occurrence="3" x-occurrences="3"\w*
-\w and|x-occurrence="3" x-occurrences="3"\w*
+\w Jerusalem|x-occurrence="3" x-occurrences="3"\w* {\w and|x-occurrence="3" x-occurrences="3"\w*
 \w not|x-occurrence="1" x-occurrences="1"\w*
 \w destroy|x-occurrence="1" x-occurrences="1"\w*
 \w their|x-occurrence="1" x-occurrences="1"\w*
-\w city|x-occurrence="1" x-occurrences="1"\w*.
+\w city|x-occurrence="2" x-occurrences="2"\w*}.
 \q1  \v 2 But when the people there swear an official oath by Yahweh’s life,
 \q1 they are lying.”
 \q1 \v 3 So I prayed, “Yahweh, you are certainly searching for people who are faithful to you.
