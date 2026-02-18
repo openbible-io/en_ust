@@ -4117,24 +4117,136 @@
 \w no|x-occurrence="1" x-occurrences="1"\w*
 \w light|x-occurrence="1" x-occurrences="1"\w*
 \w there|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*.
-\q1  \v 24 I looked at the mountains and hills,
-\q2 and they shook and moved from side to side.
-\q1 \v 25 I looked and saw that all there were no more people
-\q2 and all the birds had flown away.
-\q1 \v 26 I looked and saw that the fields that previously were fertile had become a desert.
-\q1 The cities were all ruined;
-\q2 they had all been destroyed by Yahweh because he was extremely angry.”
+\q1  \v 24 \zaln-s |x-strong="H7200" x-lemma="רָאָה" x-morph="He,Vqp1cs" x-occurrence="1" x-occurrences="1" x-content="רָאִ֨יתִי֙"\*\w I|x-occurrence="1" x-occurrences="1"\w*
+\w looked|x-occurrence="1" x-occurrences="1"\w*
+\w at|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="d:H2022" x-lemma="הַר" x-morph="He,Td:Ncmpa" x-occurrence="1" x-occurrences="1" x-content="הֶֽ⁠הָרִ֔ים"\*\w the|x-occurrence="1" x-occurrences="1"\w*
+\w mountains|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="c:H3605" x-lemma="כֹּל" x-morph="He,C:Ncmsc" x-occurrence="1" x-occurrences="1" x-content="וְ⁠כָל"\*\w and|x-occurrence="1" x-occurrences="3"\w*\zaln-e\*
+\zaln-s |x-strong="d:H1389" x-lemma="גִּבְעָה" x-morph="He,Td:Ncfpa" x-occurrence="1" x-occurrences="1" x-content="הַ⁠גְּבָע֖וֹת"\*\w hills|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
+\q2 \zaln-s |x-strong="H7493" x-lemma="רָעַשׁ" x-morph="He,Vqrmpa" x-occurrence="1" x-occurrences="1" x-content="רֹעֲשִׁ֑ים"\*\w and|x-occurrence="2" x-occurrences="3"\w*
+\w they|x-occurrence="1" x-occurrences="1"\w*
+\w shook|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H7043" x-lemma="קָלַל" x-morph="He,Vfp3cp" x-occurrence="1" x-occurrences="1" x-content="הִתְקַלְקָֽלוּ"\*\w and|x-occurrence="3" x-occurrences="3"\w*
+\w moved|x-occurrence="1" x-occurrences="1"\w*
+\w from|x-occurrence="1" x-occurrences="1"\w*
+\w side|x-occurrence="1" x-occurrences="2"\w*
+\w to|x-occurrence="1" x-occurrences="1"\w*
+\w side|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*.
+\q1  \v 25 \zaln-s |x-strong="H7200" x-lemma="רָאָה" x-morph="He,Vqp1cs" x-occurrence="1" x-occurrences="1" x-content="רָאִ֕יתִי"\*\zaln-s |x-strong="c:H2009" x-lemma="הִנֵּה" x-morph="He,C:Tm" x-occurrence="1" x-occurrences="1" x-content="וְ⁠הִנֵּ֖ה"\*\w I|x-occurrence="1" x-occurrences="1"\w*
+\w looked|x-occurrence="1" x-occurrences="1"\w*
+\w and|x-occurrence="1" x-occurrences="2"\w*
+\w saw|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*
+\zaln-s |x-strong="d:H0120" x-lemma="אָדָם" x-morph="He,Td:Ncmsa" x-occurrence="1" x-occurrences="1" x-content="הָ⁠אָדָ֑ם"\*\w that|x-occurrence="1" x-occurrences="1"\w*
+\w there|x-occurrence="1" x-occurrences="1"\w*
+\w were|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H0369" x-lemma="אַיִן" x-morph="He,Tn" x-occurrence="1" x-occurrences="1" x-content="אֵ֣ין"\*\w no|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="d:H0120" x-lemma="אָדָם" x-morph="He,Td:Ncmsa" x-occurrence="1" x-occurrences="1" x-content="הָ⁠אָדָ֑ם"\*\w more|x-occurrence="1" x-occurrences="1"\w*
+\w people|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\q2 \zaln-s |x-strong="c:H3605" x-lemma="כֹּל" x-morph="He,C:Ncmsc" x-occurrence="1" x-occurrences="1" x-content="וְ⁠כָל"\*\w and|x-occurrence="2" x-occurrences="2"\w*
+\w all|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H5775" x-lemma="עוֹף" x-morph="He,Ncmsc" x-occurrence="1" x-occurrences="1" x-content="ע֥וֹף"\*\zaln-s |x-strong="d:H8064" x-lemma="שָׁמַיִם" x-morph="He,Td:Ncmpa" x-occurrence="1" x-occurrences="1" x-content="הַ⁠שָּׁמַ֖יִם"\*\w the|x-occurrence="1" x-occurrences="1"\w*
+\w birds|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*
+\zaln-s |x-strong="H5074" x-lemma="נָדַד" x-morph="He,Vqp3cp" x-occurrence="1" x-occurrences="1" x-content="נָדָֽדוּ"\*\w had|x-occurrence="1" x-occurrences="1"\w*
+\w flown|x-occurrence="1" x-occurrences="1"\w*
+\w away|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.
+\q1  \v 26 \zaln-s |x-strong="H7200" x-lemma="רָאָה" x-morph="He,Vqp1cs" x-occurrence="1" x-occurrences="1" x-content="רָאִ֕יתִי"\*\zaln-s |x-strong="c:H2009" x-lemma="הִנֵּה" x-morph="He,C:Tm" x-occurrence="1" x-occurrences="1" x-content="וְ⁠הִנֵּ֥ה"\*\w I|x-occurrence="1" x-occurrences="1"\w*
+\w looked|x-occurrence="1" x-occurrences="1"\w*
+\w and|x-occurrence="1" x-occurrences="1"\w*
+\w saw|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*
+\zaln-s |x-strong="d:H3759" x-lemma="כַּרְמֶל" x-morph="He,Td:Ncmsa" x-occurrence="1" x-occurrences="1" x-content="הַ⁠כַּרְמֶ֖ל"\*\w that|x-occurrence="1" x-occurrences="2"\w*
+\w the|x-occurrence="1" x-occurrences="1"\w*
+\w fields|x-occurrence="1" x-occurrences="1"\w*
+\w that|x-occurrence="2" x-occurrences="2"\w*
+\w previously|x-occurrence="1" x-occurrences="1"\w*
+\w were|x-occurrence="1" x-occurrences="2"\w*
+\w fertile|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="d:H4057b" x-lemma="מִדְבָּר" x-morph="He,Td:Ncmsa" x-occurrence="1" x-occurrences="1" x-content="הַ⁠מִּדְבָּ֑ר"\*\w had|x-occurrence="1" x-occurrences="2"\w*
+\w become|x-occurrence="1" x-occurrences="1"\w*
+\w a|x-occurrence="1" x-occurrences="1"\w*
+\w desert|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.
+\q1 \zaln-s |x-strong="H5892b" x-lemma="עִיר" x-morph="He,Ncfpc:Sp3ms" x-occurrence="1" x-occurrences="1" x-content="עָרָ֗י⁠ו"\*\w The|x-occurrence="1" x-occurrences="1"\w*
+\w cities|x-occurrence="1" x-occurrences="1"\w*
+\w were|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*
+\zaln-s |x-strong="c:H3605" x-lemma="כֹּל" x-morph="He,C:Ncmsc" x-occurrence="1" x-occurrences="1" x-content="וְ⁠כָל"\*\w all|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*
+\zaln-s |x-strong="H5422" x-lemma="נָתַץ" x-morph="He,VNp3cp" x-occurrence="1" x-occurrences="1" x-content="נִתְּצוּ֙"\*\w ruined|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*;
+\q2 \zaln-s |x-strong="H5422" x-lemma="נָתַץ" x-morph="He,VNp3cp" x-occurrence="1" x-occurrences="1" x-content="נִתְּצוּ֙"\*\w they|x-occurrence="1" x-occurrences="1"\w*
+\w had|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*
+\zaln-s |x-strong="c:H3605" x-lemma="כֹּל" x-morph="He,C:Ncmsc" x-occurrence="1" x-occurrences="1" x-content="וְ⁠כָל"\*\w all|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*
+\zaln-s |x-strong="H5422" x-lemma="נָתַץ" x-morph="He,VNp3cp" x-occurrence="1" x-occurrences="1" x-content="נִתְּצוּ֙"\*\w been|x-occurrence="1" x-occurrences="1"\w*
+\w destroyed|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="m:H6440" x-lemma="פָּנִים" x-morph="He,R:Ncbpc" x-occurrence="1" x-occurrences="1" x-content="מִ⁠פְּנֵ֣י"\*\w by|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H3068" x-lemma="יְהֹוָה" x-morph="He,Np" x-occurrence="1" x-occurrences="1" x-content="יְהוָ֔ה"\*\w Yahweh|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="m:H6440" x-lemma="פָּנִים" x-morph="He,R:Ncbpc" x-occurrence="1" x-occurrences="1" x-content="מִ⁠פְּנֵ֖י"\*\zaln-s |x-strong="H2740" x-lemma="חָרוֹן" x-morph="He,Ncmsc" x-occurrence="1" x-occurrences="1" x-content="חֲר֥וֹן"\*\zaln-s |x-strong="H0639" x-lemma="אַף" x-morph="He,Ncmsc:Sp3ms" x-occurrence="1" x-occurrences="1" x-content="אַפּֽ⁠וֹ"\*\w because|x-occurrence="1" x-occurrences="1"\w*
+\w he|x-occurrence="1" x-occurrences="1"\w*
+\w was|x-occurrence="1" x-occurrences="1"\w*
+\w extremely|x-occurrence="1" x-occurrences="1"\w*
+\w angry|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*\zaln-e\*.”
 
 \ts\*
 \p
-\v 27 This is what Yahweh is saying,
-\q1 “the entire land of Judah will be ruined,
-\q2 but I will not destroy it completely.
-\q1 \v 28 I will do to my people what I said that I would do,
-\q2 and I will not change my mind.
-\q1 So when that happens, it will be as though the earth will mourn
-\q2 and the sky will become very dark.
-\q1 \v 29 When the people hear the sound of the enemy cavalry and archers marching,
+\v 27 \zaln-s |x-strong="H3588a" x-lemma="כִּי" x-morph="He,C" x-occurrence="1" x-occurrences="1" x-content="כִּי"\*\zaln-s |x-strong="H3541" x-lemma="כֹּה" x-morph="He,D" x-occurrence="1" x-occurrences="1" x-content="כֹה֙"\*\w This|x-occurrence="1" x-occurrences="1"\w*
+\w is|x-occurrence="1" x-occurrences="2"\w*
+\w what|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*
+\zaln-s |x-strong="H3068" x-lemma="יְהֹוָה" x-morph="He,Np" x-occurrence="1" x-occurrences="1" x-content="יְהוָ֔ה"\*\w Yahweh|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H0559" x-lemma="אָמַר" x-morph="He,Vqp3ms" x-occurrence="1" x-occurrences="1" x-content="אָמַ֣ר"\*\w is|x-occurrence="2" x-occurrences="2"\w*
+\w saying|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
+\q1 “\zaln-s |x-strong="d:H0776" x-lemma="אֶרֶץ" x-morph="He,Td:Ncbsa" x-occurrence="1" x-occurrences="1" x-content="הָ⁠אָ֑רֶץ"\*\w The|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H3605" x-lemma="כֹּל" x-morph="He,Ncmsc" x-occurrence="1" x-occurrences="1" x-content="כָּל"\*\w entire|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="d:H0776" x-lemma="אֶרֶץ" x-morph="He,Td:Ncbsa" x-occurrence="1" x-occurrences="1" x-content="הָ⁠אָ֑רֶץ"\*\w land|x-occurrence="1" x-occurrences="1"\w*
+\w of|x-occurrence="1" x-occurrences="1"\w*
+\w Judah|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H1961" x-lemma="הָיָה" x-morph="He,Vqi3fs" x-occurrence="1" x-occurrences="1" x-content="תִהְיֶ֖ה"\*\w will|x-occurrence="1" x-occurrences="2"\w*
+\w be|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H8077a" x-lemma="שְׁמָמָה" x-morph="He,Ncfsa" x-occurrence="1" x-occurrences="1" x-content="שְׁמָמָ֥ה"\*\w ruined|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
+\q2 \zaln-s |x-strong="c:H3617" x-lemma="כָּלָה" x-morph="He,C:Ncfsa" x-occurrence="1" x-occurrences="1" x-content="וְ⁠כָלָ֖ה"\*\zaln-s |x-strong="H6213a" x-lemma="עָשָׂה" x-morph="He,Vqi1cs" x-occurrence="1" x-occurrences="1" x-content="אֶעֱשֶֽׂה"\*\w but|x-occurrence="1" x-occurrences="1"\w*
+\w I|x-occurrence="1" x-occurrences="1"\w*
+\w will|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*\zaln-e\*
+\zaln-s |x-strong="H3808" x-lemma="לֹא" x-morph="He,Tn" x-occurrence="1" x-occurrences="1" x-content="לֹ֥א"\*\w not|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="c:H3617" x-lemma="כָּלָה" x-morph="He,C:Ncfsa" x-occurrence="1" x-occurrences="1" x-content="וְ⁠כָלָ֖ה"\*\zaln-s |x-strong="H6213a" x-lemma="עָשָׂה" x-morph="He,Vqi1cs" x-occurrence="1" x-occurrences="1" x-content="אֶעֱשֶֽׂה"\*\w destroy|x-occurrence="1" x-occurrences="1"\w*
+\w it|x-occurrence="1" x-occurrences="1"\w*
+\w completely|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*.
+\q1  \v 28 \zaln-s |x-strong="H1696" x-lemma="דָבַר" x-morph="He,Vpp1cs" x-occurrence="1" x-occurrences="1" x-content="דִבַּ֨רְתִּי֙"\*\zaln-s |x-strong="H2161" x-lemma="זָמַם" x-morph="He,Vqp1cs" x-occurrence="1" x-occurrences="1" x-content="זַמֹּ֔תִי"\*\w I|x-occurrence="1" x-occurrences="4"\w*
+\w will|x-occurrence="1" x-occurrences="5"\w*
+\w do|x-occurrence="1" x-occurrences="2"\w*
+\w to|x-occurrence="1" x-occurrences="1"\w*
+\w my|x-occurrence="1" x-occurrences="2"\w*
+\w people|x-occurrence="1" x-occurrences="1"\w*
+\w what|x-occurrence="1" x-occurrences="1"\w*
+\w I|x-occurrence="2" x-occurrences="4"\w*
+\w said|x-occurrence="1" x-occurrences="1"\w*
+\w that|x-occurrence="1" x-occurrences="2"\w*
+\w I|x-occurrence="3" x-occurrences="4"\w*
+\w would|x-occurrence="1" x-occurrences="1"\w*
+\w do|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*\zaln-e\*,
+\q2 \zaln-s |x-strong="c:H3808" x-lemma="לֹא" x-morph="He,C:Tn" x-occurrence="1" x-occurrences="1" x-content="וְ⁠לֹ֥א"\*\zaln-s |x-strong="c:H3808" x-lemma="לֹא" x-morph="He,C:Tn" x-occurrence="1" x-occurrences="1" x-content="וְ⁠לֹא"\*\w and|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*\zaln-e\*
+\zaln-s |x-strong="H5162" x-lemma="נָחַם" x-morph="He,VNp1cs" x-occurrence="1" x-occurrences="1" x-content="נִחַ֖מְתִּי"\*\zaln-s |x-strong="H7725" x-lemma="שׁוּב" x-morph="He,Vqi1cs" x-occurrence="1" x-occurrences="1" x-content="אָשׁ֥וּב"\*\zaln-s |x-strong="H4480a" x-lemma="מִן" x-morph="He,R:Sp3fs" x-occurrence="1" x-occurrences="1" x-content="מִמֶּֽ⁠נָּה"\*\w I|x-occurrence="4" x-occurrences="4"\w*
+\w will|x-occurrence="2" x-occurrences="5"\w*\zaln-e\*\zaln-e\*\zaln-e\*
+\zaln-s |x-strong="c:H3808" x-lemma="לֹא" x-morph="He,C:Tn" x-occurrence="1" x-occurrences="1" x-content="וְ⁠לֹ֥א"\*\zaln-s |x-strong="c:H3808" x-lemma="לֹא" x-morph="He,C:Tn" x-occurrence="1" x-occurrences="1" x-content="וְ⁠לֹא"\*\w not|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*
+\zaln-s |x-strong="H5162" x-lemma="נָחַם" x-morph="He,VNp1cs" x-occurrence="1" x-occurrences="1" x-content="נִחַ֖מְתִּי"\*\zaln-s |x-strong="H7725" x-lemma="שׁוּב" x-morph="He,Vqi1cs" x-occurrence="1" x-occurrences="1" x-content="אָשׁ֥וּב"\*\zaln-s |x-strong="H4480a" x-lemma="מִן" x-morph="He,R:Sp3fs" x-occurrence="1" x-occurrences="1" x-content="מִמֶּֽ⁠נָּה"\*\w change|x-occurrence="1" x-occurrences="1"\w*
+\w my|x-occurrence="2" x-occurrences="2"\w*
+\w mind|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*\zaln-e\*.
+\q1 {\zaln-s |x-strong="H5921a" x-lemma="עַל" x-morph="He,R" x-occurrence="1" x-occurrences="1" x-content="עַל"\*\zaln-s |x-strong="H2063" x-lemma="זֹאת" x-morph="He,Pdxfs" x-occurrence="1" x-occurrences="1" x-content="זֹאת֙"\*\zaln-s |x-strong="d:H0776" x-lemma="אֶרֶץ" x-morph="He,Td:Ncbsa" x-occurrence="1" x-occurrences="1" x-content="הָ⁠אָ֔רֶץ"\*\w So|x-occurrence="1" x-occurrences="1"\w*
+\w when|x-occurrence="1" x-occurrences="1"\w*
+\w that|x-occurrence="2" x-occurrences="2"\w*
+\w happens|x-occurrence="1" x-occurrences="1"\w*,
+\w it|x-occurrence="1" x-occurrences="1"\w*
+\w will|x-occurrence="3" x-occurrences="5"\w*
+\w be|x-occurrence="1" x-occurrences="1"\w*
+\w as|x-occurrence="1" x-occurrences="1"\w*
+\w though|x-occurrence="1" x-occurrences="1"\w*}
+\w the|x-occurrence="1" x-occurrences="2"\w*
+\w earth|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*\zaln-e\*
+\zaln-s |x-strong="H0056" x-lemma="אָבַל" x-morph="He,Vqi3fs" x-occurrence="1" x-occurrences="1" x-content="תֶּאֱבַ֣ל"\*\w will|x-occurrence="4" x-occurrences="5"\w*
+\w mourn|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\q2 \zaln-s |x-strong="c:H6937" x-lemma="קָדַר" x-morph="He,C:Vqq3cp" x-occurrence="1" x-occurrences="1" x-content="וְ⁠קָדְר֥וּ"\*\w and|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*
+\zaln-s |x-strong="d:H8064" x-lemma="שָׁמַיִם" x-morph="He,Td:Ncmpa" x-occurrence="1" x-occurrences="1" x-content="הַ⁠שָּׁמַ֖יִם"\*\zaln-s |x-strong="m:H4605" x-lemma="מַעַל" x-morph="He,R:D" x-occurrence="1" x-occurrences="1" x-content="מִ⁠מָּ֑עַל"\*\w the|x-occurrence="2" x-occurrences="2"\w*
+\w sky|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*
+\zaln-s |x-strong="c:H6937" x-lemma="קָדַר" x-morph="He,C:Vqq3cp" x-occurrence="1" x-occurrences="1" x-content="וְ⁠קָדְר֥וּ"\*\w will|x-occurrence="5" x-occurrences="5"\w*
+\w become|x-occurrence="1" x-occurrences="1"\w*
+\w very|x-occurrence="1" x-occurrences="1"\w*
+\w dark|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.
+\q1  \v 29 When the people hear the sound of the enemy cavalry and archers marching,
 \q2 they will be terrified as they flee from their cities.
 \q1 Some of them will find places to hide in the bushes,
 \q2 and others will run toward the quarries to escape being killed by their enemies.
