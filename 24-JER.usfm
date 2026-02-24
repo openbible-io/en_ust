@@ -5581,71 +5581,128 @@
 \ts\*
 
 \c 6
-\q1 \v 1 \w You|x-occurrence="1" x-occurrences="1"\w*
-\w people|x-occurrence="1" x-occurrences="2"\w*
-\w in|x-occurrence="1" x-occurrences="3"\w*
-\w Jerusalem|x-occurrence="1" x-occurrences="2"\w*
-\w who|x-occurrence="1" x-occurrences="1"\w*
+\q1 \v 1 \zaln-s |x-strong="H1121a" x-lemma="בֵּן" x-morph="He,Ncmpc" x-occurrence="1" x-occurrences="1" x-content="בְּנֵ֣י"\*\w You|x-occurrence="1" x-occurrences="1"\w*
+\w people|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*
+\zaln-s |x-strong="m:H7130" x-lemma="קֶרֶב" x-morph="He,R:Ncmsc" x-occurrence="1" x-occurrences="1" x-content="מִ⁠קֶּ֨רֶב֙"\*\w in|x-occurrence="1" x-occurrences="3"\w*\zaln-e\*
+\zaln-s |x-strong="H3389" x-lemma="יְרוּשָׁלִַ͏ם" x-morph="He,Np" x-occurrence="1" x-occurrences="1" x-content="יְר֣וּשָׁלִַ֔ם"\*\w Jerusalem|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*
+\zaln-s |x-strong="H1144" x-lemma="בִּנְיָמִין" x-morph="He,Np" x-occurrence="1" x-occurrences="1" x-content="בִניָמִ֗ן"\*\w who|x-occurrence="1" x-occurrences="1"\w*
 \w are|x-occurrence="1" x-occurrences="1"\w*
 \w from|x-occurrence="1" x-occurrences="3"\w*
 \w the|x-occurrence="1" x-occurrences="7"\w*
 \w tribe|x-occurrence="1" x-occurrences="1"\w*
 \w of|x-occurrence="1" x-occurrences="5"\w*
-\w Benjamin|x-occurrence="1" x-occurrences="1"\w*,
-\q2 \w flee|x-occurrence="1" x-occurrences="1"\w*
-\w from|x-occurrence="2" x-occurrences="3"\w*
+\w Benjamin|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
+\q2 \zaln-s |x-strong="H5756" x-lemma="עוּז" x-morph="He,Vhv2mp" x-occurrence="1" x-occurrences="1" x-content="הָעִ֣זוּ"\*\w flee|x-occurrence="1" x-occurrences="1"\w*\zaln-e\* {\zaln-s |x-strong="H5756" x-lemma="עוּז" x-morph="He,Vhv2mp" x-occurrence="1" x-occurrences="1" x-content="הָעִ֣זוּ"\*\w from|x-occurrence="2" x-occurrences="3"\w*
 \w this|x-occurrence="1" x-occurrences="1"\w*
-\w city|x-occurrence="1" x-occurrences="2"\w*!
-\q1 \w Blow|x-occurrence="1" x-occurrences="1"\w*
-\w the|x-occurrence="2" x-occurrences="7"\w*
-\w trumpets|x-occurrence="1" x-occurrences="1"\w*
-\w in|x-occurrence="2" x-occurrences="3"\w*
+\w city|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*}!
+\q1 \zaln-s |x-strong="H8628" x-lemma="תָּקַע" x-morph="He,Vqv2mp" x-occurrence="1" x-occurrences="1" x-content="תִּקְע֣וּ"\*\w Blow|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H7782" x-lemma="שׁוֹפָר" x-morph="He,Ncmsa" x-occurrence="1" x-occurrences="1" x-content="שׁוֹפָ֔ר"\*\w the|x-occurrence="2" x-occurrences="7"\w*
+\w trumpets|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="c:b:H8620" x-lemma="תְּקוֹעַ" x-morph="He,C:R:Np" x-occurrence="1" x-occurrences="1" x-content="וּ⁠בִ⁠תְק֨וֹעַ֙"\*\w in|x-occurrence="2" x-occurrences="3"\w*
 \w the|x-occurrence="3" x-occurrences="7"\w*
 \w city|x-occurrence="2" x-occurrences="2"\w*
 \w of|x-occurrence="2" x-occurrences="5"\w*
-\w Tekoa|x-occurrence="1" x-occurrences="1"\w* {\w south|x-occurrence="1" x-occurrences="1"\w*
+\w Tekoa|x-occurrence="1" x-occurrences="1"\w*\zaln-e\* {\zaln-s |x-strong="c:b:H8620" x-lemma="תְּקוֹעַ" x-morph="He,C:R:Np" x-occurrence="1" x-occurrences="1" x-content="וּ⁠בִ⁠תְק֨וֹעַ֙"\*\w south|x-occurrence="1" x-occurrences="1"\w*
 \w of|x-occurrence="3" x-occurrences="5"\w*
-\w Jerusalem|x-occurrence="2" x-occurrences="2"\w*}!
-\q1 \w Send|x-occurrence="1" x-occurrences="1"\w*
-\w up|x-occurrence="1" x-occurrences="1"\w*
-\w a|x-occurrence="1" x-occurrences="1"\w*
+\w Jerusalem|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*}!
+\q1 \zaln-s |x-strong="c:H5921a" x-lemma="עַל" x-morph="He,C:R" x-occurrence="1" x-occurrences="1" x-content="וְ⁠עַל"\*\zaln-s |x-strong="H5375" x-lemma="נָשָׂא" x-morph="He,Vqv2mp" x-occurrence="1" x-occurrences="1" x-content="שְׂא֣וּ"\*\w Send|x-occurrence="1" x-occurrences="1"\w*
+\w up|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*
+\zaln-s |x-strong="H4864" x-lemma="מַשְׂאֵת" x-morph="He,Ncfsa" x-occurrence="1" x-occurrences="1" x-content="מַשְׂאֵ֑ת"\*\w a|x-occurrence="1" x-occurrences="1"\w*
 \w smoke|x-occurrence="1" x-occurrences="1"\w*
-\w signal|x-occurrence="1" x-occurrences="1"\w*
-\w in|x-occurrence="3" x-occurrences="3"\w*
+\w signal|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H1021" x-lemma="בֵּית הַכֶּרֶם" x-morph="He,Np" x-occurrence="1" x-occurrences="1" x-content="בֵּ֥ית"\*\w in|x-occurrence="3" x-occurrences="3"\w*
 \w the|x-occurrence="4" x-occurrences="7"\w*
 \w town|x-occurrence="1" x-occurrences="1"\w*
 \w of|x-occurrence="4" x-occurrences="5"\w*
-\w Beth|x-occurrence="1" x-occurrences="1"\w*
-\w Hakerem|x-occurrence="1" x-occurrences="1"\w*
-\q2 {\w to|x-occurrence="1" x-occurrences="1"\w*
-\w warn|x-occurrence="1" x-occurrences="1"\w*
+\w Beth|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H1021" x-lemma="בֵּית הַכֶּרֶם" x-morph="He,Np" x-occurrence="1" x-occurrences="1" x-content="הַכֶּ֖רֶם"\*\w Hakerem|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\q2 {\zaln-s |x-strong="H3588a" x-lemma="כִּי" x-morph="He,C" x-occurrence="1" x-occurrences="1" x-content="כִּ֥י"\*\w to|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H8259" x-lemma="שָׁקַף" x-morph="He,VNp3fs" x-occurrence="1" x-occurrences="1" x-content="נִשְׁקְפָ֥ה"\*\w warn|x-occurrence="1" x-occurrences="1"\w*
 \w the|x-occurrence="5" x-occurrences="7"\w*
 \w people|x-occurrence="2" x-occurrences="2"\w*
 \w of|x-occurrence="5" x-occurrences="5"\w*
 \w the|x-occurrence="6" x-occurrences="7"\w*
-\w coming|x-occurrence="1" x-occurrences="1"\w*
-\w danger|x-occurrence="1" x-occurrences="1"\w*}!
-\q1 \w A|x-occurrence="1" x-occurrences="1"\w*
+\w coming|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H7451c" x-lemma="רַע" x-morph="He,Ncfsa" x-occurrence="1" x-occurrences="1" x-content="רָעָ֛ה"\*\w danger|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*}!
+\q1 \zaln-s |x-strong="H7451c" x-lemma="רַע" x-morph="He,Ncfsa" x-occurrence="1" x-occurrences="1" x-content="רָעָ֛ה"\*\w A|x-occurrence="1" x-occurrences="1"\w*
 \w powerful|x-occurrence="1" x-occurrences="1"\w*
-\w army|x-occurrence="1" x-occurrences="1"\w*
-\w will|x-occurrence="1" x-occurrences="2"\w*
-\w come|x-occurrence="1" x-occurrences="1"\w*
-\w from|x-occurrence="3" x-occurrences="3"\w*
+\w army|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H8259" x-lemma="שָׁקַף" x-morph="He,VNp3fs" x-occurrence="1" x-occurrences="1" x-content="נִשְׁקְפָ֥ה"\*\w will|x-occurrence="1" x-occurrences="2"\w*
+\w come|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="m:H6828" x-lemma="צָפוֹן" x-morph="He,R:Ncfsa" x-occurrence="1" x-occurrences="1" x-content="מִ⁠צָּפ֖וֹן"\*\w from|x-occurrence="3" x-occurrences="3"\w*
 \w the|x-occurrence="7" x-occurrences="7"\w*
-\w north|x-occurrence="1" x-occurrences="1"\w*,
-\q2 \w and|x-occurrence="1" x-occurrences="1"\w*
+\w north|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
+\q2 \zaln-s |x-strong="c:H7667" x-lemma="שֶׁבֶר" x-morph="He,C:Ncmsa" x-occurrence="1" x-occurrences="1" x-content="וְ⁠שֶׁ֥בֶר"\*\w and|x-occurrence="1" x-occurrences="1"\w*
 \w they|x-occurrence="1" x-occurrences="1"\w*
 \w will|x-occurrence="2" x-occurrences="2"\w*
-\w cause|x-occurrence="1" x-occurrences="1"\w*
-\w great|x-occurrence="1" x-occurrences="1"\w*
-\w destruction|x-occurrence="1" x-occurrences="1"\w*.
-\q1  \v 2 Jerusalem is like a beautiful woman,
-\q2 but it will soon be destroyed.
-\q1 \v 3 Enemy kings, the shepherds of foreign people groups, will come with their armies and set up their tents around the city,
-\q2 and each king will choose a part of the city for his soldiers to destroy as shepherds divide their pastures for their flocks of sheep.
+\w cause|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H1419a" x-lemma="גָּדוֹל" x-morph="He,Aamsa" x-occurrence="1" x-occurrences="1" x-content="גָּדֽוֹל"\*\w great|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="c:H7667" x-lemma="שֶׁבֶר" x-morph="He,C:Ncmsa" x-occurrence="1" x-occurrences="1" x-content="וְ⁠שֶׁ֥בֶר"\*\w destruction|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.
+\q1  \v 2 \zaln-s |x-strong="H1323" x-lemma="בַּת" x-morph="He,Ncfsc" x-occurrence="1" x-occurrences="1" x-content="בַּת"\*\zaln-s |x-strong="H6726" x-lemma="צִיּוֹן" x-morph="He,Np" x-occurrence="1" x-occurrences="1" x-content="צִיּֽוֹן"\*\w Jerusalem|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*
+\zaln-s |x-strong="H1820" x-lemma="דָּמָה" x-morph="He,Vqp1cs" x-occurrence="1" x-occurrences="1" x-content="דָּמִ֖יתִי"\*\w is|x-occurrence="1" x-occurrences="1"\w*
+\w like|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="d:H5000" x-lemma="נָאוֶה" x-morph="He,Td:Aafsa" x-occurrence="1" x-occurrences="1" x-content="הַ⁠נָּוָה֙"\*\w a|x-occurrence="1" x-occurrences="1"\w*
+\w beautiful|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="c:d:H6026" x-lemma="עָנַג" x-morph="He,C:Td:VPsfsa" x-occurrence="1" x-occurrences="1" x-content="וְ⁠הַ⁠מְּעֻנָּגָ֔ה"\*\w and|x-occurrence="1" x-occurrences="1"\w*
+\w delicate|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H1820" x-lemma="דָּמָה" x-morph="He,Vqp1cs" x-occurrence="1" x-occurrences="1" x-content="דָּמִ֖יתִי"\*\w woman|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.
+\q1  \v 3 \w Enemy|x-occurrence="1" x-occurrences="1"\w*
+\w kings|x-occurrence="1" x-occurrences="1"\w*, {\w who|x-occurrence="1" x-occurrences="2"\w*
+\w are|x-occurrence="1" x-occurrences="2"\w*
+\w like|x-occurrence="1" x-occurrences="2"\w*}
+\w the|x-occurrence="1" x-occurrences="3"\w*
+\w shepherds|x-occurrence="1" x-occurrences="2"\w* {\w of|x-occurrence="1" x-occurrences="3"\w*
+\w foreign|x-occurrence="1" x-occurrences="1"\w*
+\w people|x-occurrence="1" x-occurrences="1"\w*
+\w groups|x-occurrence="1" x-occurrences="1"\w*},
+\w will|x-occurrence="1" x-occurrences="2"\w*
+\w come|x-occurrence="1" x-occurrences="1"\w*
+\w with|x-occurrence="1" x-occurrences="1"\w*
+\w their|x-occurrence="1" x-occurrences="5"\w*
+\w armies|x-occurrence="1" x-occurrences="1"\w*{,
+\w who|x-occurrence="2" x-occurrences="2"\w*
+\w are|x-occurrence="2" x-occurrences="2"\w*
+\w like|x-occurrence="2" x-occurrences="2"\w*
+\w their|x-occurrence="2" x-occurrences="5"\w*
+\w flocks|x-occurrence="1" x-occurrences="2"\w*}
+\w and|x-occurrence="1" x-occurrences="1"\w*
+\w set|x-occurrence="1" x-occurrences="1"\w*
+\w up|x-occurrence="1" x-occurrences="1"\w*
+\w their|x-occurrence="3" x-occurrences="5"\w*
+\w tents|x-occurrence="1" x-occurrences="1"\w*
+\w around|x-occurrence="1" x-occurrences="1"\w*
+\w the|x-occurrence="2" x-occurrences="3"\w*
+\w city|x-occurrence="1" x-occurrences="2"\w*.
+\q2 \w Then|x-occurrence="1" x-occurrences="1"\w*
+\w each|x-occurrence="1" x-occurrences="1"\w* {\w king|x-occurrence="1" x-occurrences="1"\w*
+\w will|x-occurrence="2" x-occurrences="2"\w*
+\w choose|x-occurrence="1" x-occurrences="1"\w*
+\w a|x-occurrence="1" x-occurrences="1"\w*
+\w part|x-occurrence="1" x-occurrences="1"\w*
+\w of|x-occurrence="2" x-occurrences="3"\w*
+\w the|x-occurrence="3" x-occurrences="3"\w*
+\w city|x-occurrence="2" x-occurrences="2"\w*
+\w for|x-occurrence="1" x-occurrences="2"\w*
+\w his|x-occurrence="1" x-occurrences="1"\w*
+\w soldiers|x-occurrence="1" x-occurrences="1"\w*
+\w to|x-occurrence="1" x-occurrences="2"\w*
+\w destroy|x-occurrence="1" x-occurrences="1"\w*
+\w as|x-occurrence="1" x-occurrences="1"\w*}
+\w shepherds|x-occurrence="2" x-occurrences="2"\w*
+\w divide|x-occurrence="1" x-occurrences="1"\w*
+\w their|x-occurrence="4" x-occurrences="5"\w*
+\w pastures|x-occurrence="1" x-occurrences="1"\w*
+\w for|x-occurrence="2" x-occurrences="2"\w*
+\w their|x-occurrence="5" x-occurrences="5"\w*
+\w flocks|x-occurrence="2" x-occurrences="2"\w*
+\w of|x-occurrence="3" x-occurrences="3"\w*
+\w sheep|x-occurrence="1" x-occurrences="1"\w*
+\w to|x-occurrence="2" x-occurrences="2"\w*
+\w graze|x-occurrence="1" x-occurrences="1"\w*
+\w in|x-occurrence="1" x-occurrences="1"\w*.
 
 \ts\*
-\q1 \v 4 The kings will tell their troops,
+\q1  \v 4 The kings will tell their troops,
 \q2 ‘Make the sacrifices necessary to get ready for battle.
 \q2 We should attack them before noontime,
 \q1 but even if we arrive there late in the afternoon,
