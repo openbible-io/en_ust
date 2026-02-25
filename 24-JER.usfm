@@ -5761,9 +5761,7 @@
 \w the|x-occurrence="2" x-occurrences="6"\w*
 \w armies|x-occurrence="1" x-occurrences="1"\w*
 \w of|x-occurrence="2" x-occurrences="3"\w*
-\w angels|x-occurrence="1" x-occurrences="1"\w*
-\w in|x-occurrence="1" x-occurrences="1"\w*
-\w heaven|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
+\w angels|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
 \zaln-s |x-strong="H0559" x-lemma="אָמַר" x-morph="He,Vqp3ms" x-occurrence="1" x-occurrences="1" x-content="אָמַר֙"\*\w says|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="H3541" x-lemma="כֹּה" x-morph="He,D" x-occurrence="1" x-occurrences="1" x-content="כֹ֤ה"\*\w this|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
 \q1 “{\zaln-s |x-strong="H3772" x-lemma="כָּרַת" x-morph="He,Vqv2mp" x-occurrence="1" x-occurrences="1" x-content="כִּרְת֣וּ"\*\w I|x-occurrence="1" x-occurrences="1"\w*
@@ -5841,18 +5839,112 @@
 \w suffering|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="c:H4347" x-lemma="מַכָּה" x-morph="He,C:Ncfsa" x-occurrence="1" x-occurrences="1" x-content="וּ⁠מַכָּֽה"\*\w and|x-occurrence="2" x-occurrences="2"\w*
 \w wounded|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.
-\q1  \v 8 Listen to what I am warning you, you people of Jerusalem,
-\q2 because if you do not listen, I will reject you
-\q1 and cause your land to become desolate,
-\q2 a land where no one lives.”
+\q1  \v 8 \zaln-s |x-strong="H3256" x-lemma="יָסַר" x-morph="He,VNv2fs" x-occurrence="1" x-occurrences="1" x-content="הִוָּסְרִי֙"\*\w Pay|x-occurrence="1" x-occurrences="1"\w*
+\w attention|x-occurrence="1" x-occurrences="1"\w*
+\w to|x-occurrence="1" x-occurrences="2"\w*
+\w my|x-occurrence="1" x-occurrences="1"\w*
+\w warning|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
+\zaln-s |x-strong="H3389" x-lemma="יְרוּשָׁלִַ͏ם" x-morph="He,Np" x-occurrence="1" x-occurrences="1" x-content="יְר֣וּשָׁלִַ֔ם"\*\w you|x-occurrence="1" x-occurrences="3"\w*
+\w people|x-occurrence="1" x-occurrences="1"\w*
+\w of|x-occurrence="1" x-occurrences="1"\w*
+\w Jerusalem|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
+\q2 \zaln-s |x-strong="H6435" x-lemma="פֵּן" x-morph="He,C" x-occurrence="1" x-occurrences="2" x-content="פֶּן"\*\w because|x-occurrence="1" x-occurrences="1"\w*
+\w if|x-occurrence="1" x-occurrences="1"\w*
+\w you|x-occurrence="2" x-occurrences="3"\w*
+\w do|x-occurrence="1" x-occurrences="1"\w*
+\w not|x-occurrence="1" x-occurrences="1"\w*
+\w listen|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
+\zaln-s |x-strong="H5315" x-lemma="נֶפֶשׁ" x-morph="He,Ncbsc:Sp1cs" x-occurrence="1" x-occurrences="1" x-content="נַפְשִׁ֖⁠י"\*\w I|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H3363" x-lemma="יָקַע" x-morph="He,Vqi3fs" x-occurrence="1" x-occurrences="1" x-content="תֵּקַ֥ע"\*\w will|x-occurrence="1" x-occurrences="1"\w*
+\w reject|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H4480a" x-lemma="מִן" x-morph="He,R:Sp2fs" x-occurrence="1" x-occurrences="1" x-content="מִמֵּ֑⁠ךְ"\*\w you|x-occurrence="3" x-occurrences="3"\w*\zaln-e\*
+\q1 \zaln-s |x-strong="H6435" x-lemma="פֵּן" x-morph="He,C" x-occurrence="2" x-occurrences="2" x-content="פֶּן"\*\w and|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H7760a" x-lemma="שׂוּם" x-morph="He,Vqi1cs:Sp2fs" x-occurrence="1" x-occurrences="1" x-content="אֲשִׂימֵ֣⁠ךְ"\*\w cause|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H0776" x-lemma="אֶרֶץ" x-morph="He,Ncbsa" x-occurrence="1" x-occurrences="1" x-content="אֶ֖רֶץ"\*\w your|x-occurrence="1" x-occurrences="1"\w*
+\w land|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*
+\zaln-s |x-strong="H7760a" x-lemma="שׂוּם" x-morph="He,Vqi1cs:Sp2fs" x-occurrence="1" x-occurrences="1" x-content="אֲשִׂימֵ֣⁠ךְ"\*\w to|x-occurrence="2" x-occurrences="2"\w*
+\w become|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H8077a" x-lemma="שְׁמָמָה" x-morph="He,Ncfsa" x-occurrence="1" x-occurrences="1" x-content="שְׁמָמָ֔ה"\*\w desolate|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
+\q2 \zaln-s |x-strong="H0776" x-lemma="אֶרֶץ" x-morph="He,Ncbsa" x-occurrence="1" x-occurrences="1" x-content="אֶ֖רֶץ"\*\w a|x-occurrence="1" x-occurrences="1"\w*
+\w land|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*
+\zaln-s |x-strong="H3427" x-lemma="יָשַׁב" x-morph="He,VNp3fs" x-occurrence="1" x-occurrences="1" x-content="נוֹשָֽׁבָה"\*\w where|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H3808" x-lemma="לֹא" x-morph="He,Tn" x-occurrence="1" x-occurrences="1" x-content="ל֥וֹא"\*\w no|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H3427" x-lemma="יָשַׁב" x-morph="He,VNp3fs" x-occurrence="1" x-occurrences="1" x-content="נוֹשָֽׁבָה"\*\w one|x-occurrence="1" x-occurrences="1"\w*
+\w lives|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.”
 
 \ts\*
 \p
-\v 9 Yahweh, the commander of the angel armies, says this,
-\q2 “Your enemies will cause your country to become as desolate as a vineyard from which all the grapes have been completely stripped from the vines.
-\q1 Their soldiers will seize the possessions of those who remain in Israel after the others have been exiled
-\q2 like farmers go to the vines again to pick any grapes that were left.
-\q1 \v 10 Who can I, Jeremiah, speak to? Who would listen to me, even if I spoke to them?
+\v 9 \zaln-s |x-strong="H3068" x-lemma="יְהֹוָה" x-morph="He,Np" x-occurrence="1" x-occurrences="1" x-content="יְהֹוָ֣ה"\*\w Yahweh|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
+\zaln-s |x-strong="H6635b" x-lemma="צָבָא" x-morph="He,Ncbpa" x-occurrence="1" x-occurrences="1" x-content="צְבָא֔וֹת"\*\w the|x-occurrence="1" x-occurrences="7"\w*
+\w commander|x-occurrence="1" x-occurrences="1"\w*
+\w of|x-occurrence="1" x-occurrences="2"\w*
+\w the|x-occurrence="2" x-occurrences="7"\w*
+\w angel|x-occurrence="1" x-occurrences="1"\w*
+\w armies|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
+\zaln-s |x-strong="H0559" x-lemma="אָמַר" x-morph="He,Vqp3ms" x-occurrence="1" x-occurrences="1" x-content="אָמַר֙"\*\w also|x-occurrence="1" x-occurrences="1"\w*
+\w says|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H3541" x-lemma="כֹּה" x-morph="He,D" x-occurrence="1" x-occurrences="1" x-content="כֹּ֤ה"\*\w this|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*:
+\q2 “{\zaln-s |x-strong="H5953b" x-lemma="עָלַל" x-morph="He,Vma" x-occurrence="1" x-occurrences="1" x-content="עוֹלֵ֛ל"\*\zaln-s |x-strong="H5953b" x-lemma="עָלַל" x-morph="He,Vmi3mp" x-occurrence="1" x-occurrences="1" x-content="יְעוֹלְל֥וּ"\*\w I|x-occurrence="1" x-occurrences="1"\w*
+\w will|x-occurrence="1" x-occurrences="2"\w*
+\w tell|x-occurrence="1" x-occurrences="1"\w*
+\w your|x-occurrence="1" x-occurrences="2"\w*
+\w enemies|x-occurrence="1" x-occurrences="1"\w*}
+\w to|x-occurrence="1" x-occurrences="4"\w*
+\w cause|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*
+\zaln-s |x-strong="H3478" x-lemma="יִשְׂרָאֵל" x-morph="He,Np" x-occurrence="1" x-occurrences="1" x-content="יִשְׂרָאֵ֑ל"\*\w your|x-occurrence="2" x-occurrences="2"\w*
+\w country|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H5953b" x-lemma="עָלַל" x-morph="He,Vma" x-occurrence="1" x-occurrences="1" x-content="עוֹלֵ֛ל"\*\zaln-s |x-strong="H5953b" x-lemma="עָלַל" x-morph="He,Vmi3mp" x-occurrence="1" x-occurrences="1" x-content="יְעוֹלְל֥וּ"\*\w to|x-occurrence="2" x-occurrences="4"\w*
+\w become|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*
+\zaln-s |x-strong="k:H1612" x-lemma="גֶּפֶן" x-morph="He,Rd:Ncbsa" x-occurrence="1" x-occurrences="1" x-content="כַ⁠גֶּ֖פֶן"\*\w as|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*
+\zaln-s |x-strong="H5953b" x-lemma="עָלַל" x-morph="He,Vma" x-occurrence="1" x-occurrences="1" x-content="עוֹלֵ֛ל"\*\zaln-s |x-strong="H5953b" x-lemma="עָלַל" x-morph="He,Vmi3mp" x-occurrence="1" x-occurrences="1" x-content="יְעוֹלְל֥וּ"\*\w desolate|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*
+\zaln-s |x-strong="k:H1612" x-lemma="גֶּפֶן" x-morph="He,Rd:Ncbsa" x-occurrence="1" x-occurrences="1" x-content="כַ⁠גֶּ֖פֶן"\*\w as|x-occurrence="2" x-occurrences="2"\w*
+\w a|x-occurrence="1" x-occurrences="1"\w*
+\w vineyard|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H5953b" x-lemma="עָלַל" x-morph="He,Vma" x-occurrence="1" x-occurrences="1" x-content="עוֹלֵ֛ל"\*\zaln-s |x-strong="H5953b" x-lemma="עָלַל" x-morph="He,Vmi3mp" x-occurrence="1" x-occurrences="1" x-content="יְעוֹלְל֥וּ"\*\w from|x-occurrence="1" x-occurrences="2"\w*
+\w which|x-occurrence="1" x-occurrences="1"\w*
+\w all|x-occurrence="1" x-occurrences="1"\w*
+\w the|x-occurrence="3" x-occurrences="7"\w*
+\w grapes|x-occurrence="1" x-occurrences="2"\w*
+\w have|x-occurrence="1" x-occurrences="2"\w*
+\w been|x-occurrence="1" x-occurrences="2"\w*
+\w completely|x-occurrence="1" x-occurrences="1"\w*
+\w stripped|x-occurrence="1" x-occurrences="1"\w*
+\w from|x-occurrence="2" x-occurrences="2"\w*
+\w the|x-occurrence="4" x-occurrences="7"\w*
+\w vines|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*\zaln-e\*.
+\q1 {\zaln-s |x-strong="H7725" x-lemma="שׁוּב" x-morph="He,Vhv2ms" x-occurrence="1" x-occurrences="1" x-content="הָשֵׁב֙"\*\zaln-s |x-strong="H3027" x-lemma="יָד" x-morph="He,Ncbsc:Sp2ms" x-occurrence="1" x-occurrences="1" x-content="יָדְ⁠ךָ֔"\*\zaln-s |x-strong="k:H1219" x-lemma="בָּצַר" x-morph="He,R:Vqrmsa" x-occurrence="1" x-occurrences="1" x-content="כְּ⁠בוֹצֵ֖ר"\*\zaln-s |x-strong="H5921a" x-lemma="עַל" x-morph="He,R" x-occurrence="1" x-occurrences="1" x-content="עַל"\*\zaln-s |x-strong="H5552" x-lemma="סַלְסִלָּה" x-morph="He,Ncfpa" x-occurrence="1" x-occurrences="1" x-content="סַלְסִלּֽוֹת"\*\w Their|x-occurrence="1" x-occurrences="1"\w*
+\w soldiers|x-occurrence="1" x-occurrences="1"\w*
+\w will|x-occurrence="2" x-occurrences="2"\w*
+\w seize|x-occurrence="1" x-occurrences="1"\w*
+\w the|x-occurrence="5" x-occurrences="7"\w*
+\w possessions|x-occurrence="1" x-occurrences="1"\w*
+\w of|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*\zaln-e\*\zaln-e\*\zaln-e\*\zaln-e\*
+\zaln-s |x-strong="H7611" x-lemma="שְׁאֵרִית" x-morph="He,Ncfsc" x-occurrence="1" x-occurrences="1" x-content="שְׁאֵרִ֣ית"\*\w those|x-occurrence="1" x-occurrences="1"\w*}
+\w who|x-occurrence="1" x-occurrences="1"\w*
+\w remain|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H3478" x-lemma="יִשְׂרָאֵל" x-morph="He,Np" x-occurrence="1" x-occurrences="1" x-content="יִשְׂרָאֵ֑ל"\*\w in|x-occurrence="1" x-occurrences="1"\w*
+\w Israel|x-occurrence="1" x-occurrences="1"\w*\zaln-e\* {\zaln-s |x-strong="H7611" x-lemma="שְׁאֵרִית" x-morph="He,Ncfsc" x-occurrence="1" x-occurrences="1" x-content="שְׁאֵרִ֣ית"\*\w after|x-occurrence="1" x-occurrences="1"\w*
+\w the|x-occurrence="6" x-occurrences="7"\w*
+\w others|x-occurrence="1" x-occurrences="1"\w*
+\w have|x-occurrence="2" x-occurrences="2"\w*
+\w been|x-occurrence="2" x-occurrences="2"\w*
+\w exiled|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*}
+\q2 \zaln-s |x-strong="H7725" x-lemma="שׁוּב" x-morph="He,Vhv2ms" x-occurrence="1" x-occurrences="1" x-content="הָשֵׁב֙"\*\zaln-s |x-strong="H3027" x-lemma="יָד" x-morph="He,Ncbsc:Sp2ms" x-occurrence="1" x-occurrences="1" x-content="יָדְ⁠ךָ֔"\*\zaln-s |x-strong="k:H1219" x-lemma="בָּצַר" x-morph="He,R:Vqrmsa" x-occurrence="1" x-occurrences="1" x-content="כְּ⁠בוֹצֵ֖ר"\*\zaln-s |x-strong="H5921a" x-lemma="עַל" x-morph="He,R" x-occurrence="1" x-occurrences="1" x-content="עַל"\*\zaln-s |x-strong="H5552" x-lemma="סַלְסִלָּה" x-morph="He,Ncfpa" x-occurrence="1" x-occurrences="1" x-content="סַלְסִלּֽוֹת"\*\w like|x-occurrence="1" x-occurrences="1"\w*
+\w farmers|x-occurrence="1" x-occurrences="1"\w*
+\w go|x-occurrence="1" x-occurrences="1"\w*
+\w to|x-occurrence="3" x-occurrences="4"\w*
+\w the|x-occurrence="7" x-occurrences="7"\w*
+\w vines|x-occurrence="2" x-occurrences="2"\w*
+\w again|x-occurrence="1" x-occurrences="1"\w*
+\w to|x-occurrence="4" x-occurrences="4"\w*
+\w pick|x-occurrence="1" x-occurrences="1"\w*
+\w any|x-occurrence="1" x-occurrences="1"\w*
+\w grapes|x-occurrence="2" x-occurrences="2"\w*
+\w that|x-occurrence="1" x-occurrences="1"\w*
+\w were|x-occurrence="1" x-occurrences="1"\w*
+\w not|x-occurrence="1" x-occurrences="1"\w*
+\w picked|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*\zaln-e\*\zaln-e\*\zaln-e\*.
+\q1  \v 10 Who can I, Jeremiah, speak to? Who would listen to me, even if I spoke to them?
 \q2 The ears of the Israelite people are unable to hear what I have to tell them.
 \q1 See! The message Yahweh gave me to tell them is offensive to them.
 \q2 When they hear the message of Yahweh, they hate what I tell them!”
