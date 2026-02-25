@@ -6061,15 +6061,84 @@
 \w very|x-occurrence="2" x-occurrences="2"\w*
 \w old|x-occurrence="1" x-occurrences="1"\w*
 \w people|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*\zaln-e\*\zaln-e\*.
-\q1  \v 12 Tell the men that I will give their houses to their enemies,
-\q2 and I will give their property and their wives to them, also,
-\q1 when I punish the people who live in this land!
+\q1  \v 12 {\zaln-s |x-strong="c:H5437" x-lemma="סָבַב" x-morph="He,C:VNq3cp" x-occurrence="1" x-occurrences="1" x-content="וְ⁠נָסַ֤בּוּ"\*\w Tell|x-occurrence="1" x-occurrences="1"\w*
+\w the|x-occurrence="1" x-occurrences="2"\w*
+\w men|x-occurrence="1" x-occurrences="1"\w*
+\w that|x-occurrence="1" x-occurrences="1"\w*}
+\w I|x-occurrence="1" x-occurrences="3"\w*
+\w will|x-occurrence="1" x-occurrences="3"\w*
+\w give|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*
+\zaln-s |x-strong="H1004b" x-lemma="בַּיִת" x-morph="He,Ncmpc:Sp3mp" x-occurrence="1" x-occurrences="1" x-content="בָֽתֵּי⁠הֶם֙"\*\w their|x-occurrence="1" x-occurrences="4"\w*
+\w houses|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="l:H0312" x-lemma="אַחֵר" x-morph="He,R:Aampa" x-occurrence="1" x-occurrences="1" x-content="לַ⁠אֲחֵרִ֔ים"\*\w to|x-occurrence="1" x-occurrences="2"\w*
+\w their|x-occurrence="2" x-occurrences="4"\w*
+\w enemies|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
+\q2 \zaln-s |x-strong="H7704b" x-lemma="שָׂדֶה" x-morph="He,Ncmpa" x-occurrence="1" x-occurrences="1" x-content="שָׂד֥וֹת"\*\w and|x-occurrence="1" x-occurrences="2"\w*
+\w I|x-occurrence="2" x-occurrences="3"\w*
+\w will|x-occurrence="2" x-occurrences="3"\w*
+\w give|x-occurrence="2" x-occurrences="2"\w*
+\w their|x-occurrence="3" x-occurrences="4"\w*
+\w property|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="c:H0802" x-lemma="אִשָּׁה" x-morph="He,C:Ncfpa" x-occurrence="1" x-occurrences="1" x-content="וְ⁠נָשִׁ֖ים"\*\w and|x-occurrence="2" x-occurrences="2"\w*
+\w their|x-occurrence="4" x-occurrences="4"\w*
+\w wives|x-occurrence="1" x-occurrences="1"\w*
+\w to|x-occurrence="2" x-occurrences="2"\w*
+\w them|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
+\zaln-s |x-strong="H3162b" x-lemma="יַחַד" x-morph="He,D" x-occurrence="1" x-occurrences="1" x-content="יַחְדָּ֑ו"\*\w also|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
+\q1 \zaln-s |x-strong="H3588a" x-lemma="כִּי" x-morph="He,C" x-occurrence="1" x-occurrences="1" x-content="כִּֽי"\*\w when|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H5186" x-lemma="נָטָה" x-morph="He,Vhi1cs" x-occurrence="1" x-occurrences="1" x-content="אַטֶּ֧ה"\*\zaln-s |x-strong="H0853" x-lemma="אֵת" x-morph="He,To" x-occurrence="1" x-occurrences="1" x-content="אֶת"\*\zaln-s |x-strong="H3027" x-lemma="יָד" x-morph="He,Ncbsc:Sp1cs" x-occurrence="1" x-occurrences="1" x-content="יָדִ֛⁠י"\*\zaln-s |x-strong="H5921a" x-lemma="עַל" x-morph="He,R" x-occurrence="1" x-occurrences="1" x-content="עַל"\*\w I|x-occurrence="3" x-occurrences="3"\w*
+\w punish|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*\zaln-e\*\zaln-e\*
+\zaln-s |x-strong="H3427" x-lemma="יָשַׁב" x-morph="He,Vqrmpc" x-occurrence="1" x-occurrences="1" x-content="יֹשְׁבֵ֥י"\*\w the|x-occurrence="2" x-occurrences="2"\w*
+\w people|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="d:H0776" x-lemma="אֶרֶץ" x-morph="He,Td:Ncbsa" x-occurrence="1" x-occurrences="1" x-content="הָ⁠אָ֖רֶץ"\*\w who|x-occurrence="1" x-occurrences="1"\w*
+\w live|x-occurrence="1" x-occurrences="1"\w*
+\w in|x-occurrence="1" x-occurrences="1"\w*
+\w this|x-occurrence="1" x-occurrences="1"\w*
+\w land|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*!
+\q2 {\zaln-s |x-strong="H5002" x-lemma="נְאֻם" x-morph="He,Ncmsc" x-occurrence="1" x-occurrences="1" x-content="נְאֻם"\*\w This|x-occurrence="1" x-occurrences="1"\w*
+\w will|x-occurrence="3" x-occurrences="3"\w*
+\w surely|x-occurrence="1" x-occurrences="1"\w*
+\w happen|x-occurrence="1" x-occurrences="1"\w*
+\w because|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*}
+\zaln-s |x-strong="H3068" x-lemma="יְהֹוָה" x-morph="He,Np" x-occurrence="1" x-occurrences="1" x-content="יְהוָֽה"\*\w Yahweh|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H5002" x-lemma="נְאֻם" x-morph="He,Ncmsc" x-occurrence="1" x-occurrences="1" x-content="נְאֻם"\*\w has|x-occurrence="1" x-occurrences="1"\w*
+\w said|x-occurrence="1" x-occurrences="1"\w*
+\w it|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.
 
 \ts\*
-\q1 \v 13 Everyone is trying to get money by tricking others,
-\q2 from the least important people to the most important people.
-\q1 Even my prophets and priests, they all lie to get what they want.
-\q1 \v 14 They act as though the sins of my people are like small wounds that they can easily treat.
+\q1  \v 13 \zaln-s |x-strong="H3605" x-lemma="כֹּל" x-morph="He,Ncmsc:Sp3ms" x-occurrence="1" x-occurrences="2" x-content="כֻּלּ֖⁠וֹ"\*\zaln-s |x-strong="H3605" x-lemma="כֹּל" x-morph="He,Ncmsc:Sp3ms" x-occurrence="2" x-occurrences="2" x-content="כֻּלּ֖⁠וֹ"\*\w Everyone|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*
+\zaln-s |x-strong="H1214" x-lemma="בָּצַע" x-morph="He,Vqrmsa" x-occurrence="1" x-occurrences="1" x-content="בּוֹצֵ֣עַ"\*\w is|x-occurrence="1" x-occurrences="1"\w*
+\w trying|x-occurrence="1" x-occurrences="2"\w*
+\w to|x-occurrence="1" x-occurrences="4"\w*\zaln-e\*
+\zaln-s |x-strong="H1215" x-lemma="בֶּצַע" x-morph="He,Ncmsa" x-occurrence="1" x-occurrences="1" x-content="בָּ֑צַע"\*\w get|x-occurrence="1" x-occurrences="2"\w*
+\w money|x-occurrence="1" x-occurrences="2"\w*
+\w by|x-occurrence="1" x-occurrences="1"\w*
+\w tricking|x-occurrence="1" x-occurrences="1"\w*
+\w others|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
+\q2 \zaln-s |x-strong="m:H6996a" x-lemma="קָטָן" x-morph="He,R:Aamsc:Sp3mp" x-occurrence="1" x-occurrences="1" x-content="מִ⁠קְּטַנָּ⁠ם֙"\*\w from|x-occurrence="1" x-occurrences="1"\w*
+\w the|x-occurrence="1" x-occurrences="4"\w*
+\w least|x-occurrence="1" x-occurrences="1"\w*
+\w important|x-occurrence="1" x-occurrences="2"\w*
+\w people|x-occurrence="1" x-occurrences="3"\w*\zaln-e\*
+\zaln-s |x-strong="c:H5704" x-lemma="עַד" x-morph="He,C:R" x-occurrence="1" x-occurrences="2" x-content="וְ⁠עַד"\*\w to|x-occurrence="2" x-occurrences="4"\w*\zaln-e\*
+\zaln-s |x-strong="H1419a" x-lemma="גָּדוֹל" x-morph="He,Aamsc:Sp3mp" x-occurrence="1" x-occurrences="1" x-content="גְּדוֹלָ֔⁠ם"\*\w the|x-occurrence="2" x-occurrences="4"\w*
+\w most|x-occurrence="1" x-occurrences="1"\w*
+\w important|x-occurrence="2" x-occurrences="2"\w*
+\w people|x-occurrence="2" x-occurrences="3"\w*\zaln-e\*.
+\q1 \zaln-s |x-strong="c:m:H5030" x-lemma="נָבִיא" x-morph="He,C:R:Ncmsa" x-occurrence="1" x-occurrences="1" x-content="וּ⁠מִ⁠נָּבִיא֙"\*\w Even|x-occurrence="1" x-occurrences="1"\w*
+\w the|x-occurrence="3" x-occurrences="4"\w*
+\w prophets|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="c:H5704" x-lemma="עַד" x-morph="He,C:R" x-occurrence="2" x-occurrences="2" x-content="וְ⁠עַד"\*\w and|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H3548" x-lemma="כֹּהֵן" x-morph="He,Ncmsa" x-occurrence="1" x-occurrences="1" x-content="כֹּהֵ֔ן"\*\w the|x-occurrence="4" x-occurrences="4"\w*
+\w priests|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H6213a" x-lemma="עָשָׂה" x-morph="He,Vqrmsa" x-occurrence="1" x-occurrences="1" x-content="עֹ֥שֶׂה"\*\w are|x-occurrence="1" x-occurrences="1"\w*
+\w trying|x-occurrence="2" x-occurrences="2"\w*
+\w to|x-occurrence="3" x-occurrences="4"\w*\zaln-e\*
+\zaln-s |x-strong="H8267" x-lemma="שֶׁקֶר" x-morph="He,Ncmsa" x-occurrence="1" x-occurrences="1" x-content="שָּֽׁקֶר"\*\w deceive|x-occurrence="1" x-occurrences="1"\w*\zaln-e\* {\zaln-s |x-strong="H8267" x-lemma="שֶׁקֶר" x-morph="He,Ncmsa" x-occurrence="1" x-occurrences="1" x-content="שָּֽׁקֶר"\*\w people|x-occurrence="3" x-occurrences="3"\w*
+\w to|x-occurrence="4" x-occurrences="4"\w*
+\w get|x-occurrence="2" x-occurrences="2"\w*
+\w money|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*}.
+\q1  \v 14 They act as though the sins of my people are like small wounds that they can easily treat.
 \q1 They tell the people that everything will go well with them, but that is not true; things will not go well with them.
 \q1 \v 15 They should be ashamed about the disgusting things that they do, but they are not ashamed at all. They do not even know how to blush.
 \q1 So, they also will be among those who will be killed. They will be destroyed when I punish them.”
