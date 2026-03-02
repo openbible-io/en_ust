@@ -7073,7 +7073,41 @@
 \w fairly|x-occurrence="1" x-occurrences="1"\w*
 \w toward|x-occurrence="1" x-occurrences="1"\w*
 \w others|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*\zaln-e\*\zaln-e\*\zaln-e\*\zaln-e\*\zaln-e\*,
-\v 6 and if you stop oppressing foreigners who live in your country, and orphans and widows, and if you stop murdering people and worshiping foreign gods.
+\v 6 \zaln-s |x-strong="H6231" x-lemma="עָשַׁק" x-morph="He,Vqi2mp" x-occurrence="1" x-occurrences="1" x-content="תַֽעֲשֹׁ֔קוּ"\*\w and|x-occurrence="1" x-occurrences="5"\w*
+\w if|x-occurrence="1" x-occurrences="2"\w*
+\w you|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*
+\zaln-s |x-strong="H3808" x-lemma="לֹא" x-morph="He,Tn" x-occurrence="1" x-occurrences="1" x-content="לֹ֣א"\*\w stop|x-occurrence="1" x-occurrences="3"\w*\zaln-e\*
+\zaln-s |x-strong="H6231" x-lemma="עָשַׁק" x-morph="He,Vqi2mp" x-occurrence="1" x-occurrences="1" x-content="תַֽעֲשֹׁ֔קוּ"\*\w oppressing|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H1616" x-lemma="גֵּר" x-morph="He,Ncmsa" x-occurrence="1" x-occurrences="1" x-content="גֵּ֣ר"\*\w foreigners|x-occurrence="1" x-occurrences="1"\w*\zaln-e\* {\zaln-s |x-strong="H1616" x-lemma="גֵּר" x-morph="He,Ncmsa" x-occurrence="1" x-occurrences="1" x-content="גֵּ֣ר"\*\w who|x-occurrence="1" x-occurrences="1"\w*
+\w live|x-occurrence="1" x-occurrences="1"\w*
+\w in|x-occurrence="1" x-occurrences="3"\w*
+\w your|x-occurrence="1" x-occurrences="2"\w*
+\w country|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,}
+\zaln-s |x-strong="H3490" x-lemma="יָתוֹם" x-morph="He,Ncmsa" x-occurrence="1" x-occurrences="1" x-content="יָת֤וֹם"\*\w and|x-occurrence="2" x-occurrences="5"\w*
+\w orphans|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="c:H0490" x-lemma="אַלְמָנָה" x-morph="He,C:Ncfsa" x-occurrence="1" x-occurrences="1" x-content="וְ⁠אַלְמָנָה֙"\*\w and|x-occurrence="3" x-occurrences="5"\w*
+\w widows|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
+\zaln-s |x-strong="H8210" x-lemma="שָׁפַךְ" x-morph="He,Vqj2mp" x-occurrence="1" x-occurrences="1" x-content="תִּשְׁפְּכ֖וּ"\*\w and|x-occurrence="4" x-occurrences="5"\w*
+\w if|x-occurrence="2" x-occurrences="2"\w*
+\w you|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*
+\zaln-s |x-strong="H0408" x-lemma="אַל" x-morph="He,Tn" x-occurrence="1" x-occurrences="1" x-content="אַֽל"\*\w stop|x-occurrence="2" x-occurrences="3"\w*\zaln-e\*
+\zaln-s |x-strong="H8210" x-lemma="שָׁפַךְ" x-morph="He,Vqj2mp" x-occurrence="1" x-occurrences="1" x-content="תִּשְׁפְּכ֖וּ"\*\w killing|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H5355a" x-lemma="נָקִי" x-morph="He,Aamsa" x-occurrence="1" x-occurrences="1" x-content="נָקִ֔י"\*\w innocent|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="c:H1818" x-lemma="דָּם" x-morph="He,C:Ncmsa" x-occurrence="1" x-occurrences="1" x-content="וְ⁠דָ֣ם"\*\w people|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="b:H4725" x-lemma="מָקוֹם" x-morph="He,Rd:Ncmsa" x-occurrence="1" x-occurrences="1" x-content="בַּ⁠מָּק֣וֹם"\*\w in|x-occurrence="2" x-occurrences="3"\w*\zaln-e\*
+\zaln-s |x-strong="d:H2088" x-lemma="זֶה" x-morph="He,Td:Pdxms" x-occurrence="1" x-occurrences="1" x-content="הַ⁠זֶּ֑ה"\*\w this|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="b:H4725" x-lemma="מָקוֹם" x-morph="He,Rd:Ncmsa" x-occurrence="1" x-occurrences="1" x-content="בַּ⁠מָּק֣וֹם"\*\w land|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
+\zaln-s |x-strong="c:H0310a" x-lemma="אַחַר" x-morph="He,C:R" x-occurrence="1" x-occurrences="1" x-content="וְ⁠אַחֲרֵ֨י"\*\zaln-s |x-strong="H3212" x-lemma="יָלַךְ" x-morph="He,Vqi2mp" x-occurrence="1" x-occurrences="1" x-content="תֵלְכ֖וּ"\*\w and|x-occurrence="5" x-occurrences="5"\w*\zaln-e\*\zaln-e\*
+\zaln-s |x-strong="H3808" x-lemma="לֹא" x-morph="He,Tn" x-occurrence="1" x-occurrences="1" x-content="לֹ֥א"\*\w stop|x-occurrence="3" x-occurrences="3"\w*\zaln-e\*
+\zaln-s |x-strong="c:H0310a" x-lemma="אַחַר" x-morph="He,C:R" x-occurrence="1" x-occurrences="1" x-content="וְ⁠אַחֲרֵ֨י"\*\zaln-s |x-strong="H3212" x-lemma="יָלַךְ" x-morph="He,Vqi2mp" x-occurrence="1" x-occurrences="1" x-content="תֵלְכ֖וּ"\*\w worshiping|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*
+\zaln-s |x-strong="H0312" x-lemma="אַחֵר" x-morph="He,Aampa" x-occurrence="1" x-occurrences="1" x-content="אֲחֵרִ֛ים"\*\w foreign|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H0430" x-lemma="אֱלֹהִים" x-morph="He,Ncmpa" x-occurrence="1" x-occurrences="1" x-content="אֱלֹהִ֧ים"\*\w gods|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="l:H7451b" x-lemma="רַע" x-morph="He,R:Aamsa" x-occurrence="1" x-occurrences="1" x-content="לְ⁠רַ֥ע"\*\w which|x-occurrence="1" x-occurrences="1"\w*
+\w results|x-occurrence="1" x-occurrences="1"\w*
+\w in|x-occurrence="3" x-occurrences="3"\w*\zaln-e\*
+\zaln-s |x-strong="l" x-morph="He,R:Sp2mp" x-occurrence="1" x-occurrences="1" x-content="לָ⁠כֶֽם"\*\w your|x-occurrence="2" x-occurrences="2"\w*
+\w own|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="l:H7451b" x-lemma="רַע" x-morph="He,R:Aamsa" x-occurrence="1" x-occurrences="1" x-content="לְ⁠רַ֥ע"\*\w harm|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.
 \v 7 If you do what I have told you, I will allow you to stay in this land that I promised to your ancestors long ago that it would belong to them and their descendants forever.
 
 \ts\*
