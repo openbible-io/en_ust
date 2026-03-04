@@ -10088,16 +10088,16 @@
 \w dead|x-occurrence="1" x-occurrences="1"\w*
 \w body|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.
 \zaln-s |x-strong="H0176a" x-lemma="אוֹ" x-morph="He,C" x-occurrence="1" x-occurrences="1" x-content="אוֹ֩"\*\w Or|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
-\zaln-s |x-strong="b:H1870" x-lemma="דֶּרֶךְ" x-morph="He,R:Ncbsa" x-occurrence="1" x-occurrences="1" x-content="בְ⁠דֶ֨רֶךְ"\*\zaln-s |x-strong="H7350" x-lemma="רָחוֹק" x-morph="He,Aafsa" x-occurrence="1" x-occurrences="1" x-content="רְחֹקָ֜הׄ"\*\zaln-s |x-strong="l" x-lemma="" x-morph="He,R:Sp2mp" x-occurrence="1" x-occurrences="1" x-content="לָ⁠כֶ֗ם"\*\w they|x-occurrence="2" x-occurrences="2"\w*
+\zaln-s |x-strong="b:H1870" x-lemma="דֶּרֶךְ" x-morph="He,R:Ncbsa" x-occurrence="1" x-occurrences="1" x-content="בְ⁠דֶ֨רֶךְ"\*\w they|x-occurrence="2" x-occurrences="2"\w*
 \w might|x-occurrence="2" x-occurrences="2"\w*
 \w be|x-occurrence="2" x-occurrences="2"\w*
-\w traveling|x-occurrence="1" x-occurrences="1"\w*
-\w far|x-occurrence="1" x-occurrences="1"\w*
-\w away|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*\zaln-e\*.
-\zaln-s |x-strong="H0176a" x-lemma="אוֹ" x-morph="He,C" x-occurrence="1" x-occurrences="1" x-content="א֚וֹ"\*\w In|x-occurrence="1" x-occurrences="1"\w*
+\w traveling|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H7350" x-lemma="רָחוֹק" x-morph="He,Aafsa" x-occurrence="1" x-occurrences="1" x-content="רְחֹקָ֜הׄ"\*\w far|x-occurrence="1" x-occurrences="1"\w*
+\w away|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.
+\zaln-s |x-strong="c:H6213a" x-lemma="עָשָׂה" x-morph="He,C:Vqq3ms" x-occurrence="1" x-occurrences="1" x-content="וְ⁠עָ֥שָׂה"\*\w In|x-occurrence="1" x-occurrences="1"\w*
 \w those|x-occurrence="1" x-occurrences="2"\w*
-\w cases|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
-\zaln-s |x-strong="c:H6213a" x-lemma="עָשָׂה" x-morph="He,C:Vqq3ms" x-occurrence="1" x-occurrences="1" x-content="וְ⁠עָ֥שָׂה"\*\w those|x-occurrence="2" x-occurrences="2"\w*
+\w cases|x-occurrence="1" x-occurrences="1"\w*,
+\w those|x-occurrence="2" x-occurrences="2"\w*
 \w people|x-occurrence="2" x-occurrences="2"\w*
 \w can|x-occurrence="1" x-occurrences="1"\w*
 \w still|x-occurrence="1" x-occurrences="1"\w*
@@ -10106,7 +10106,7 @@
 \w Passover|x-occurrence="1" x-occurrences="1"\w*
 \w Celebration|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="l:H3068" x-lemma="יְהֹוָה" x-morph="He,R:Np" x-occurrence="1" x-occurrences="1" x-content="לַ⁠יהוָֽה"\*\w to|x-occurrence="1" x-occurrences="3"\w*\zaln-e\* {\zaln-s |x-strong="l:H3068" x-lemma="יְהֹוָה" x-morph="He,R:Np" x-occurrence="1" x-occurrences="1" x-content="לַ⁠יהוָֽה"\*\w honor|x-occurrence="1" x-occurrences="1"\w*}
-\w me|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*. {\zaln-s |x-strong="l:H1755" x-lemma="דּוֹר" x-morph="He,R:Ncmpc:Sp2mp" x-occurrence="1" x-occurrences="1" x-content="לְ⁠דֹרֹ֣תֵי⁠כֶ֔ם"\*\w These|x-occurrence="1" x-occurrences="1"\w*
+\w me|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*. {\zaln-s |x-strong="l" x-lemma="" x-morph="He,R:Sp2mp" x-occurrence="1" x-occurrences="1" x-content="לָ⁠כֶ֗ם"\*\w These|x-occurrence="1" x-occurrences="1"\w*
 \w instructions|x-occurrence="1" x-occurrences="1"\w*
 \w apply|x-occurrence="1" x-occurrences="1"\w*}
 \w to|x-occurrence="2" x-occurrences="3"\w*
@@ -10115,9 +10115,9 @@
 \w who|x-occurrence="1" x-occurrences="1"\w*
 \w are|x-occurrence="1" x-occurrences="1"\w*
 \w alive|x-occurrence="1" x-occurrences="1"\w*
-\w now|x-occurrence="1" x-occurrences="1"\w*
-\w and|x-occurrence="1" x-occurrences="1"\w*
-\w to|x-occurrence="3" x-occurrences="3"\w*
+\w now|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H0176a" x-lemma="אוֹ" x-morph="He,C" x-occurrence="1" x-occurrences="1" x-content="א֚וֹ"\*\w and|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="l:H1755" x-lemma="דּוֹר" x-morph="He,R:Ncmpc:Sp2mp" x-occurrence="1" x-occurrences="1" x-content="לְ⁠דֹרֹ֣תֵי⁠כֶ֔ם"\*\w to|x-occurrence="3" x-occurrences="3"\w*
 \w all|x-occurrence="1" x-occurrences="1"\w*
 \w their|x-occurrence="1" x-occurrences="1"\w*
 \w descendants|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.
