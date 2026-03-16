@@ -13127,9 +13127,13 @@
 \cl Psalm
 
 \b
-\d A psalm written by David
-\q1 \v 1 \zaln-s |x-strong="l:H1732" x-lemma="דָּוִד" x-morph="He,R:Np" x-occurrence="1" x-occurrences="1" x-content="לְ⁠דָוִ֨ד"\*\zaln-s |x-strong="H0408" x-lemma="אַל" x-morph="He,Tn" x-occurrence="1" x-occurrences="2" x-content="אַל"\*\w Do|x-occurrence="1" x-occurrences="2"\w*
-\w not|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*\zaln-e\*
+
+\q1  \v 1 \d \zaln-s |x-strong="l:H1732" x-lemma="דָּוִד" x-morph="He,R:Np" x-occurrence="1" x-occurrences="1" x-content="לְ⁠דָוִ֨ד"\*\w A|x-occurrence="1" x-occurrences="1"\w*
+\w psalm|x-occurrence="1" x-occurrences="1"\w*
+\w of|x-occurrence="1" x-occurrences="1"\w*
+\w David|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\q1 \zaln-s |x-strong="H0408" x-lemma="אַל" x-morph="He,Tn" x-occurrence="1" x-occurrences="2" x-content="אַל"\*\w Do|x-occurrence="1" x-occurrences="2"\w*
+\w not|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*
 \zaln-s |x-strong="H2734" x-lemma="חָרָה" x-morph="He,Vtj2ms" x-occurrence="1" x-occurrences="1" x-content="תִּתְחַ֥ר"\*\w be|x-occurrence="1" x-occurrences="1"\w*
 \w bothered|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="b:H6213a" x-lemma="עָשָׂה" x-morph="He,R:Vqrmpc" x-occurrence="1" x-occurrences="1" x-content="בְּ⁠עֹשֵׂ֥י"\*\w by|x-occurrence="1" x-occurrences="1"\w*
@@ -13150,7 +13154,7 @@
 \w do|x-occurrence="2" x-occurrences="2"\w*
 \w wrong|x-occurrence="1" x-occurrences="1"\w*
 \w have|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*
-\q1 \v 2 \zaln-s |x-strong="H3588a" x-lemma="כִּי" x-morph="He,C" x-occurrence="1" x-occurrences="1" x-content="כִּ֣י"\*\w because|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\q1  \v 2 \zaln-s |x-strong="H3588a" x-lemma="כִּי" x-morph="He,C" x-occurrence="1" x-occurrences="1" x-content="כִּ֣י"\*\w because|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="H5243a" x-lemma="נָמַל" x-morph="He,Vqi3mp" x-occurrence="1" x-occurrences="1" x-content="יִמָּ֑לוּ"\*\w they|x-occurrence="1" x-occurrences="1"\w*
 \w will|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*
 \zaln-s |x-strong="H4120" x-lemma="מְהֵרָה" x-morph="He,Ncfsa" x-occurrence="1" x-occurrences="1" x-content="מְהֵרָ֣ה"\*\w soon|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*
@@ -25244,8 +25248,7 @@
 \w the|x-occurrence="2" x-occurrences="2"\w*
 \w worship|x-occurrence="1" x-occurrences="1"\w*
 \w leader|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.
-\q1
-\zaln-s |x-strong="H3605" x-lemma="כֹּל" x-morph="He,Ncmsc" x-occurrence="1" x-occurrences="1" x-content="כָּל"\*\w Everyone|x-occurrence="1" x-occurrences="1"\w*
+\q1 \zaln-s |x-strong="H3605" x-lemma="כֹּל" x-morph="He,Ncmsc" x-occurrence="1" x-occurrences="1" x-content="כָּל"\*\w Everyone|x-occurrence="1" x-occurrences="1"\w*
 \w on|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="d:H0776" x-lemma="אֶרֶץ" x-morph="He,Td:Ncbsa" x-occurrence="1" x-occurrences="1" x-content="הָ⁠אָֽרֶץ"\*\w earth|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="H7321" x-lemma="רוּעַ" x-morph="He,Vhv2mp" x-occurrence="1" x-occurrences="1" x-content="הָרִ֥יעוּ"\*\w should|x-occurrence="1" x-occurrences="1"\w*
@@ -41167,11 +41170,10 @@
 \cl Psalm
 
 \b
-\d A psalm written by David.
-\q1 \v 1 \zaln-s |x-strong="l:H1732" x-lemma="דָּוִד" x-morph="He,R:Np" x-occurrence="1" x-occurrences="1" x-content="לְ⁠דָוִ֨ד"\*\w A|x-occurrence="1" x-occurrences="1"\w*
+
+\q1  \v 1 \d \zaln-s |x-strong="l:H1732" x-lemma="דָּוִד" x-morph="He,R:Np" x-occurrence="1" x-occurrences="1" x-content="לְ⁠דָוִ֨ד"\*\w A|x-occurrence="1" x-occurrences="1"\w*
 \w psalm|x-occurrence="1" x-occurrences="1"\w*
-\w written|x-occurrence="1" x-occurrences="1"\w*
-\w by|x-occurrence="1" x-occurrences="1"\w*
+\w of|x-occurrence="1" x-occurrences="1"\w*
 \w David|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \q1 \zaln-s |x-strong="H5315" x-lemma="נֶפֶשׁ" x-morph="He,Ncbsc:Sp1cs" x-occurrence="1" x-occurrences="1" x-content="נַ֭פְשִׁ⁠י"\*\w I|x-occurrence="1" x-occurrences="2"\w*
 \w tell|x-occurrence="1" x-occurrences="1"\w*
@@ -41190,7 +41192,7 @@
 \w he|x-occurrence="1" x-occurrences="1"\w*
 \w is|x-occurrence="2" x-occurrences="2"\w*
 \w holy|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*!”
-\q1 \v 2 \zaln-s |x-strong="H5315" x-lemma="נֶפֶשׁ" x-morph="He,Ncbsc:Sp1cs" x-occurrence="1" x-occurrences="1" x-content="נַ֭פְשִׁ⁠י"\*\w I|x-occurrence="1" x-occurrences="1"\w*
+\q1  \v 2 \zaln-s |x-strong="H5315" x-lemma="נֶפֶשׁ" x-morph="He,Ncbsc:Sp1cs" x-occurrence="1" x-occurrences="1" x-content="נַ֭פְשִׁ⁠י"\*\w I|x-occurrence="1" x-occurrences="1"\w*
 \w tell|x-occurrence="1" x-occurrences="1"\w*
 \w myself|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*, “\zaln-s |x-strong="H1288" x-lemma="בָּרַךְ" x-morph="He,Vpv2fs" x-occurrence="1" x-occurrences="1" x-content="בָּרֲכִ֣י"\*\w Praise|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="H0853" x-lemma="אֵת" x-morph="He,To" x-occurrence="1" x-occurrences="1" x-content="אֶת"\*\zaln-s |x-strong="H3068" x-lemma="יְהֹוָה" x-morph="He,Np" x-occurrence="1" x-occurrences="1" x-content="יְהוָ֑ה"\*\w Yahweh|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*,
@@ -56237,7 +56239,7 @@
 \cl Psalm
 
 \b
-\d \zaln-s |x-strong="l:H1732" x-lemma="דָּוִד" x-morph="He,R:Np" x-occurrence="1" x-occurrences="1" x-content="לְ⁠דָוִ֣ד"\*\w David|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+
 \d
 \v 1 \d
 \zaln-s |x-strong="l:H5329" x-lemma="נָצַח" x-morph="He,Rd:Vprmsa" x-occurrence="1" x-occurrences="1" x-content="לַ֭⁠מְנַצֵּחַ"\*\w A|x-occurrence="1" x-occurrences="1"\w*
