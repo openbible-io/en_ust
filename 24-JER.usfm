@@ -10194,18 +10194,66 @@
 \w are|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*
 \zaln-s |x-strong="c:H1419a" x-lemma="גָּדוֹל" x-morph="He,C:Aamsa" x-occurrence="1" x-occurrences="1" x-content="וְ⁠גָד֥וֹל"\*\w very|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="b:H1369" x-lemma="גְּבוּרָה" x-morph="He,R:Ncfsa" x-occurrence="1" x-occurrences="1" x-content="בִּ⁠גְבוּרָֽה"\*\w powerful|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.
-\q1  \v 7 You are the king of all the nations!
-\q2 Everyone should revere you,
-\q2 because that is what you deserve.
-\q1 Among all the wise people on the earth
-\q2 and in all the kingdoms where they live,
-\q2 there is no one like you.
+\q1  \v 7 \zaln-s |x-strong="H4428" x-lemma="מֶלֶךְ" x-morph="He,Ncmsc" x-occurrence="1" x-occurrences="1" x-content="מֶ֣לֶךְ"\*\w You|x-occurrence="1" x-occurrences="1"\w*
+\w are|x-occurrence="1" x-occurrences="1"\w*
+\w the|x-occurrence="1" x-occurrences="5"\w*
+\w king|x-occurrence="1" x-occurrences="1"\w*
+\w of|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="d:H1471a" x-lemma="גּוֹי" x-morph="He,Td:Ncmpa" x-occurrence="1" x-occurrences="1" x-content="הַ⁠גּוֹיִ֔ם"\*\w all|x-occurrence="1" x-occurrences="3"\w*
+\w the|x-occurrence="2" x-occurrences="5"\w*
+\w nations|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*!
+\q2 \zaln-s |x-strong="H4310" x-lemma="מִי" x-morph="He,Ti" x-occurrence="1" x-occurrences="1" x-content="מִ֣י"\*\zaln-s |x-strong="H3808" x-lemma="לֹא" x-morph="He,Tn" x-occurrence="1" x-occurrences="1" x-content="לֹ֤א"\*\w Everyone|x-occurrence="1" x-occurrences="1"\w*
+\w should|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*
+\zaln-s |x-strong="H3372" x-lemma="יָרֵא" x-morph="He,Vqi3ms:Sp2ms" x-occurrence="1" x-occurrences="1" x-content="יִֽרָאֲ⁠ךָ֙"\*\w revere|x-occurrence="1" x-occurrences="1"\w*
+\w you|x-occurrence="1" x-occurrences="3"\w*\zaln-e\*,
+\q2 \zaln-s |x-strong="H3588a" x-lemma="כִּי" x-morph="He,C" x-occurrence="1" x-occurrences="1" x-content="כִּ֥י"\*\w because|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*
+\zaln-s |x-strong="l" x-lemma="" x-morph="He,R:Sp2ms" x-occurrence="1" x-occurrences="1" x-content="לְ⁠ךָ֖"\*\zaln-s |x-strong="H2969" x-lemma="יָאָה" x-morph="He,Vqp3fs" x-occurrence="1" x-occurrences="1" x-content="יָאָ֑תָה"\*\w that|x-occurrence="1" x-occurrences="1"\w*
+\w is|x-occurrence="1" x-occurrences="2"\w*
+\w what|x-occurrence="1" x-occurrences="1"\w*
+\w you|x-occurrence="2" x-occurrences="3"\w*
+\w deserve|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*,
+\q1 \zaln-s |x-strong="H3588a" x-lemma="כִּי" x-morph="He,C" x-occurrence="1" x-occurrences="1" x-content="כִּ֣י"\*\w and|x-occurrence="1" x-occurrences="2"\w*
+\w because|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*
+\zaln-s |x-strong="b:H3605" x-lemma="כֹּל" x-morph="He,R:Ncmsc" x-occurrence="1" x-occurrences="1" x-content="בְ⁠כָל"\*\w among|x-occurrence="1" x-occurrences="1"\w*
+\w all|x-occurrence="2" x-occurrences="3"\w*\zaln-e\*
+\zaln-s |x-strong="H2450" x-lemma="חָכָם" x-morph="He,Aampc" x-occurrence="1" x-occurrences="1" x-content="חַכְמֵ֧י"\*\w the|x-occurrence="3" x-occurrences="5"\w*
+\w wise|x-occurrence="1" x-occurrences="1"\w*
+\w people|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="d:H1471a" x-lemma="גּוֹי" x-morph="He,Td:Ncmpa" x-occurrence="1" x-occurrences="1" x-content="הַ⁠גּוֹיִ֛ם"\*\w on|x-occurrence="1" x-occurrences="1"\w*
+\w the|x-occurrence="4" x-occurrences="5"\w*
+\w earth|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\q2 \zaln-s |x-strong="c:b:H3605" x-lemma="כֹּל" x-morph="He,C:R:Ncmsc" x-occurrence="1" x-occurrences="1" x-content="וּ⁠בְ⁠כָל"\*\w and|x-occurrence="2" x-occurrences="2"\w*
+\w in|x-occurrence="1" x-occurrences="1"\w*
+\w all|x-occurrence="3" x-occurrences="3"\w*\zaln-e\*
+\zaln-s |x-strong="H4438" x-lemma="מַלְכוּת" x-morph="He,Ncfsc:Sp3mp" x-occurrence="1" x-occurrences="1" x-content="מַלְכוּתָ֖⁠ם"\*\w the|x-occurrence="5" x-occurrences="5"\w*
+\w kingdoms|x-occurrence="1" x-occurrences="1"\w*
+\w where|x-occurrence="1" x-occurrences="1"\w*
+\w they|x-occurrence="1" x-occurrences="1"\w*
+\w live|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
+\q2 \zaln-s |x-strong="m:H0369" x-lemma="אַיִן" x-morph="He,R:Tn" x-occurrence="1" x-occurrences="1" x-content="מֵ⁠אֵ֥ין"\*\w there|x-occurrence="1" x-occurrences="1"\w*
+\w is|x-occurrence="2" x-occurrences="2"\w*
+\w no|x-occurrence="1" x-occurrences="1"\w*
+\w one|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H3644" x-lemma="כְּמוֹ" x-morph="He,R:Sp2ms" x-occurrence="1" x-occurrences="1" x-content="כָּמֽוֹ⁠ךָ"\*\w like|x-occurrence="1" x-occurrences="1"\w*
+\w you|x-occurrence="3" x-occurrences="3"\w*\zaln-e\*.
 
 \ts\*
-\q1 \v 8 Those people who think that they are very wise are stupid and foolish.
-\q2 The idols that they worship are only made of wood!
-\q2 Those idols certainly cannot teach them anything.
-\q1 \v 9 People hammer silver from Tarshish and gold from Uphaz into sheets,
+\q1  \v 8 \zaln-s |x-strong="H1197b" x-lemma="בָּעַר" x-morph="He,Vqi3mp" x-occurrence="1" x-occurrences="1" x-content="יִבְעֲר֣וּ"\*\zaln-s |x-strong="c:H3688" x-lemma="כָּסַל" x-morph="He,C:Vqi3mp" x-occurrence="1" x-occurrences="1" x-content="וְ⁠יִכְסָ֑לוּ"\*\w Those|x-occurrence="1" x-occurrences="1"\w*
+\w people|x-occurrence="1" x-occurrences="1"\w*
+\w are|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*
+\zaln-s |x-strong="c:b:H0259" x-lemma="אֶחָד" x-morph="He,C:R:Acfsa" x-occurrence="1" x-occurrences="1" x-content="וּ⁠בְ⁠אַחַ֖ת"\*\w altogether|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H1197b" x-lemma="בָּעַר" x-morph="He,Vqi3mp" x-occurrence="1" x-occurrences="1" x-content="יִבְעֲר֣וּ"\*\zaln-s |x-strong="c:H3688" x-lemma="כָּסַל" x-morph="He,C:Vqi3mp" x-occurrence="1" x-occurrences="1" x-content="וְ⁠יִכְסָ֑לוּ"\*\w very|x-occurrence="1" x-occurrences="1"\w*
+\w foolish|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*.
+\q2 \zaln-s |x-strong="H4148" x-lemma="מוּסָר" x-morph="He,Ncmsc" x-occurrence="1" x-occurrences="1" x-content="מוּסַ֥ר"\*\w Seeking|x-occurrence="1" x-occurrences="1"\w*
+\w instruction|x-occurrence="1" x-occurrences="1"\w*
+\w from|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H6086" x-lemma="עֵץ" x-morph="He,Ncmsa" x-occurrence="1" x-occurrences="1" x-content="עֵ֥ץ"\*\w a|x-occurrence="1" x-occurrences="1"\w*
+\w wooden|x-occurrence="1" x-occurrences="1"\w*
+\w idol|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H1931" x-lemma="הוּא" x-morph="He,Pp3ms" x-occurrence="1" x-occurrences="1" x-content="הֽוּא"\*\w is|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H1892" x-lemma="הֶבֶל" x-morph="He,Ncmpa" x-occurrence="1" x-occurrences="1" x-content="הֲבָלִ֖ים"\*\w totally|x-occurrence="1" x-occurrences="1"\w*
+\w useless|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.
+\q1  \v 9 People hammer silver from Tarshish and gold from Uphaz into sheets,
 \q2 and then they give those sheets of silver and gold to skilled workers to cover the idols.
 \q1 Then they put on those idols expensive purple robes
 \q2 that are made by skilled workers.
