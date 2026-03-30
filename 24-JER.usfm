@@ -11732,7 +11732,31 @@
 \w have|x-occurrence="1" x-occurrences="1"\w*
 \w no|x-occurrence="1" x-occurrences="1"\w*
 \w food|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.
-\v 23 I have set a time when I will bring disasters to the people of Anathoth, and when that happens, none of them will remain alive.”
+\v 23 \zaln-s |x-strong="H8141" x-lemma="שָׁנָה" x-morph="He,Ncfsc" x-occurrence="1" x-occurrences="1" x-content="שְׁנַ֥ת"\*\w I|x-occurrence="1" x-occurrences="2"\w*
+\w have|x-occurrence="1" x-occurrences="1"\w*
+\w set|x-occurrence="1" x-occurrences="1"\w*
+\w a|x-occurrence="1" x-occurrences="1"\w*
+\w time|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H0935" x-lemma="בּוֹא" x-morph="He,Vhi1cs" x-occurrence="1" x-occurrences="1" x-content="אָבִ֥יא"\*\w when|x-occurrence="1" x-occurrences="2"\w*
+\w I|x-occurrence="2" x-occurrences="2"\w*
+\w will|x-occurrence="1" x-occurrences="2"\w*
+\w bring|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H7451c" x-lemma="רַע" x-morph="He,Ncfsa" x-occurrence="1" x-occurrences="1" x-content="רָעָ֛ה"\*\w disasters|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H0413" x-lemma="אֵל" x-morph="He,R" x-occurrence="1" x-occurrences="1" x-content="אֶל"\*\w to|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H0376" x-lemma="אִישׁ" x-morph="He,Ncmpc" x-occurrence="1" x-occurrences="1" x-content="אַנְשֵׁ֥י"\*\w the|x-occurrence="1" x-occurrences="1"\w*
+\w people|x-occurrence="1" x-occurrences="1"\w*
+\w of|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*
+\zaln-s |x-strong="H6068" x-lemma="עֲנָתוֹת" x-morph="He,Np" x-occurrence="1" x-occurrences="1" x-content="עֲנָת֖וֹת"\*\w Anathoth|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
+\zaln-s |x-strong="H6486" x-lemma="פְּקֻדָּה" x-morph="He,Ncfsc:Sp3mp" x-occurrence="1" x-occurrences="1" x-content="פְּקֻדָּתָֽ⁠ם"\*\w and|x-occurrence="1" x-occurrences="1"\w*
+\w when|x-occurrence="2" x-occurrences="2"\w*
+\w that|x-occurrence="1" x-occurrences="1"\w*
+\w happens|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
+\zaln-s |x-strong="H3808" x-lemma="לֹא" x-morph="He,Tn" x-occurrence="1" x-occurrences="1" x-content="לֹ֥א"\*\w none|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="l" x-lemma="" x-morph="He,R:Sp3mp" x-occurrence="1" x-occurrences="1" x-content="לָ⁠הֶ֑ם"\*\w of|x-occurrence="2" x-occurrences="2"\w*
+\w them|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="c:H7611" x-lemma="שְׁאֵרִית" x-morph="He,C:Ncfsa" x-occurrence="1" x-occurrences="1" x-content="וּ⁠שְׁאֵרִ֕ית"\*\w will|x-occurrence="2" x-occurrences="2"\w*
+\w remain|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H1961" x-lemma="הָיָה" x-morph="He,Vqi3fs" x-occurrence="1" x-occurrences="1" x-content="תִֽהְיֶ֖ה"\*\w alive|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.”
 
 \ts\*
 \c 12
