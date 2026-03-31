@@ -11895,11 +11895,54 @@
 \w to|x-occurrence="2" x-occurrences="2"\w*
 \w be|x-occurrence="1" x-occurrences="1"\w*
 \w slaughtered|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*!
-\q1  \v 4 This land is becoming very dry and even the grass is withering.
-\q1 Even the wild animals and the birds have all died
-\q2 because the people who live in this land are very wicked.
-\q1 All this has happened because the people have said,
-\q2 “Yahweh does not know what has happened to us!”
+\q1  \v 4 \zaln-s |x-strong="d:H0776" x-lemma="אֶרֶץ" x-morph="He,Td:Ncbsa" x-occurrence="1" x-occurrences="1" x-content="הָ⁠אָ֔רֶץ"\*\w This|x-occurrence="1" x-occurrences="1"\w*
+\w land|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H0056" x-lemma="אָבַל" x-morph="He,Vqi3fs" x-occurrence="1" x-occurrences="1" x-content="תֶּאֱבַ֣ל"\*\w has|x-occurrence="1" x-occurrences="1"\w*
+\w become|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H5704" x-lemma="עַד" x-morph="He,R" x-occurrence="1" x-occurrences="1" x-content="עַד"\*\zaln-s |x-strong="H4970" x-lemma="מָתַי" x-morph="He,Ti" x-occurrence="1" x-occurrences="1" x-content="מָתַי֙"\*\w very|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*
+\zaln-s |x-strong="H0056" x-lemma="אָבַל" x-morph="He,Vqi3fs" x-occurrence="1" x-occurrences="1" x-content="תֶּאֱבַ֣ל"\*\w dry|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="c:H6212" x-lemma="עֶשֶׂב" x-morph="He,C:Ncmsc" x-occurrence="1" x-occurrences="1" x-content="וְ⁠עֵ֥שֶׂב"\*\w and|x-occurrence="1" x-occurrences="2"\w*
+\w the|x-occurrence="1" x-occurrences="5"\w*
+\w grass|x-occurrence="1" x-occurrences="1"\w*
+\w in|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*
+\zaln-s |x-strong="H3605" x-lemma="כֹּל" x-morph="He,Ncmsc" x-occurrence="1" x-occurrences="1" x-content="כָּל"\*\w every|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="d:H7704b" x-lemma="שָׂדֶה" x-morph="He,Td:Ncmsa" x-occurrence="1" x-occurrences="1" x-content="הַ⁠שָּׂדֶ֖ה"\*\w field|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H3001" x-lemma="יָבֵשׁ" x-morph="He,Vqi3ms" x-occurrence="1" x-occurrences="1" x-content="יִיבָ֑שׁ"\*\w is|x-occurrence="1" x-occurrences="1"\w*
+\w withered|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\q1 \zaln-s |x-strong="m:H7451c" x-lemma="רַע" x-morph="He,R:Ncfsc" x-occurrence="1" x-occurrences="1" x-content="מֵ⁠רָעַ֣ת"\*\w because|x-occurrence="1" x-occurrences="2"\w*
+\w of|x-occurrence="1" x-occurrences="2"\w*
+\w the|x-occurrence="2" x-occurrences="5"\w*
+\w evil|x-occurrence="1" x-occurrences="1"\w*
+\w behavior|x-occurrence="1" x-occurrences="1"\w*
+\w of|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*
+\zaln-s |x-strong="H3427" x-lemma="יָשַׁב" x-morph="He,Vqrmpc" x-occurrence="1" x-occurrences="1" x-content="יֹֽשְׁבֵי"\*\w the|x-occurrence="3" x-occurrences="5"\w*
+\w people|x-occurrence="1" x-occurrences="2"\w*
+\w who|x-occurrence="1" x-occurrences="1"\w*
+\w live|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="b" x-lemma="" x-morph="He,R:Sp3fs" x-occurrence="1" x-occurrences="1" x-content="בָ֗⁠הּ"\*\w in|x-occurrence="2" x-occurrences="2"\w*
+\w it|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.
+\q2 \zaln-s |x-strong="H0929" x-lemma="בְּהֵמָה" x-morph="He,Ncfpa" x-occurrence="1" x-occurrences="1" x-content="בְהֵמוֹת֙"\*\w The|x-occurrence="1" x-occurrences="1"\w*
+\w wild|x-occurrence="1" x-occurrences="1"\w*
+\w animals|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="c:H5775" x-lemma="עוֹף" x-morph="He,C:Ncmsa" x-occurrence="1" x-occurrences="1" x-content="וָ⁠ע֔וֹף"\*\w and|x-occurrence="2" x-occurrences="2"\w*
+\w the|x-occurrence="4" x-occurrences="5"\w*
+\w birds|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H5595" x-lemma="סָפָה" x-morph="He,Vqp3fs" x-occurrence="1" x-occurrences="1" x-content="סָפְתָ֤ה"\*\w are|x-occurrence="1" x-occurrences="1"\w*
+\w dying|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\q1 \zaln-s |x-strong="H3588a" x-lemma="כִּי" x-morph="He,C" x-occurrence="1" x-occurrences="1" x-content="כִּ֣י"\*\w because|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*
+\zaln-s |x-strong="H0559" x-lemma="אָמַר" x-morph="He,Vqp3cp" x-occurrence="1" x-occurrences="1" x-content="אָמְר֔וּ"\*\w the|x-occurrence="5" x-occurrences="5"\w*
+\w people|x-occurrence="2" x-occurrences="2"\w*
+\w have|x-occurrence="1" x-occurrences="1"\w*
+\w said|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
+\q2 “\zaln-s |x-strong="H7200" x-lemma="רָאָה" x-morph="He,Vqi3ms" x-occurrence="1" x-occurrences="1" x-content="יִרְאֶ֖ה"\*\w Yahweh|x-occurrence="1" x-occurrences="1"\w*
+\w will|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*
+\zaln-s |x-strong="H3808" x-lemma="לֹא" x-morph="He,Tn" x-occurrence="1" x-occurrences="1" x-content="לֹ֥א"\*\w not|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H7200" x-lemma="רָאָה" x-morph="He,Vqi3ms" x-occurrence="1" x-occurrences="1" x-content="יִרְאֶ֖ה"\*\w see|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H0853" x-lemma="אֵת" x-morph="He,To" x-occurrence="1" x-occurrences="1" x-content="אֶת"\*\zaln-s |x-strong="H0319" x-lemma="אַחֲרִית" x-morph="He,Ncfsc:Sp1cp" x-occurrence="1" x-occurrences="1" x-content="אַחֲרִיתֵֽ⁠נוּ"\*\w what|x-occurrence="1" x-occurrences="1"\w*
+\w will|x-occurrence="2" x-occurrences="2"\w*
+\w happen|x-occurrence="1" x-occurrences="1"\w*
+\w to|x-occurrence="1" x-occurrences="1"\w*
+\w us|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*!”
 
 \ts\*
 \p
