@@ -13563,45 +13563,72 @@
 \w are|x-occurrence="3" x-occurrences="3"\w*
 \w crying|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="H5927" x-lemma="עָלָה" x-morph="He,Vqp3fs" x-occurrence="1" x-occurrences="1" x-content="עָלָֽתָה"\*\w loudly|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.
-\q1  \v 3 \w The|x-occurrence="1" x-occurrences="2"\w*
+\q1  \v 3 \zaln-s |x-strong="c:H0117" x-lemma="אַדִּיר" x-morph="He,C:Aampc:Sp3mp" x-occurrence="1" x-occurrences="1" x-content="וְ⁠אַדִּ֣רֵי⁠הֶ֔ם"\*\w The|x-occurrence="1" x-occurrences="2"\w*
 \w rich|x-occurrence="1" x-occurrences="1"\w*
-\w people|x-occurrence="1" x-occurrences="1"\w*
-\w send|x-occurrence="1" x-occurrences="1"\w*
-\w their|x-occurrence="1" x-occurrences="2"\w*
-\w servants|x-occurrence="1" x-occurrences="2"\w* {\w to|x-occurrence="1" x-occurrences="2"\w*
+\w people|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H7971" x-lemma="שָׁלַח" x-morph="He,Vqp3cp" x-occurrence="1" x-occurrences="1" x-content="שָׁלְח֥וּ"\*\w send|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H6810" x-lemma="צָעִיר" x-morph="He,Aampc:Sp3mp" x-occurrence="1" x-occurrences="1" x-content="צעורי⁠הם"\*\w their|x-occurrence="1" x-occurrences="2"\w*
+\w servants|x-occurrence="1" x-occurrences="2"\w*\zaln-e\* {\zaln-s |x-strong="l:H4325" x-lemma="מַיִם" x-morph="He,Rd:Ncmpa" x-occurrence="1" x-occurrences="1" x-content="לַ⁠מָּ֑יִם"\*\w to|x-occurrence="1" x-occurrences="2"\w*
 \w wells|x-occurrence="1" x-occurrences="2"\w*}
 \w to|x-occurrence="2" x-occurrences="2"\w*
 \w get|x-occurrence="1" x-occurrences="1"\w*
-\w water|x-occurrence="1" x-occurrences="1"\w*,
-\q2 \w but|x-occurrence="1" x-occurrences="1"\w*
-\w all|x-occurrence="1" x-occurrences="1"\w*
+\w water|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
+\q2 \zaln-s |x-strong="H0935" x-lemma="בּוֹא" x-morph="He,Vqp3cp" x-occurrence="1" x-occurrences="1" x-content="בָּ֣אוּ"\*\zaln-s |x-strong="H5921a" x-lemma="עַל" x-morph="He,R" x-occurrence="1" x-occurrences="1" x-content="עַל"\*\w but|x-occurrence="1" x-occurrences="1"\w*
+\w when|x-occurrence="1" x-occurrences="1"\w*
+\w they|x-occurrence="1" x-occurrences="3"\w*
+\w go|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*
+\zaln-s |x-strong="H1356a" x-lemma="גֵּב" x-morph="He,Ncmpa" x-occurrence="1" x-occurrences="1" x-content="גֵּבִ֞ים"\*\w all|x-occurrence="1" x-occurrences="1"\w*
 \w the|x-occurrence="1" x-occurrences="1"\w*
-\w wells|x-occurrence="2" x-occurrences="2"\w*
-\w are|x-occurrence="1" x-occurrences="2"\w*
-\w dry|x-occurrence="1" x-occurrences="1"\w*.
-\q1 \w The|x-occurrence="2" x-occurrences="2"\w*
+\w wells|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*
+\zaln-s |x-strong="H3808" x-lemma="לֹא" x-morph="He,Tn" x-occurrence="1" x-occurrences="1" x-content="לֹא"\*\zaln-s |x-strong="H4672" x-lemma="מָצָא" x-morph="He,Vqp3cp" x-occurrence="1" x-occurrences="1" x-content="מָ֣צְאוּ"\*\zaln-s |x-strong="H4325" x-lemma="מַיִם" x-morph="He,Ncmpa" x-occurrence="1" x-occurrences="1" x-content="מַ֗יִם"\*\w are|x-occurrence="1" x-occurrences="2"\w*
+\w dry|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*\zaln-e\*.
+\q1 \zaln-s |x-strong="H7725" x-lemma="שׁוּב" x-morph="He,Vqp3cp" x-occurrence="1" x-occurrences="1" x-content="שָׁ֤בוּ"\*\w The|x-occurrence="2" x-occurrences="2"\w*
 \w servants|x-occurrence="2" x-occurrences="2"\w*
-\w return|x-occurrence="1" x-occurrences="1"\w*
-\w with|x-occurrence="1" x-occurrences="1"\w*
-\w empty|x-occurrence="1" x-occurrences="1"\w*
-\w pitchers|x-occurrence="1" x-occurrences="1"\w*;
-\q1 \w they|x-occurrence="1" x-occurrences="2"\w*
-\w cover|x-occurrence="1" x-occurrences="1"\w*
-\w their|x-occurrence="2" x-occurrences="2"\w*
-\w heads|x-occurrence="1" x-occurrences="1"\w*
-\q2 \w because|x-occurrence="1" x-occurrences="1"\w*
-\w they|x-occurrence="2" x-occurrences="2"\w*
+\w return|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H3627" x-lemma="כְּלִי" x-morph="He,Ncmpc:Sp3mp" x-occurrence="1" x-occurrences="1" x-content="כְלֵי⁠הֶם֙"\*\w with|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H7387" x-lemma="רֵיקָם" x-morph="He,D" x-occurrence="1" x-occurrences="1" x-content="רֵיקָ֔ם"\*\w empty|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H3627" x-lemma="כְּלִי" x-morph="He,Ncmpc:Sp3mp" x-occurrence="1" x-occurrences="1" x-content="כְלֵי⁠הֶם֙"\*\w vessels|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*;
+\q1 \zaln-s |x-strong="c:H2645" x-lemma="חָפָה" x-morph="He,C:Vqp3cp" x-occurrence="1" x-occurrences="1" x-content="וְ⁠חָפ֥וּ"\*\w so|x-occurrence="1" x-occurrences="1"\w*
+\w they|x-occurrence="2" x-occurrences="3"\w*
+\w cover|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H7218a" x-lemma="רֹאשׁ" x-morph="He,Ncmsc:Sp3mp" x-occurrence="1" x-occurrences="1" x-content="רֹאשָֽׁ⁠ם"\*\w their|x-occurrence="2" x-occurrences="2"\w*
+\w heads|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\q2 \zaln-s |x-strong="H0954" x-lemma="בּוּשׁ" x-morph="He,Vqp3cp" x-occurrence="1" x-occurrences="1" x-content="בֹּ֥שׁוּ"\*\zaln-s |x-strong="c:H3637" x-lemma="כָּלַם" x-morph="He,C:VHp3cp" x-occurrence="1" x-occurrences="1" x-content="וְ⁠הָכְלְמ֖וּ"\*\w because|x-occurrence="1" x-occurrences="1"\w*
+\w they|x-occurrence="3" x-occurrences="3"\w*
 \w are|x-occurrence="2" x-occurrences="2"\w*
 \w ashamed|x-occurrence="1" x-occurrences="1"\w*
 \w and|x-occurrence="1" x-occurrences="1"\w*
-\w humiliated|x-occurrence="1" x-occurrences="1"\w*.
+\w disappointed|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*.
 
 \ts\*
-\q1  \v 4 The ground is extremely dry and cracked open
-\q2 because there has been no rain.
-\q1 The farmers are ashamed that they cannot raise a crop,
-\q2 so they also cover their heads.
-\q1 \v 5 Even the does abandon their newborn babies,
+\q1  \v 4 \w The|x-occurrence="1" x-occurrences="2"\w*
+\w ground|x-occurrence="1" x-occurrences="1"\w*
+\w is|x-occurrence="1" x-occurrences="1"\w*
+\w extremely|x-occurrence="1" x-occurrences="1"\w*
+\w dry|x-occurrence="1" x-occurrences="1"\w*
+\w and|x-occurrence="1" x-occurrences="1"\w*
+\w cracked|x-occurrence="1" x-occurrences="1"\w*
+\w open|x-occurrence="1" x-occurrences="1"\w*
+\q2 \w because|x-occurrence="1" x-occurrences="1"\w*
+\w there|x-occurrence="1" x-occurrences="1"\w*
+\w has|x-occurrence="1" x-occurrences="1"\w*
+\w been|x-occurrence="1" x-occurrences="1"\w*
+\w no|x-occurrence="1" x-occurrences="1"\w*
+\w rain|x-occurrence="1" x-occurrences="1"\w*
+\w in|x-occurrence="1" x-occurrences="1"\w*
+\w your|x-occurrence="1" x-occurrences="1"\w*
+\w land|x-occurrence="1" x-occurrences="1"\w*.
+\q1 \w The|x-occurrence="2" x-occurrences="2"\w*
+\w farmers|x-occurrence="1" x-occurrences="1"\w*
+\w are|x-occurrence="1" x-occurrences="1"\w*
+\w very|x-occurrence="1" x-occurrences="1"\w*
+\w worried|x-occurrence="1" x-occurrences="1"\w*
+\q2 {\w so|x-occurrence="1" x-occurrences="1"\w*}
+\w they|x-occurrence="1" x-occurrences="1"\w*
+\w cover|x-occurrence="1" x-occurrences="1"\w*
+\w their|x-occurrence="1" x-occurrences="1"\w*
+\w heads|x-occurrence="1" x-occurrences="1"\w*.
+\q1  \v 5 Even the does abandon their newborn babies,
 \q2 because there is no grass in the fields for them to eat.
 \q1 \v 6 The wild donkeys stand on the barren hills,
 \q2 panting like thirsty jackals.
