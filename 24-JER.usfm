@@ -14655,14 +14655,82 @@
 \w people|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*.
 
 \ts\*
-\q1  \v 5 You people of Jerusalem, no one will feel sorry for you.
-\q2 No one will weep for you.
-\q2 No one will wish that you would not be hurt.
-\q1 \v 6 You people have abandoned me;
-\q2 you have continued to walk away from me.
-\q1 So, I will lift up my fist to smash you;
-\q2 I am tired of acting mercifully toward.
-\q1 \v 7 At the gates of your cities, I will scatter you like a farmer scatters the chaff from his grain by winnowing it.
+\q1  \v 5 \zaln-s |x-strong="H3389" x-lemma="יְרוּשָׁלִַ͏ם" x-morph="He,Np" x-occurrence="1" x-occurrences="1" x-content="יְר֣וּשָׁלִַ֔ם"\*\w You|x-occurrence="1" x-occurrences="1"\w*
+\w people|x-occurrence="1" x-occurrences="1"\w*
+\w of|x-occurrence="1" x-occurrences="1"\w*
+\w Jerusalem|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
+\zaln-s |x-strong="H3588a" x-lemma="כִּי" x-morph="He,C" x-occurrence="1" x-occurrences="1" x-content="כִּ֠י"\*\zaln-s |x-strong="H4310" x-lemma="מִי" x-morph="He,Ti" x-occurrence="1" x-occurrences="1" x-content="מִֽי"\*\w no|x-occurrence="1" x-occurrences="1"\w*
+\w one|x-occurrence="1" x-occurrences="3"\w*\zaln-e\*\zaln-e\*
+\zaln-s |x-strong="H2550" x-lemma="חָמַל" x-morph="He,Vqi3ms" x-occurrence="1" x-occurrences="1" x-content="יַחְמֹ֤ל"\*\w will|x-occurrence="1" x-occurrences="3"\w*
+\w feel|x-occurrence="1" x-occurrences="1"\w*
+\w sorry|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H5921a" x-lemma="עַל" x-morph="He,R:Sp2fs" x-occurrence="1" x-occurrences="1" x-content="עָלַ֨יִ⁠ךְ֙"\*\w for|x-occurrence="1" x-occurrences="2"\w*
+\w you|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*.
+\q2 \zaln-s |x-strong="c:H4310" x-lemma="מִי" x-morph="He,C:Ti" x-occurrence="1" x-occurrences="1" x-content="וּ⁠מִ֖י"\*\w No|x-occurrence="1" x-occurrences="2"\w*
+\w one|x-occurrence="2" x-occurrences="3"\w*\zaln-e\*
+\zaln-s |x-strong="H5110" x-lemma="נוּד" x-morph="He,Vqi3ms" x-occurrence="1" x-occurrences="1" x-content="יָנ֣וּד"\*\w will|x-occurrence="2" x-occurrences="3"\w*
+\w weep|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="l" x-morph="He,R:Sp2fs" x-occurrence="1" x-occurrences="1" x-content="לָ֑⁠ךְ"\*\w for|x-occurrence="2" x-occurrences="2"\w*
+\w you|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*.
+\q2 \zaln-s |x-strong="c:H4310" x-lemma="מִי" x-morph="He,C:Ti" x-occurrence="1" x-occurrences="1" x-content="וּ⁠מִ֣י"\*\w No|x-occurrence="2" x-occurrences="2"\w*
+\w one|x-occurrence="3" x-occurrences="3"\w*\zaln-e\*
+\zaln-s |x-strong="H5493" x-lemma="סוּר" x-morph="He,Vqi3ms" x-occurrence="1" x-occurrences="1" x-content="יָס֔וּר"\*\w will|x-occurrence="3" x-occurrences="3"\w*
+\w care|x-occurrence="1" x-occurrences="1"\w*
+\w enough|x-occurrence="1" x-occurrences="1"\w*
+\w to|x-occurrence="1" x-occurrences="2"\w*
+\w take|x-occurrence="1" x-occurrences="1"\w*
+\w the|x-occurrence="1" x-occurrences="1"\w*
+\w time|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="l:H7592" x-lemma="שָׁאַל" x-morph="He,R:Vqc" x-occurrence="1" x-occurrences="1" x-content="לִ⁠שְׁאֹ֥ל"\*\w to|x-occurrence="2" x-occurrences="2"\w*
+\w ask|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="l:H7965" x-lemma="שָׁלוֹם" x-morph="He,R:Ncmsa" x-occurrence="1" x-occurrences="1" x-content="לְ⁠שָׁלֹ֖ם"\*\w about|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="l" x-morph="He,R:Sp2fs" x-occurrence="1" x-occurrences="1" x-content="לָֽ⁠ךְ"\*\w your|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="l:H7965" x-lemma="שָׁלוֹם" x-morph="He,R:Ncmsa" x-occurrence="1" x-occurrences="1" x-content="לְ⁠שָׁלֹ֖ם"\*\w well|x-occurrence="1" x-occurrences="1"\w*-\w being|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.
+\q1  \v 6 \w You|x-occurrence="1" x-occurrences="1"\w*
+\w people|x-occurrence="1" x-occurrences="1"\w*
+\w have|x-occurrence="1" x-occurrences="2"\w*
+\w abandoned|x-occurrence="1" x-occurrences="1"\w*
+\w me|x-occurrence="1" x-occurrences="3"\w*;
+\q2 {\w instead|x-occurrence="1" x-occurrences="1"\w*
+\w of|x-occurrence="1" x-occurrences="1"\w*
+\w seeking|x-occurrence="1" x-occurrences="1"\w*
+\w me|x-occurrence="2" x-occurrences="3"\w*}
+\w you|x-occurrence="1" x-occurrences="5"\w*
+\w have|x-occurrence="2" x-occurrences="2"\w*
+\w refused|x-occurrence="1" x-occurrences="1"\w*
+\w to|x-occurrence="1" x-occurrences="2"\w*
+\w obey|x-occurrence="1" x-occurrences="1"\w*
+\w me|x-occurrence="3" x-occurrences="3"\w*,
+\q1 \w so|x-occurrence="1" x-occurrences="1"\w*,
+\w I|x-occurrence="1" x-occurrences="3"\w*
+\w will|x-occurrence="1" x-occurrences="2"\w*
+\w bring|x-occurrence="1" x-occurrences="1"\w*
+\w judgement|x-occurrence="1" x-occurrences="1"\w*
+\w upon|x-occurrence="1" x-occurrences="1"\w*
+\w you|x-occurrence="2" x-occurrences="5"\w*
+\w and|x-occurrence="1" x-occurrences="1"\w*
+\w destroy|x-occurrence="1" x-occurrences="1"\w*
+\w you|x-occurrence="3" x-occurrences="5"\w* {\w as|x-occurrence="1" x-occurrences="1"\w*
+\w if|x-occurrence="1" x-occurrences="1"\w*
+\w I|x-occurrence="2" x-occurrences="3"\w*
+\w were|x-occurrence="1" x-occurrences="1"\w*
+\w lift|x-occurrence="1" x-occurrences="1"\w*
+\w up|x-occurrence="1" x-occurrences="1"\w*
+\w my|x-occurrence="1" x-occurrences="1"\w*
+\w fist|x-occurrence="1" x-occurrences="1"\w*
+\w to|x-occurrence="2" x-occurrences="2"\w*
+\w smash|x-occurrence="1" x-occurrences="1"\w*
+\w you|x-occurrence="4" x-occurrences="5"\w*}.
+\q2 \w I|x-occurrence="3" x-occurrences="3"\w*
+\w will|x-occurrence="2" x-occurrences="2"\w*
+\w not|x-occurrence="1" x-occurrences="1"\w*
+\w act|x-occurrence="1" x-occurrences="1"\w*
+\w mercifully|x-occurrence="1" x-occurrences="1"\w*
+\w toward|x-occurrence="1" x-occurrences="1"\w*
+\w you|x-occurrence="5" x-occurrences="5"\w*
+\w any|x-occurrence="1" x-occurrences="1"\w*
+\w longer|x-occurrence="1" x-occurrences="1"\w*.
+\q1  \v 7 At the gates of your cities, I will scatter you like a farmer scatters the chaff from his grain by winnowing it.
 \q2 You, my people, have refused to turn away from your evil behavior.
 \q1 So, I will get rid of you,
 \q2 and I will even cause your children to be killed.
