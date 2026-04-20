@@ -15504,11 +15504,111 @@
 \w mothers|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="c:H5921a" x-lemma="עַל" x-morph="He,C:R" x-occurrence="2" x-occurrences="2" x-content="וְ⁠עַל"\*\w and|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*
 \zaln-s |x-strong="H0001" x-lemma="אָב" x-morph="He,Ncmpc:Sp3mp" x-occurrence="1" x-occurrences="1" x-content="אֲבוֹתָ֛⁠ם"\*\w fathers|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*:
-\v 4 Many of them will die from terrible diseases. And no one will mourn for them. No one will even bury their corpses; the corpses will lie on the ground, scattered like manure. Others will die in wars or from hunger, and then their corpses will become food for vultures and wild animals.”
+\v 4 “{\zaln-s |x-strong="H4191" x-lemma="מוּת" x-morph="He,Vqi3mp" x-occurrence="1" x-occurrences="1" x-content="יָמֻ֗תוּ"\*\w Many|x-occurrence="1" x-occurrences="1"\w*
+\w of|x-occurrence="1" x-occurrences="1"\w*}
+\w them|x-occurrence="1" x-occurrences="2"\w*
+\w will|x-occurrence="1" x-occurrences="5"\w*
+\w die|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*
+\zaln-s |x-strong="H4463" x-lemma="מָמוֹת" x-morph="He,Ncmpc" x-occurrence="1" x-occurrences="1" x-content="מְמוֹתֵ֨י"\*\zaln-s |x-strong="H8463" x-lemma="תַּחֲלוּא" x-morph="He,Ncmpa" x-occurrence="1" x-occurrences="1" x-content="תַחֲלֻאִ֜ים"\*\w from|x-occurrence="1" x-occurrences="2"\w*
+\w terrible|x-occurrence="1" x-occurrences="1"\w*
+\w diseases|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*
+\zaln-s |x-strong="H5594" x-lemma="סָפַד" x-morph="He,VNi3mp" x-occurrence="1" x-occurrences="1" x-content="יִסָּֽפְדוּ֙"\*\w and|x-occurrence="1" x-occurrences="3"\w*\zaln-e\*
+\zaln-s |x-strong="H3808" x-lemma="לֹא" x-morph="He,Tn" x-occurrence="1" x-occurrences="1" x-content="לֹ֤א"\*\w no|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H5594" x-lemma="סָפַד" x-morph="He,VNi3mp" x-occurrence="1" x-occurrences="1" x-content="יִסָּֽפְדוּ֙"\*\w one|x-occurrence="1" x-occurrences="1"\w*
+\w will|x-occurrence="2" x-occurrences="5"\w*
+\w mourn|x-occurrence="1" x-occurrences="1"\w*
+\w for|x-occurrence="1" x-occurrences="2"\w*
+\w them|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*
+\zaln-s |x-strong="c:H3808" x-lemma="לֹא" x-morph="He,C:Tn" x-occurrence="1" x-occurrences="1" x-content="וְ⁠לֹ֣א"\*\w or|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*
+\zaln-s |x-strong="H6912" x-lemma="קָבַר" x-morph="He,VNi3mp" x-occurrence="1" x-occurrences="1" x-content="יִקָּבֵ֔רוּ"\*\w bury|x-occurrence="1" x-occurrences="1"\w*
+\w their|x-occurrence="1" x-occurrences="2"\w*
+\w corpses|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*,
+\zaln-s |x-strong="H6440" x-lemma="פָּנִים" x-morph="He,Ncbpc" x-occurrence="1" x-occurrences="1" x-content="פְּנֵ֥י"\*\zaln-s |x-strong="d:H0127" x-lemma="אֲדָמָה" x-morph="He,Td:Ncfsa" x-occurrence="1" x-occurrences="1" x-content="הָ⁠אֲדָמָ֖ה"\*\zaln-s |x-strong="H1961" x-lemma="הָיָה" x-morph="He,Vqi3mp" x-occurrence="1" x-occurrences="1" x-content="יִֽהְי֑וּ"\*\w which|x-occurrence="1" x-occurrences="1"\w*
+\w will|x-occurrence="3" x-occurrences="5"\w*
+\w remain|x-occurrence="1" x-occurrences="1"\w*
+\w lying|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*\zaln-e\*
+\zaln-s |x-strong="H5921a" x-lemma="עַל" x-morph="He,R" x-occurrence="1" x-occurrences="1" x-content="עַל"\*\w on|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H6440" x-lemma="פָּנִים" x-morph="He,Ncbpc" x-occurrence="1" x-occurrences="1" x-content="פְּנֵ֥י"\*\zaln-s |x-strong="d:H0127" x-lemma="אֲדָמָה" x-morph="He,Td:Ncfsa" x-occurrence="1" x-occurrences="1" x-content="הָ⁠אֲדָמָ֖ה"\*\zaln-s |x-strong="H1961" x-lemma="הָיָה" x-morph="He,Vqi3mp" x-occurrence="1" x-occurrences="1" x-content="יִֽהְי֑וּ"\*\w the|x-occurrence="1" x-occurrences="1"\w*
+\w ground|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*\zaln-e\*,
+\zaln-s |x-strong="l:H1828" x-lemma="דֹּמֶן" x-morph="He,R:Ncmsa" x-occurrence="1" x-occurrences="1" x-content="לְ⁠דֹ֛מֶן"\*\w scattered|x-occurrence="1" x-occurrences="1"\w*
+\w like|x-occurrence="1" x-occurrences="1"\w*
+\w manure|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*. {\zaln-s |x-strong="H3615" x-lemma="כָּלָה" x-morph="He,Vqi3mp" x-occurrence="1" x-occurrences="1" x-content="יִכְל֔וּ"\*\w Others|x-occurrence="1" x-occurrences="1"\w*}
+\w will|x-occurrence="4" x-occurrences="5"\w*
+\w die|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*
+\zaln-s |x-strong="c:b:H2719" x-lemma="חֶרֶב" x-morph="He,C:Rd:Ncfsa" x-occurrence="1" x-occurrences="1" x-content="וּ⁠בַ⁠חֶ֤רֶב"\*\w in|x-occurrence="1" x-occurrences="1"\w*
+\w wars|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="c:b:H7458" x-lemma="רָעָב" x-morph="He,C:Rd:Ncmsa" x-occurrence="1" x-occurrences="1" x-content="וּ⁠בָֽ⁠רָעָב֙"\*\w or|x-occurrence="2" x-occurrences="2"\w*
+\w from|x-occurrence="2" x-occurrences="2"\w*
+\w hunger|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
+\zaln-s |x-strong="c:H1961" x-lemma="הָיָה" x-morph="He,C:Vqq3fs" x-occurrence="1" x-occurrences="1" x-content="וְ⁠הָיְתָ֤ה"\*\w and|x-occurrence="2" x-occurrences="3"\w*\zaln-e\* {\zaln-s |x-strong="c:H1961" x-lemma="הָיָה" x-morph="He,C:Vqq3fs" x-occurrence="1" x-occurrences="1" x-content="וְ⁠הָיְתָ֤ה"\*\w then|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*}
+\zaln-s |x-strong="H5038" x-lemma="נְבֵלָה" x-morph="He,Ncfsc:Sp3mp" x-occurrence="1" x-occurrences="1" x-content="נִבְלָתָ⁠ם֙"\*\w their|x-occurrence="2" x-occurrences="2"\w*
+\w corpses|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*
+\zaln-s |x-strong="c:H1961" x-lemma="הָיָה" x-morph="He,C:Vqq3fs" x-occurrence="1" x-occurrences="1" x-content="וְ⁠הָיְתָ֤ה"\*\w will|x-occurrence="5" x-occurrences="5"\w*
+\w become|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="l:H3978" x-lemma="מַאֲכָל" x-morph="He,R:Ncmsa" x-occurrence="1" x-occurrences="1" x-content="לְ⁠מַאֲכָ֔ל"\*\w food|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="l:H5775" x-lemma="עוֹף" x-morph="He,R:Ncmsc" x-occurrence="1" x-occurrences="1" x-content="לְ⁠ע֥וֹף"\*\zaln-s |x-strong="d:H8064" x-lemma="שָׁמַיִם" x-morph="He,Td:Ncmpa" x-occurrence="1" x-occurrences="1" x-content="הַ⁠שָּׁמַ֖יִם"\*\w for|x-occurrence="2" x-occurrences="2"\w*
+\w vultures|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*
+\zaln-s |x-strong="c:l:H0929" x-lemma="בְּהֵמָה" x-morph="He,C:R:Ncfsc" x-occurrence="1" x-occurrences="1" x-content="וּ⁠לְ⁠בֶהֱמַ֥ת"\*\zaln-s |x-strong="d:H0776" x-lemma="אֶרֶץ" x-morph="He,Td:Ncbsa" x-occurrence="1" x-occurrences="1" x-content="הָ⁠אָֽרֶץ"\*\w and|x-occurrence="3" x-occurrences="3"\w*
+\w wild|x-occurrence="1" x-occurrences="1"\w*
+\w animals|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*.”
 
 \ts\*
 \p
-\v 5 This is also what Yahweh said to me: “Do not go to funerals to mourn or to show those whose relatives have died that you feel sorry for them, because I have stopped protecting them, and I have caused that things will not go well for them. I have stopped faithfully loving them and acting mercifully toward them.
+\v 5 \w This|x-occurrence="1" x-occurrences="1"\w*
+\w is|x-occurrence="1" x-occurrences="1"\w* {\w also|x-occurrence="1" x-occurrences="1"\w*}
+\w what|x-occurrence="1" x-occurrences="1"\w*
+\w Yahweh|x-occurrence="1" x-occurrences="1"\w*
+\w said|x-occurrence="1" x-occurrences="1"\w*
+\w to|x-occurrence="1" x-occurrences="4"\w*
+\w me|x-occurrence="1" x-occurrences="1"\w*: “\w Do|x-occurrence="1" x-occurrences="1"\w*
+\w not|x-occurrence="1" x-occurrences="2"\w*
+\w go|x-occurrence="1" x-occurrences="2"\w*
+\w to|x-occurrence="2" x-occurrences="4"\w*
+\w funerals|x-occurrence="1" x-occurrences="1"\w*
+\w to|x-occurrence="3" x-occurrences="4"\w*
+\w mourn|x-occurrence="1" x-occurrences="1"\w*
+\w or|x-occurrence="1" x-occurrences="1"\w*
+\w to|x-occurrence="4" x-occurrences="4"\w*
+\w show|x-occurrence="1" x-occurrences="1"\w* {\w those|x-occurrence="1" x-occurrences="1"\w*
+\w whose|x-occurrence="1" x-occurrences="1"\w*
+\w relatives|x-occurrence="1" x-occurrences="1"\w*
+\w have|x-occurrence="1" x-occurrences="4"\w*
+\w died|x-occurrence="1" x-occurrences="1"\w*}
+\w that|x-occurrence="1" x-occurrences="2"\w*
+\w you|x-occurrence="1" x-occurrences="1"\w*
+\w feel|x-occurrence="1" x-occurrences="1"\w*
+\w sorry|x-occurrence="1" x-occurrences="1"\w*
+\w for|x-occurrence="1" x-occurrences="2"\w*
+\w them|x-occurrence="1" x-occurrences="5"\w*,
+\w because|x-occurrence="1" x-occurrences="1"\w*
+\w I|x-occurrence="1" x-occurrences="3"\w*
+\w have|x-occurrence="2" x-occurrences="4"\w*
+\w stopped|x-occurrence="1" x-occurrences="2"\w*
+\w protecting|x-occurrence="1" x-occurrences="1"\w*
+\w them|x-occurrence="2" x-occurrences="5"\w*,
+\w and|x-occurrence="1" x-occurrences="2"\w*
+\w I|x-occurrence="2" x-occurrences="3"\w*
+\w have|x-occurrence="3" x-occurrences="4"\w*
+\w caused|x-occurrence="1" x-occurrences="1"\w*
+\w that|x-occurrence="2" x-occurrences="2"\w*
+\w things|x-occurrence="1" x-occurrences="1"\w*
+\w will|x-occurrence="1" x-occurrences="1"\w*
+\w not|x-occurrence="2" x-occurrences="2"\w*
+\w go|x-occurrence="2" x-occurrences="2"\w*
+\w well|x-occurrence="1" x-occurrences="1"\w*
+\w for|x-occurrence="2" x-occurrences="2"\w*
+\w them|x-occurrence="3" x-occurrences="5"\w*.
+\w I|x-occurrence="3" x-occurrences="3"\w*
+\w have|x-occurrence="4" x-occurrences="4"\w*
+\w stopped|x-occurrence="2" x-occurrences="2"\w*
+\w faithfully|x-occurrence="1" x-occurrences="1"\w*
+\w loving|x-occurrence="1" x-occurrences="1"\w*
+\w them|x-occurrence="4" x-occurrences="5"\w*
+\w and|x-occurrence="2" x-occurrences="2"\w*
+\w acting|x-occurrence="1" x-occurrences="1"\w*
+\w mercifully|x-occurrence="1" x-occurrences="1"\w*
+\w toward|x-occurrence="1" x-occurrences="1"\w*
+\w them|x-occurrence="5" x-occurrences="5"\w*.
 \v 6 Very many people will die in this land, including those who are important and those who are not important. And no one will mourn for them, or even bury their corpses. No one will cut himself or shave his head to show that he is very sad.
 
 \ts\*
