@@ -17039,41 +17039,60 @@
 \w gates|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*
 \zaln-s |x-strong="H3389" x-lemma="יְרוּשָׁלִַ͏ם" x-morph="He,Np" x-occurrence="1" x-occurrences="1" x-content="יְרוּשָׁלִָֽם"\*\w in|x-occurrence="3" x-occurrences="3"\w*
 \w Jerusalem|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*.
-\v 20 \w Say|x-occurrence="1" x-occurrences="1"\w*
-\w to|x-occurrence="1" x-occurrences="2"\w*
+\v 20 \zaln-s |x-strong="c:H0559" x-lemma="אָמַר" x-morph="He,C:Vqq2ms" x-occurrence="1" x-occurrences="1" x-content="וְ⁠אָמַרְתָּ֣"\*\w Say|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H0413" x-lemma="אֵל" x-morph="He,R:Sp3mp" x-occurrence="1" x-occurrences="1" x-content="אֲ֠לֵי⁠הֶם"\*\w to|x-occurrence="1" x-occurrences="2"\w*
 \w the|x-occurrence="1" x-occurrences="1"\w*
-\w people|x-occurrence="1" x-occurrences="2"\w* {\w at|x-occurrence="1" x-occurrences="1"\w*
+\w people|x-occurrence="1" x-occurrences="2"\w*\zaln-e\* {\zaln-s |x-strong="H0413" x-lemma="אֵל" x-morph="He,R:Sp3mp" x-occurrence="1" x-occurrences="1" x-content="אֲ֠לֵי⁠הֶם"\*\w at|x-occurrence="1" x-occurrences="1"\w*
 \w each|x-occurrence="1" x-occurrences="1"\w*
-\w gate|x-occurrence="1" x-occurrences="1"\w*,} ‘\w You|x-occurrence="1" x-occurrences="1"\w*
+\w gate|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,} ‘\zaln-s |x-strong="H4428" x-lemma="מֶלֶךְ" x-morph="He,Ncmpc" x-occurrence="1" x-occurrences="1" x-content="מַלְכֵ֤י"\*\w You|x-occurrence="1" x-occurrences="1"\w*
 \w kings|x-occurrence="1" x-occurrences="1"\w*
-\w of|x-occurrence="1" x-occurrences="2"\w*
-\w Judah|x-occurrence="1" x-occurrences="2"\w*
-\w and|x-occurrence="1" x-occurrences="2"\w*
-\w everyone|x-occurrence="1" x-occurrences="1"\w* {\w else|x-occurrence="1" x-occurrences="1"\w*}
+\w of|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*
+\zaln-s |x-strong="H3063" x-lemma="יְהוּדָה" x-morph="He,Np" x-occurrence="1" x-occurrences="1" x-content="יְהוּדָה֙"\*\w Judah|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*
+\zaln-s |x-strong="c:H3605" x-lemma="כֹּל" x-morph="He,C:Ncmsc" x-occurrence="1" x-occurrences="1" x-content="וְ⁠כֹ֖ל"\*\zaln-s |x-strong="H3427" x-lemma="יָשַׁב" x-morph="He,Vqrmpc" x-occurrence="1" x-occurrences="1" x-content="יֹשְׁבֵ֣י"\*\w and|x-occurrence="1" x-occurrences="2"\w*
+\w everyone|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\* {\zaln-s |x-strong="c:H3605" x-lemma="כֹּל" x-morph="He,C:Ncmsc" x-occurrence="1" x-occurrences="1" x-content="וְ⁠כֹ֖ל"\*\zaln-s |x-strong="H3427" x-lemma="יָשַׁב" x-morph="He,Vqrmpc" x-occurrence="1" x-occurrences="1" x-content="יֹשְׁבֵ֣י"\*\w else|x-occurrence="1" x-occurrences="1"\w*}
 \w who|x-occurrence="1" x-occurrences="2"\w*
 \w is|x-occurrence="1" x-occurrences="1"\w*
 \w living|x-occurrence="1" x-occurrences="1"\w*
-\w in|x-occurrence="1" x-occurrences="1"\w*
-\w Jerusalem|x-occurrence="1" x-occurrences="1"\w*
-\w and|x-occurrence="2" x-occurrences="2"\w*
-\w all|x-occurrence="1" x-occurrences="1"\w*
-\w you|x-occurrence="1" x-occurrences="1"\w* {\w other|x-occurrence="1" x-occurrences="1"\w*}
+\w in|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*
+\zaln-s |x-strong="H3389" x-lemma="יְרוּשָׁלִַ͏ם" x-morph="He,Np" x-occurrence="1" x-occurrences="1" x-content="יְרוּשָׁלִָ֑ם"\*\w Jerusalem|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="c:H3605" x-lemma="כֹּל" x-morph="He,C:Ncmsc" x-occurrence="1" x-occurrences="1" x-content="וְ⁠כָל"\*\w and|x-occurrence="2" x-occurrences="2"\w*
+\w all|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H3063" x-lemma="יְהוּדָה" x-morph="He,Np" x-occurrence="1" x-occurrences="1" x-content="יְהוּדָ֔ה"\*\w you|x-occurrence="1" x-occurrences="1"\w*\zaln-e\* {\zaln-s |x-strong="H3063" x-lemma="יְהוּדָה" x-morph="He,Np" x-occurrence="1" x-occurrences="1" x-content="יְהוּדָ֔ה"\*\w other|x-occurrence="1" x-occurrences="1"\w*}
 \w people|x-occurrence="2" x-occurrences="2"\w*
 \w of|x-occurrence="2" x-occurrences="2"\w*
-\w Judah|x-occurrence="2" x-occurrences="2"\w*
-\w who|x-occurrence="2" x-occurrences="2"\w*
-\w enter|x-occurrence="1" x-occurrences="1"\w*
-\w these|x-occurrence="1" x-occurrences="1"\w*
-\w gates|x-occurrence="1" x-occurrences="1"\w*,
-\w listen|x-occurrence="1" x-occurrences="1"\w*
-\w to|x-occurrence="2" x-occurrences="2"\w*
-\w this|x-occurrence="1" x-occurrences="1"\w*
+\w Judah|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*
+\zaln-s |x-strong="d:H0935" x-lemma="בּוֹא" x-morph="He,Td:Vqrmpa" x-occurrence="1" x-occurrences="1" x-content="הַ⁠בָּאִ֖ים"\*\w who|x-occurrence="2" x-occurrences="2"\w*
+\w enter|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="d:H0428" x-lemma="אֵלֶּה" x-morph="He,Td:Pdxcp" x-occurrence="1" x-occurrences="1" x-content="הָ⁠אֵֽלֶּה"\*\w these|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="b:H8179" x-lemma="שַׁעַר" x-morph="He,Rd:Ncmpa" x-occurrence="1" x-occurrences="1" x-content="בַּ⁠שְּׁעָרִ֥ים"\*\w gates|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
+\zaln-s |x-strong="H8085" x-lemma="שָׁמַע" x-morph="He,Vqv2mp" x-occurrence="1" x-occurrences="1" x-content="שִׁמְע֨וּ"\*\w listen|x-occurrence="1" x-occurrences="1"\w*
+\w to|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*
+\zaln-s |x-strong="H1697" x-lemma="דָּבָר" x-morph="He,Ncmsc" x-occurrence="1" x-occurrences="1" x-content="דְבַר"\*\w this|x-occurrence="1" x-occurrences="1"\w*
 \w message|x-occurrence="1" x-occurrences="1"\w*
-\w from|x-occurrence="1" x-occurrences="1"\w*
-\w Yahweh|x-occurrence="1" x-occurrences="1"\w*!
+\w from|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H3068" x-lemma="יְהֹוָה" x-morph="He,Np" x-occurrence="1" x-occurrences="1" x-content="יְהוָ֜ה"\*\w Yahweh|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*!
 
 \ts\*
-\v 21 He says, “Listen to this warning carefully if you want to live! Stop doing work on Sabbath days! Stop carrying loads through these gates on those days!
+\v 21 \zaln-s |x-strong="H3068" x-lemma="יְהֹוָה" x-morph="He,Np" x-occurrence="1" x-occurrences="1" x-content="יְהוָ֔ה"\*\w He|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H0559" x-lemma="אָמַר" x-morph="He,Vqp3ms" x-occurrence="1" x-occurrences="1" x-content="אָמַ֣ר"\*\w says|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*, “\zaln-s |x-strong="H8104" x-lemma="שָׁמַר" x-morph="He,VNv2mp" x-occurrence="1" x-occurrences="1" x-content="הִשָּׁמְר֖וּ"\*\zaln-s |x-strong="b:H5315" x-lemma="נֶפֶשׁ" x-morph="He,R:Ncbpc:Sp2mp" x-occurrence="1" x-occurrences="1" x-content="בְּ⁠נַפְשֽׁוֹתֵי⁠כֶ֑ם"\*\w Listen|x-occurrence="1" x-occurrences="1"\w*
+\w to|x-occurrence="1" x-occurrences="1"\w*
+\w this|x-occurrence="1" x-occurrences="1"\w*
+\w warning|x-occurrence="1" x-occurrences="1"\w*
+\w carefully|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*! {\zaln-s |x-strong="c:H0408" x-lemma="אַל" x-morph="He,C:Tn" x-occurrence="1" x-occurrences="1" x-content="וְ⁠אַל"\*\w Stop|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*
+\zaln-s |x-strong="H5375" x-lemma="נָשָׂא" x-morph="He,Vqj2mp" x-occurrence="1" x-occurrences="1" x-content="תִּשְׂא֤וּ"\*\zaln-s |x-strong="H4853a" x-lemma="מַשָּׂא" x-morph="He,Ncmsa" x-occurrence="1" x-occurrences="1" x-content="מַשָּׂא֙"\*\w doing|x-occurrence="1" x-occurrences="1"\w*
+\w work|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*}
+\zaln-s |x-strong="b:H3117" x-lemma="יוֹם" x-morph="He,R:Ncmsc" x-occurrence="1" x-occurrences="1" x-content="בְּ⁠י֣וֹם"\*\w on|x-occurrence="1" x-occurrences="2"\w*
+\w our|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="d:H7676" x-lemma="שַׁבָּת" x-morph="He,Td:Ncbsa" x-occurrence="1" x-occurrences="1" x-content="הַ⁠שַּׁבָּ֔ת"\*\w rest|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="b:H3117" x-lemma="יוֹם" x-morph="He,R:Ncmsc" x-occurrence="1" x-occurrences="1" x-content="בְּ⁠י֣וֹם"\*\w days|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*!
+\zaln-s |x-strong="c:H0935" x-lemma="בּוֹא" x-morph="He,C:Vhq2mp" x-occurrence="1" x-occurrences="1" x-content="וַ⁠הֲבֵאתֶ֖ם"\*\w Stop|x-occurrence="2" x-occurrences="2"\w*
+\w carrying|x-occurrence="1" x-occurrences="1"\w*
+\w loads|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="b:H8179" x-lemma="שַׁעַר" x-morph="He,R:Ncmpc" x-occurrence="1" x-occurrences="1" x-content="בְּ⁠שַׁעֲרֵ֥י"\*\w through|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H3389" x-lemma="יְרוּשָׁלִַ͏ם" x-morph="He,Np" x-occurrence="1" x-occurrences="1" x-content="יְרוּשָׁלִָֽם"\*\w these|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="b:H8179" x-lemma="שַׁעַר" x-morph="He,R:Ncmpc" x-occurrence="1" x-occurrences="1" x-content="בְּ⁠שַׁעֲרֵ֥י"\*\w gates|x-occurrence="1" x-occurrences="1"\w*\zaln-e\* {\zaln-s |x-strong="b:H8179" x-lemma="שַׁעַר" x-morph="He,R:Ncmpc" x-occurrence="1" x-occurrences="1" x-content="בְּ⁠שַׁעֲרֵ֥י"\*\w on|x-occurrence="2" x-occurrences="2"\w*
+\w those|x-occurrence="1" x-occurrences="1"\w*
+\w days|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*}!
 \v 22 Do not carry loads out of your houses or do any other work on Sabbath days! Instead, cause Sabbath days to be holy. I commanded your ancestors to do that,
 \v 23 but they did not listen to me or obey me. When I did things to correct them, they stubbornly refused to pay attention to what I said or to accept it.
 
