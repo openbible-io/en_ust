@@ -19966,11 +19966,57 @@
 \w will|x-occurrence="5" x-occurrences="5"\w*
 \w escape|x-occurrence="1" x-occurrences="1"\w*
 \w dying|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*\zaln-e\*\zaln-e\*.
-\v 10 This will happen because I, Yahweh, have decided to cause this city to experience disasters, not to experience something good. The army of the king of Babylon will capture this city and will destroy it completely by fire.’”
+\v 10 {\w This|x-occurrence="1" x-occurrences="1"\w*
+\w will|x-occurrence="1" x-occurrences="2"\w*
+\w happen|x-occurrence="1" x-occurrences="1"\w*}
+\w because|x-occurrence="1" x-occurrences="1"\w*
+\w I|x-occurrence="1" x-occurrences="2"\w*,
+\w Yahweh|x-occurrence="1" x-occurrences="1"\w*,
+\w have|x-occurrence="1" x-occurrences="2"\w*
+\w decided|x-occurrence="1" x-occurrences="2"\w*
+\w to|x-occurrence="1" x-occurrences="5"\w*
+\w cause|x-occurrence="1" x-occurrences="1"\w*
+\w the|x-occurrence="1" x-occurrences="3"\w*
+\w inhabitants|x-occurrence="1" x-occurrences="1"\w*
+\w of|x-occurrence="1" x-occurrences="3"\w*
+\w this|x-occurrence="1" x-occurrences="2"\w*
+\w city|x-occurrence="1" x-occurrences="2"\w*
+\w to|x-occurrence="2" x-occurrences="5"\w*
+\w experience|x-occurrence="1" x-occurrences="2"\w*
+\w disasters|x-occurrence="1" x-occurrences="1"\w*
+\w and|x-occurrence="1" x-occurrences="2"\w*
+\w not|x-occurrence="1" x-occurrences="1"\w*
+\w to|x-occurrence="3" x-occurrences="5"\w*
+\w experience|x-occurrence="2" x-occurrences="2"\w*
+\w something|x-occurrence="1" x-occurrences="1"\w*
+\w good|x-occurrence="1" x-occurrences="1"\w*.
+\w I|x-occurrence="2" x-occurrences="2"\w*
+\w have|x-occurrence="2" x-occurrences="2"\w*
+\w decided|x-occurrence="2" x-occurrences="2"\w*
+\w to|x-occurrence="4" x-occurrences="5"\w*
+\w allow|x-occurrence="1" x-occurrences="1"\w* {\w the|x-occurrence="2" x-occurrences="3"\w*
+\w army|x-occurrence="1" x-occurrences="2"\w*
+\w of|x-occurrence="2" x-occurrences="3"\w*}
+\w the|x-occurrence="3" x-occurrences="3"\w*
+\w king|x-occurrence="1" x-occurrences="1"\w*
+\w of|x-occurrence="3" x-occurrences="3"\w*
+\w Babylon|x-occurrence="1" x-occurrences="1"\w*
+\w to|x-occurrence="5" x-occurrences="5"\w*
+\w capture|x-occurrence="1" x-occurrences="1"\w*
+\w this|x-occurrence="2" x-occurrences="2"\w*
+\w city|x-occurrence="2" x-occurrences="2"\w*
+\w and|x-occurrence="2" x-occurrences="2"\w*
+\w his|x-occurrence="1" x-occurrences="1"\w*
+\w army|x-occurrence="2" x-occurrences="2"\w*
+\w will|x-occurrence="2" x-occurrences="2"\w*
+\w destroy|x-occurrence="1" x-occurrences="1"\w*
+\w it|x-occurrence="1" x-occurrences="1"\w*
+\w completely|x-occurrence="1" x-occurrences="1"\w*
+\w by|x-occurrence="1" x-occurrences="1"\w*
+\w fire|x-occurrence="1" x-occurrences="1"\w*.’”
 
 \ts\*
-\p
-\v 11 Yahweh also told me to say this to the family of the king of Judah: “Listen to this message from Yahweh!
+\p\v 11 Yahweh also told me to say this to the family of the king of Judah: “Listen to this message from Yahweh!
 \v 12 This is what he says to you descendants of King David:
 \q1 ‘Every day, make fair decisions for the people whom you judge.
 \q2 Help those who have been robbed.
