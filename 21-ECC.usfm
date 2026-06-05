@@ -4651,8 +4651,7 @@
 \w to|x-occurrence="2" x-occurrences="2"\w*
 \w people|x-occurrence="3" x-occurrences="3"\w*\zaln-e\*.
 
-\ts\*
-\p
+\b
 \v 3 \zaln-s |x-strong="H0376" x-lemma="אִישׁ" x-morph="He,Ncmsa" x-occurrence="1" x-occurrences="1" x-content="אִ֣ישׁ"\*\w Someone|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="H3205" x-lemma="יָלַד" x-morph="He,Vhi3ms" x-occurrence="1" x-occurrences="1" x-content="יוֹלִ֣יד"\*\w could|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
 \zaln-s |x-strong="H0518a" x-lemma="אִם" x-morph="He,C" x-occurrence="1" x-occurrences="1" x-content="אִם"\*\w hypothetically|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
