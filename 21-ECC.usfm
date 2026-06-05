@@ -4781,12 +4781,12 @@
 \w in|x-occurrence="2" x-occurrences="2"\w*
 \w the|x-occurrence="6" x-occurrences="6"\w*
 \w future|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*\zaln-e\*.
-\v 5 \zaln-s |x-strong="H1571" x-lemma="גַּם" x-morph="He,Ta" x-occurrence="1" x-occurrences="1" x-content="גַּם"\*\w Yes|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
-\zaln-s |x-strong="H7200" x-lemma="רָאָה" x-morph="He,Vqp3ms" x-occurrence="1" x-occurrences="1" x-content="רָאָ֖ה"\*\w the|x-occurrence="1" x-occurrences="5"\w*
+\v 5 \zaln-s |x-strong="H7200" x-lemma="רָאָה" x-morph="He,Vqp3ms" x-occurrence="1" x-occurrences="1" x-content="רָאָ֖ה"\*\w The|x-occurrence="1" x-occurrences="1"\w*
 \w stillborn|x-occurrence="1" x-occurrences="2"\w*
 \w baby|x-occurrence="1" x-occurrences="2"\w*
 \w did|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*
 \zaln-s |x-strong="H3808" x-lemma="לֹא" x-morph="He,Tn" x-occurrence="1" x-occurrences="1" x-content="לֹא"\*\w not|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H1571" x-lemma="גַּם" x-morph="He,Ta" x-occurrence="1" x-occurrences="1" x-content="גַּם"\*\w even|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="H7200" x-lemma="רָאָה" x-morph="He,Vqp3ms" x-occurrence="1" x-occurrences="1" x-content="רָאָ֖ה"\*\w live|x-occurrence="1" x-occurrences="1"\w*
 \w to|x-occurrence="1" x-occurrences="2"\w*
 \w experience|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
@@ -4796,11 +4796,11 @@
 \w its|x-occurrence="1" x-occurrences="3"\w*
 \w mother|x-occurrence="1" x-occurrences="1"\w*'\w s|x-occurrence="1" x-occurrences="1"\w*
 \w womb|x-occurrence="1" x-occurrences="1"\w*,
-\w under|x-occurrence="1" x-occurrences="1"\w*
-\w the|x-occurrence="2" x-occurrences="5"\w*
-\w light|x-occurrence="1" x-occurrences="1"\w*
+\w under|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\zaln-s |x-strong="H7200" x-lemma="רָאָה" x-morph="He,Vqp3ms" x-occurrence="1" x-occurrences="1" x-content="רָאָ֖ה"\*\w the|x-occurrence="1" x-occurrences="4"\w*\zaln-e\*
+\zaln-s |x-strong="H8121" x-lemma="שֶׁמֶשׁ" x-morph="He,Ncbsa" x-occurrence="1" x-occurrences="1" x-content="שֶׁ֥מֶשׁ"\*\w light|x-occurrence="1" x-occurrences="1"\w*
 \w of|x-occurrence="2" x-occurrences="3"\w*
-\w the|x-occurrence="3" x-occurrences="5"\w*
+\w the|x-occurrence="2" x-occurrences="4"\w*
 \w sun|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.
 \zaln-s |x-strong="c:H3808" x-lemma="לֹא" x-morph="He,C:Tn" x-occurrence="1" x-occurrences="1" x-content="וְ⁠לֹ֣א"\*\w Yet|x-occurrence="1" x-occurrences="1"\w*
 \w neither|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
@@ -4809,7 +4809,7 @@
 \w have|x-occurrence="1" x-occurrences="1"\w*
 \w to|x-occurrence="2" x-occurrences="2"\w*
 \w feel|x-occurrence="1" x-occurrences="1"\w*
-\w the|x-occurrence="4" x-occurrences="5"\w*
+\w the|x-occurrence="3" x-occurrences="4"\w*
 \w burden|x-occurrence="1" x-occurrences="1"\w*
 \w of|x-occurrence="3" x-occurrences="3"\w*
 \w understanding|x-occurrence="1" x-occurrences="1"\w*
@@ -4827,7 +4827,7 @@
 \w brief|x-occurrence="1" x-occurrences="1"\w*
 \w life|x-occurrence="3" x-occurrences="4"\w*
 \w was|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
-\zaln-s |x-strong="l:H2088" x-lemma="זֶה" x-morph="He,R:Pdxms" x-occurrence="1" x-occurrences="1" x-content="לָ⁠זֶ֖ה"\*\w the|x-occurrence="5" x-occurrences="5"\w*
+\zaln-s |x-strong="l:H2088" x-lemma="זֶה" x-morph="He,R:Pdxms" x-occurrence="1" x-occurrences="1" x-content="לָ⁠זֶ֖ה"\*\w the|x-occurrence="4" x-occurrences="4"\w*
 \w stillborn|x-occurrence="2" x-occurrences="2"\w*
 \w baby|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*
 \zaln-s |x-strong="H5183a" x-lemma="נַחַת" x-morph="He,Ncfsa" x-occurrence="1" x-occurrences="1" x-content="נַ֥חַת"\*\w ultimately|x-occurrence="1" x-occurrences="1"\w*
@@ -4841,7 +4841,7 @@
 \w life|x-occurrence="4" x-occurrences="4"\w*\zaln-e\*
 \zaln-s |x-strong="m:H2088" x-lemma="זֶה" x-morph="He,R:Pdxms" x-occurrence="1" x-occurrences="1" x-content="מִ⁠זֶּֽה"\*\w than|x-occurrence="1" x-occurrences="1"\w*
 \w that|x-occurrence="1" x-occurrences="1"\w*
-\w exaggeratedly|x-occurrence="1" x-occurrences="1"\w*
+\w miserably|x-occurrence="1" x-occurrences="1"\w*
 \w successful|x-occurrence="1" x-occurrences="1"\w*
 \w man|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.
 \v 6 \zaln-s |x-strong="c:H0432" x-lemma="אִלּוּ" x-morph="He,C:C" x-occurrence="1" x-occurrences="1" x-content="וְ⁠אִלּ֣וּ"\*\w Even|x-occurrence="1" x-occurrences="1"\w*
