@@ -4078,7 +4078,7 @@
 \w an|x-occurrence="1" x-occurrences="1"\w*
 \w individual|x-occurrence="1" x-occurrences="2"\w*
 \w has|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
-\zaln-s |x-strong="H7235a" x-lemma="רָבָה" x-morph="He,Vqp3cp" x-occurrence="1" x-occurrences="1" x-content="רַבּ֖וּ"\*\w the|x-occurrence="1" x-occurrences="1"\w*
+\q2 \zaln-s |x-strong="H7235a" x-lemma="רָבָה" x-morph="He,Vqp3cp" x-occurrence="1" x-occurrences="1" x-content="רַבּ֖וּ"\*\w the|x-occurrence="1" x-occurrences="1"\w*
 \w more|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*
 \zaln-s |x-strong="H0398" x-lemma="אָכַל" x-morph="He,Vqrmpc:Sp3fs" x-occurrence="1" x-occurrences="1" x-content="אוֹכְלֶ֑י⁠הָ"\*\w people|x-occurrence="1" x-occurrences="2"\w*
 \w seek|x-occurrence="1" x-occurrences="1"\w*
@@ -4088,7 +4088,7 @@
 \w that|x-occurrence="2" x-occurrences="3"\w*
 \w individual|x-occurrence="2" x-occurrences="2"\w*’\w s|x-occurrence="1" x-occurrences="1"\w*
 \w wealth|x-occurrence="2" x-occurrences="4"\w*\zaln-e\*.
-\zaln-s |x-strong="c:H4100" x-lemma="מָה" x-morph="He,C:Ti" x-occurrence="1" x-occurrences="1" x-content="וּ⁠מַה"\*\w So|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
+\q1 \zaln-s |x-strong="c:H4100" x-lemma="מָה" x-morph="He,C:Ti" x-occurrence="1" x-occurrences="1" x-content="וּ⁠מַה"\*\w So|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
 \zaln-s |x-strong="l:H1167" x-lemma="בַּעַל" x-morph="He,R:Ncmpc:Sp3fs" x-occurrence="1" x-occurrences="1" x-content="לִ⁠בְעָלֶ֔י⁠הָ"\*\w rich|x-occurrence="1" x-occurrences="1"\w*
 \w people|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*
 \zaln-s |x-strong="H3788" x-lemma="כִּשְׁרוֹן" x-morph="He,Ncmsa" x-occurrence="1" x-occurrences="1" x-content="כִּשְׁרוֹן֙"\*\w do|x-occurrence="1" x-occurrences="1"\w*
@@ -4098,7 +4098,7 @@
 \w from|x-occurrence="2" x-occurrences="2"\w*
 \w their|x-occurrence="1" x-occurrences="2"\w*
 \w wealth|x-occurrence="3" x-occurrences="4"\w*\zaln-e\*.
-\zaln-s |x-strong="H3588b" x-lemma="כִּי" x-morph="He,C" x-occurrence="1" x-occurrences="1" x-content="כִּ֖י"\*\zaln-s |x-strong="H0518b" x-lemma="אִם" x-morph="He,C" x-occurrence="1" x-occurrences="1" x-content="אִם"\*\zaln-s |x-strong="H7212" x-lemma="רְאִית" x-morph="He,Ncmsc" x-occurrence="1" x-occurrences="1" x-content="רְא֥וּת"\*\zaln-s |x-strong="H5869a" x-lemma="עַיִן" x-morph="He,Ncbdc:Sp3ms" x-occurrence="1" x-occurrences="1" x-content="עֵינָֽי⁠ו"\*\w It|x-occurrence="1" x-occurrences="1"\w*
+\q2 \zaln-s |x-strong="H3588b" x-lemma="כִּי" x-morph="He,C" x-occurrence="1" x-occurrences="1" x-content="כִּ֖י"\*\zaln-s |x-strong="H0518b" x-lemma="אִם" x-morph="He,C" x-occurrence="1" x-occurrences="1" x-content="אִם"\*\zaln-s |x-strong="H7212" x-lemma="רְאִית" x-morph="He,Ncmsc" x-occurrence="1" x-occurrences="1" x-content="רְא֥וּת"\*\zaln-s |x-strong="H5869a" x-lemma="עַיִן" x-morph="He,Ncbdc:Sp3ms" x-occurrence="1" x-occurrences="1" x-content="עֵינָֽי⁠ו"\*\w It|x-occurrence="1" x-occurrences="1"\w*
 \w only|x-occurrence="1" x-occurrences="1"\w*
 \w seems|x-occurrence="1" x-occurrences="1"\w*
 \w to|x-occurrence="2" x-occurrences="2"\w*
@@ -4108,9 +4108,7 @@
 \w wealth|x-occurrence="4" x-occurrences="4"\w*
 \w helps|x-occurrence="1" x-occurrences="1"\w*
 \w them|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*\zaln-e\*\zaln-e\*\zaln-e\*.
-
-\ts\*
-\q1 \v 12 \zaln-s |x-strong="d:H5647" x-lemma="עָבַד" x-morph="He,Td:Vqrmsa" x-occurrence="1" x-occurrences="1" x-content="הָ⁠עֹבֵ֔ד"\*\w Despite|x-occurrence="1" x-occurrences="1"\w*
+\q1  \v 12 \zaln-s |x-strong="d:H5647" x-lemma="עָבַד" x-morph="He,Td:Vqrmsa" x-occurrence="1" x-occurrences="1" x-content="הָ⁠עֹבֵ֔ד"\*\w Despite|x-occurrence="1" x-occurrences="1"\w*
 \w popular|x-occurrence="1" x-occurrences="1"\w*
 \w assumptions|x-occurrence="1" x-occurrences="1"\w*,
 \w people|x-occurrence="1" x-occurrences="2"\w*
