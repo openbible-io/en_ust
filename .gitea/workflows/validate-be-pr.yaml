@@ -1,14 +1,18 @@
-name: Validate USFM Files
+name: Validate USFM -be- Branch PR
 on:
   workflow_dispatch:
-  push:
-    branches:
-      - master
-    tags:
-      - '*'
+  pull_request:
+    types:
+      - opened
+      - reopened
+      - synchronize
+      - edited
+      - ready_for_review
 
 jobs:
-  validate-usfm-files:
+  validate-be-pr:
+    # Only gate PRs whose base branch matches the -be- pattern (regex .*-be-.*).
+    if: contains(github.base_ref, '-be-')
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
