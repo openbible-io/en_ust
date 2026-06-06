@@ -382,12 +382,12 @@ def validate_usfm_header(
                 message=f"Expected '{expected_toc3_line}' but found '{header[6]}'.",
             )
 
-    # Line 8: \mt <one or more chars>
+    # Line 8: \mt1 <one or more chars>
     if len(header) >= 8:
-        if not header[7].startswith("\\mt ") or len(header[7]) <= 4:
+        if not header[7].startswith("\\mt1 ") or len(header[7]) <= 4:
             errors.add(
                 rule=CHECK_USFM_HEADER, file=file_name, line=8,
-                message=f"Expected '\\mt <text>' but found '{header[7]}'.",
+                message=f"Expected '\\mt1 <text>' but found '{header[7]}'.",
             )
 
 
