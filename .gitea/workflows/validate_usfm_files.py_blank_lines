@@ -629,6 +629,53 @@ def validate_usfm_formatting(
                 prev_line_blank = True
             continue
 
+        # --- blank line handling ---
+        if not stripped:
+            # \c, \b, \ts\*, \p must NOT have a blank line after them
+            if re.match(r"\\c\s+\d+\s*$", prev_non_blank):
+                errors.add(
+                    rule=CHECK_USFM_FORMATTING,
+                    file=file_name, line=line_number,
+                    ref=str(current_chapter) if current_chapter else None,
+                    message=(
+                        f"Blank line after \\c marker (line {prev_non_blank_line_num}); "
+                        "\\c should not be followed by a blank line."
+                    ),
+                )
+            elif prev_non_blank == "\\b":
+                errors.add(
+                    rule=CHECK_USFM_FORMATTING,
+                    file=file_name, line=line_number,
+                    ref=str(current_chapter) if current_chapter else None,
+                    message=(
+                        f"Blank line after \\b marker (line {prev_non_blank_line_num}); "
+                        "\\b should not be followed by a blank line."
+                    ),
+                )
+            elif prev_non_blank == "\\ts\\*":
+                errors.add(
+                    rule=CHECK_USFM_FORMATTING,
+                    file=file_name, line=line_number,
+                    ref=str(current_chapter) if current_chapter else None,
+                    message=(
+                        f"Blank line after \\ts\\* marker (line {prev_non_blank_line_num}); "
+                        "\\ts\\* should not be followed by a blank line."
+                    ),
+                )
+            elif prev_non_blank == "\\p":
+                errors.add(
+                    rule=CHECK_USFM_FORMATTING,
+                    file=file_name, line=line_number,
+                    ref=str(current_chapter) if current_chapter else None,
+                    message=(
+                        f"Blank line after \\p marker (line {prev_non_blank_line_num}); "
+                        "\\p should not be followed by a blank line."
+                    ),
+                )
+            if not prev_line_blank:
+                prev_line_blank = True
+            continue
+
         # --- track chapter / verse for ref ---
         c_search = re.search(r"\\c\s+(\d+)", stripped)
         if c_search:
@@ -716,6 +763,60 @@ def validate_usfm_formatting(
                     message=(
                         f"Content before \\v marker: '{before_v[:50]}'. "
                         "Only a paragraph/poetry marker (e.g., \\q1) should precede \\v."
+                    ),
+                )
+
+        # === Blank-line rules ===
+
+        # \b must always have a blank line before it
+        if stripped == "\\b" and not prev_line_blank:
+            errors.add(
+                rule=CHECK_USFM_FORMATTING,
+                file=file_name, line=line_number, ref=ref,
+                message="\\b must have a blank line before it.",
+            )
+
+        # \ts\* must have a blank line before it unless preceded by \b or \ts\*
+        if stripped == "\\ts\\*" and not prev_line_blank:
+            prev_is_b = prev_non_blank == "\\b"
+            prev_is_ts = prev_non_blank == "\\ts\\*"
+            if not prev_is_b and not prev_is_ts:
+                errors.add(
+                    rule=CHECK_USFM_FORMATTING,
+                    file=file_name, line=line_number, ref=ref,
+                    message=(
+                        "\\ts\\* must have a blank line before it "
+                        "(unless preceded by \\b or \\ts\\*)."
+                    ),
+                )
+
+        # \p must have a blank line before it unless preceded by \ts\*, \c, or \b
+        if stripped == "\\p" and not prev_line_blank:
+            prev_is_ts = prev_non_blank == "\\ts\\*"
+            prev_is_c = bool(re.match(r"\\c\s+\d+\s*$", prev_non_blank))
+            prev_is_b = prev_non_blank == "\\b"
+            if not prev_is_ts and not prev_is_c and not prev_is_b:
+                errors.add(
+                    rule=CHECK_USFM_FORMATTING,
+                    file=file_name, line=line_number, ref=ref,
+                    message=(
+                        "\\p must have a blank line before it "
+                        "(unless preceded by \\ts\\*, \\c, or \\b)."
+                    ),
+                )
+
+        # \c must have a blank line before it unless preceded by \p, \ts\*, or \b
+        if re.match(r"\\c\s+\d+\s*$", stripped) and not prev_line_blank:
+            prev_is_ts = prev_non_blank == "\\ts\\*"
+            prev_is_p = prev_non_blank == "\\p"
+            prev_is_b = prev_non_blank == "\\b"
+            if not prev_is_ts and not prev_is_p and not prev_is_b:
+                errors.add(
+                    rule=CHECK_USFM_FORMATTING,
+                    file=file_name, line=line_number, ref=ref,
+                    message=(
+                        "\\c must have a blank line before it "
+                        "(unless preceded by \\p, \\ts\\*, or \\b)."
                     ),
                 )
 
