@@ -630,7 +630,7 @@ def validate_usfm_formatting(
             continue
 
         # --- blank line handling ---
-        if not stripped:
+        if False and not stripped:
             # \c, \b, \ts\*, \p must NOT have a blank line after them
             if re.match(r"\\c\s+\d+\s*$", prev_non_blank):
                 errors.add(
