@@ -36694,12 +36694,11 @@
 \w who|x-occurrence="2" x-occurrences="2"\w*
 \w left|x-occurrence="1" x-occurrences="1"\w*
 \w the|x-occurrence="1" x-occurrences="3"\w*
-\w city|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*
-\zaln-s |x-strong="H0413" x-lemma="אֵל" x-morph="He,R" x-occurrence="1" x-occurrences="1" x-content="אֶל"\*\w in|x-occurrence="3" x-occurrences="3"\w*
+\w city|x-occurrence="2" x-occurrences="2"\w*\zaln-e\* {\zaln-s |x-strong="H0413" x-lemma="אֵל" x-morph="He,R" x-occurrence="1" x-occurrences="1" x-content="אֶל"\*\w in|x-occurrence="3" x-occurrences="3"\w*
 \w order|x-occurrence="1" x-occurrences="1"\w*
 \w to|x-occurrence="1" x-occurrences="2"\w*
 \w surrender|x-occurrence="1" x-occurrences="1"\w*
-\w to|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*
+\w to|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*}
 \zaln-s |x-strong="d:H3778" x-lemma="כַּשְׂדִּי" x-morph="He,Td:Np" x-occurrence="1" x-occurrences="1" x-content="הַ⁠כַּשְׂדִּים֙"\*\w the|x-occurrence="2" x-occurrences="3"\w*
 \w Babylonian|x-occurrence="1" x-occurrences="2"\w*
 \w army|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
@@ -37513,7 +37512,7 @@
 \w wives|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="c:H0853" x-lemma="אֵת" x-morph="He,C:To" x-occurrence="2" x-occurrences="3" x-content="וְ⁠אֶת"\*\w and|x-occurrence="1" x-occurrences="3"\w*\zaln-e\*
 \zaln-s |x-strong="H1121a" x-lemma="בֵּן" x-morph="He,Ncmpc:Sp2ms" x-occurrence="1" x-occurrences="1" x-content="בָּנֶ֗י⁠ךָ"\*\w your|x-occurrence="2" x-occurrences="2"\w*
-\w sons|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
+\w children|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="H0413" x-lemma="אֵל" x-morph="He,R" x-occurrence="1" x-occurrences="1" x-content="אֶל"\*\w to|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="d:H3778" x-lemma="כַּשְׂדִּי" x-morph="He,Td:Np" x-occurrence="1" x-occurrences="1" x-content="הַ⁠כַּשְׂדִּ֔ים"\*\w the|x-occurrence="1" x-occurrences="2"\w*
 \w Babylonian|x-occurrence="1" x-occurrences="2"\w*
@@ -37677,7 +37676,7 @@
 \w and|x-occurrence="2" x-occurrences="2"\w*
 \w I|x-occurrence="2" x-occurrences="2"\w*
 \w had|x-occurrence="3" x-occurrences="3"\w*
-\w said|x-occurrence="1" x-occurrences="1"\w*.
+\w said|x-occurrence="1" x-occurrences="1"\w*
 \w to|x-occurrence="3" x-occurrences="3"\w*
 \w each|x-occurrence="1" x-occurrences="1"\w*
 \w other|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.
