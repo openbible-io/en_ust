@@ -1240,25 +1240,30 @@
 \w lives|x-occurrence="1" x-occurrences="1"\w*
 \w in|x-occurrence="1" x-occurrences="1"\w*
 \w them|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*.
-\q1 \v 16 \zaln-s |x-strong="H1121a" x-lemma="בֵּן" x-morph="He,Ncmpc" x-occurrence="1" x-occurrences="1" x-content="בְּנֵי"\*\w Soldiers|x-occurrence="1" x-occurrences="1"\w*
+\q1 \v 16 \zaln-s |x-strong="H1571" x-lemma="גַּם" x-morph="He,Ta" x-occurrence="1" x-occurrences="1" x-content="גַּם"\*\w Also|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,
+\zaln-s |x-strong="H1121a" x-lemma="בֵּן" x-morph="He,Ncmpc" x-occurrence="1" x-occurrences="1" x-content="בְּנֵי"\*\w soldiers|x-occurrence="1" x-occurrences="1"\w*
 \w from|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="H5297" x-lemma="נֹף" x-morph="He,Np" x-occurrence="1" x-occurrences="1" x-content="נֹ֖ף"\*\w Memphis|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
-\zaln-s |x-strong="c:H8471" x-lemma="תַּחְפַּנְחֵס" x-morph="He,C:Np" x-occurrence="1" x-occurrences="1" x-content="ו⁠תחפנס"\*\w and|x-occurrence="1" x-occurrences="2"\w*
-\w Tahpenes|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*{,
-\zaln-s |x-strong="c:H8471" x-lemma="תַּחְפַּנְחֵס" x-morph="He,C:Np" x-occurrence="1" x-occurrences="1" x-content="ו⁠תחפנס"\*\w cities|x-occurrence="1" x-occurrences="1"\w*
+\zaln-s |x-strong="c:H8471" x-lemma="תַּחְפַּנְחֵס" x-morph="He,C:Np" x-occurrence="1" x-occurrences="1" x-content="ו⁠תחפנס"\*\w and|x-occurrence="1" x-occurrences="3"\w*
+\w Tahpanhes|x-occurrence="1" x-occurrences="1"\w*{,
+\w cities|x-occurrence="1" x-occurrences="1"\w*
 \w in|x-occurrence="1" x-occurrences="1"\w*
 \w Egypt|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*,}
 \zaln-s |x-strong="H7462b" x-lemma="רָעָה" x-morph="He,Vqi3mp:Sp2fs" x-occurrence="1" x-occurrences="1" x-content="יִרְע֖וּ⁠ךְ"\*\w have|x-occurrence="1" x-occurrences="1"\w*
 \w defeated|x-occurrence="1" x-occurrences="1"\w*
-\w you|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*
-\q2 {\zaln-s |x-strong="H7462b" x-lemma="רָעָה" x-morph="He,Vqi3mp:Sp2fs" x-occurrence="1" x-occurrences="1" x-content="יִרְע֖וּ⁠ךְ"\*\w and|x-occurrence="2" x-occurrences="2"\w*}
+\w you|x-occurrence="1" x-occurrences="3"\w*\zaln-e\*
+\q2 {\zaln-s |x-strong="H7462b" x-lemma="רָעָה" x-morph="He,Vqi3mp:Sp2fs" x-occurrence="1" x-occurrences="1" x-content="יִרְע֖וּ⁠ךְ"\*\w and|x-occurrence="2" x-occurrences="3"\w*}
 \w shaved|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*
 \zaln-s |x-strong="H6936" x-lemma="קׇדְקֹד" x-morph="He,Ncmsa" x-occurrence="1" x-occurrences="1" x-content="קָדְקֹֽד"\*\w your|x-occurrence="1" x-occurrences="1"\w*
-\w heads|x-occurrence="1" x-occurrences="1"\w*\zaln-e\* {\zaln-s |x-strong="H6936" x-lemma="קׇדְקֹד" x-morph="He,Ncmsa" x-occurrence="1" x-occurrences="1" x-content="קָדְקֹֽד"\*\w to|x-occurrence="1" x-occurrences="1"\w*
+\w heads|x-occurrence="1" x-occurrences="1"\w* {\w to|x-occurrence="1" x-occurrences="1"\w*
+\w humiliate|x-occurrence="1" x-occurrences="1"\w*
+\w you|x-occurrence="2" x-occurrences="3"\w*
+\w and|x-occurrence="3" x-occurrences="3"\w*
 \w show|x-occurrence="1" x-occurrences="1"\w*
 \w that|x-occurrence="1" x-occurrences="1"\w*
-\w you|x-occurrence="2" x-occurrences="2"\w*
+\w you|x-occurrence="3" x-occurrences="3"\w*
 \w are|x-occurrence="1" x-occurrences="1"\w*
+\w now|x-occurrence="1" x-occurrences="1"\w*
 \w their|x-occurrence="1" x-occurrences="1"\w*
 \w slaves|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*}.
 \q1 \v 17 \zaln-s |x-strong="i:H3808" x-lemma="לֹא" x-morph="He,Ti:Tn" x-occurrence="1" x-occurrences="1" x-content="הֲ⁠לוֹא"\*\zaln-s |x-strong="H2063" x-lemma="זֹאת" x-morph="He,Pdxfs" x-occurrence="1" x-occurrences="1" x-content="זֹ֖את"\*\zaln-s |x-strong="H6213a" x-lemma="עָשָׂה" x-morph="He,Vqi2ms" x-occurrence="1" x-occurrences="1" x-content="תַּעֲשֶׂה"\*\zaln-s |x-strong="l" x-lemma="" x-morph="He,R:Sp2fs" x-occurrence="1" x-occurrences="1" x-content="לָּ֑⁠ךְ"\*\w It|x-occurrence="1" x-occurrences="1"\w*
@@ -1295,30 +1300,34 @@
 \w not|x-occurrence="1" x-occurrences="2"\w*
 \w help|x-occurrence="1" x-occurrences="2"\w*
 \w you|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*\zaln-e\*\zaln-e\*
-\zaln-s |x-strong="l:H1870" x-lemma="דֶּרֶךְ" x-morph="He,R:Ncbsc" x-occurrence="1" x-occurrences="2" x-content="לְ⁠דֶ֣רֶךְ"\*\zaln-s |x-strong="l:H8354" x-lemma="שָׁתָה" x-morph="He,R:Vqc" x-occurrence="1" x-occurrences="2" x-content="לִ⁠שְׁתּ֖וֹת"\*\zaln-s |x-strong="H4325" x-lemma="מַיִם" x-morph="He,Ncmpc" x-occurrence="1" x-occurrences="1" x-content="מֵ֣י"\*\zaln-s |x-strong="H7883" x-lemma="שִׁיחוֹר" x-morph="He,Np" x-occurrence="1" x-occurrences="1" x-content="שִׁח֑וֹר"\*\w to|x-occurrence="1" x-occurrences="2"\w*
+\zaln-s |x-strong="l:H1870" x-lemma="דֶּרֶךְ" x-morph="He,R:Ncbsc" x-occurrence="1" x-occurrences="2" x-content="לְ⁠דֶ֣רֶךְ"\*\zaln-s |x-strong="l:H8354" x-lemma="שָׁתָה" x-morph="He,R:Vqc" x-occurrence="1" x-occurrences="2" x-content="לִ⁠שְׁתּ֖וֹת"\*\zaln-s |x-strong="H4325" x-lemma="מַיִם" x-morph="He,Ncmpc" x-occurrence="1" x-occurrences="1" x-content="מֵ֣י"\*\zaln-s |x-strong="H7883" x-lemma="שִׁיחוֹר" x-morph="He,Np" x-occurrence="1" x-occurrences="1" x-content="שִׁח֑וֹר"\*\w to|x-occurrence="1" x-occurrences="4"\w*
+\w go|x-occurrence="1" x-occurrences="2"\w*
+\w to|x-occurrence="2" x-occurrences="4"\w*
+\w Egypt|x-occurrence="1" x-occurrences="1"\w*
+\w and|x-occurrence="1" x-occurrences="2"\w*
 \w make|x-occurrence="1" x-occurrences="2"\w*
 \w an|x-occurrence="1" x-occurrences="2"\w*
 \w alliance|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*\zaln-e\*\zaln-e\*\zaln-e\*
 \zaln-s |x-strong="H4714" x-lemma="מִצְרַיִם" x-morph="He,Np" x-occurrence="1" x-occurrences="1" x-content="מִצְרַ֔יִם"\*\w with|x-occurrence="1" x-occurrences="2"\w*
-\w the|x-occurrence="1" x-occurrences="2"\w*
-\w rulers|x-occurrence="1" x-occurrences="2"\w*
-\w of|x-occurrence="1" x-occurrences="2"\w*
-\w Egypt|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*!
+\w its|x-occurrence="1" x-occurrences="2"\w*
+\w rulers|x-occurrence="1" x-occurrences="2"\w*\zaln-e\*!
 \q2 \zaln-s |x-strong="c:H4100" x-lemma="מָה" x-morph="He,C:Ti" x-occurrence="1" x-occurrences="1" x-content="וּ⁠מַה"\*\zaln-s |x-strong="l" x-lemma="" x-morph="He,R:Sp2fs" x-occurrence="2" x-occurrences="2" x-content="לָּ⁠ךְ֙"\*\w It|x-occurrence="2" x-occurrences="2"\w*
 \w certainly|x-occurrence="2" x-occurrences="2"\w*
 \w will|x-occurrence="2" x-occurrences="2"\w*
 \w not|x-occurrence="2" x-occurrences="2"\w*
 \w help|x-occurrence="2" x-occurrences="2"\w*
 \w you|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*\zaln-e\*
-\zaln-s |x-strong="l:H1870" x-lemma="דֶּרֶךְ" x-morph="He,R:Ncbsc" x-occurrence="2" x-occurrences="2" x-content="לְ⁠דֶ֣רֶךְ"\*\zaln-s |x-strong="l:H8354" x-lemma="שָׁתָה" x-morph="He,R:Vqc" x-occurrence="2" x-occurrences="2" x-content="לִ⁠שְׁתּ֖וֹת"\*\zaln-s |x-strong="H4325" x-lemma="מַיִם" x-morph="He,Ncmpc" x-occurrence="1" x-occurrences="1" x-content="מֵ֥י"\*\zaln-s |x-strong="H5104" x-lemma="נָהָר" x-morph="He,Ncmsa" x-occurrence="1" x-occurrences="1" x-content="נָהָֽר"\*\w to|x-occurrence="2" x-occurrences="2"\w*
+\zaln-s |x-strong="l:H1870" x-lemma="דֶּרֶךְ" x-morph="He,R:Ncbsc" x-occurrence="2" x-occurrences="2" x-content="לְ⁠דֶ֣רֶךְ"\*\zaln-s |x-strong="l:H8354" x-lemma="שָׁתָה" x-morph="He,R:Vqc" x-occurrence="2" x-occurrences="2" x-content="לִ⁠שְׁתּ֖וֹת"\*\zaln-s |x-strong="H4325" x-lemma="מַיִם" x-morph="He,Ncmpc" x-occurrence="1" x-occurrences="1" x-content="מֵ֥י"\*\zaln-s |x-strong="H5104" x-lemma="נָהָר" x-morph="He,Ncmsa" x-occurrence="1" x-occurrences="1" x-content="נָהָֽר"\*\w to|x-occurrence="3" x-occurrences="4"\w*
+\w go|x-occurrence="2" x-occurrences="2"\w*
+\w to|x-occurrence="4" x-occurrences="4"\w*
+\w Assyria|x-occurrence="1" x-occurrences="1"\w*
+\w and|x-occurrence="2" x-occurrences="2"\w*
 \w make|x-occurrence="2" x-occurrences="2"\w*
 \w an|x-occurrence="2" x-occurrences="2"\w*
 \w alliance|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*\zaln-e\*\zaln-e\*\zaln-e\*
 \zaln-s |x-strong="H0804" x-lemma="אַשּׁוּר" x-morph="He,Np" x-occurrence="1" x-occurrences="1" x-content="אַשּׁ֔וּר"\*\w with|x-occurrence="2" x-occurrences="2"\w*
-\w the|x-occurrence="2" x-occurrences="2"\w*
-\w rulers|x-occurrence="2" x-occurrences="2"\w*
-\w of|x-occurrence="2" x-occurrences="2"\w*
-\w Assyria|x-occurrence="1" x-occurrences="1"\w*\zaln-e\*!
+\w its|x-occurrence="2" x-occurrences="2"\w*
+\w rulers|x-occurrence="2" x-occurrences="2"\w*\zaln-e\*!
 \q1 \v 19 \zaln-s |x-strong="H3256" x-lemma="יָסַר" x-morph="He,Vpi3fs:Sp2fs" x-occurrence="1" x-occurrences="1" x-content="תְּיַסְּרֵ֣⁠ךְ"\*\w It|x-occurrence="1" x-occurrences="2"\w*
 \w is|x-occurrence="1" x-occurrences="2"\w*
 \w because|x-occurrence="1" x-occurrences="4"\w*\zaln-e\*
