@@ -604,6 +604,21 @@ _VERSE_PREFIX_RE = re.compile(
     r"^\\(q[0-9]?|qm[0-9]?|qr|qc|qa|qd|li[0-9]?|pi[0-9]?|ph[0-9]?|p|m|mi|nb|pc|cls)$"
 )
 
+# Markers that start a new paragraph-level block (or a chapter). Used to find
+# what a \\b stands between.
+_BLOCK_MARKER_RE = re.compile(
+    r"^\\(c|cl|cd|p|m|mi|nb|pc|pr|po|pm|pmo|pmc|pmr|cls|pi[0-9]?|ph[0-9]?|li[0-9]?"
+    r"|q[0-9]?|qm[0-9]?|qr|qc|qa|qd|d|sp|s[0-9]?|ms[0-9]?|mr|sr|r|mt[0-9]?)(?![\w-])"
+)
+# Poetry lines: the only blocks a \\b may stand between.
+_POETRY_MARKER_RE = re.compile(r"^(q[0-9]?|qm[0-9]?|qr|qc)$")
+
+
+def _block_marker(stripped: str) -> str | None:
+    match = _BLOCK_MARKER_RE.match(stripped)
+    return match.group(1) if match else None
+
+
 
 def validate_usfm_formatting(
     lines: list[str],
@@ -618,6 +633,9 @@ def validate_usfm_formatting(
     prev_non_blank_line_num = 0
     current_chapter = 0
     current_verse = 0
+    # For the "\\b only between poetry lines" rule.
+    last_block = None  # most recent paragraph-level marker (or "c")
+    pending_b: tuple[int, str | None] | None = None  # a \\b waiting for the next block
 
     for line_number, raw_line in enumerate(lines, 1):
         stripped = raw_line.strip()
@@ -690,6 +708,39 @@ def validate_usfm_formatting(
                 ),
             )
 
+        # \\b is a stanza break: it may only stand between two poetry lines
+        # (\\q, \\q1-\\q4, \\qm, \\qr, \\qc). \\ts\\*, blank lines and verse text
+        # may come between. Not after prose, and not before \\p, \\m, \\c, a
+        # heading or an acrostic heading (\\qa).
+        block = _block_marker(stripped)
+        if pending_b is not None and block is not None:
+            if not _POETRY_MARKER_RE.match(block):
+                b_line, b_ref = pending_b
+                errors.add(
+                    rule=CHECK_USFM_FORMATTING,
+                    file=file_name, line=b_line, ref=b_ref,
+                    message=(
+                        f"\\b is followed by \\{block}, not a poetry line; \\b is only "
+                        "allowed between poetry lines (\\q#)."
+                    ),
+                )
+            pending_b = None
+        if stripped == "\\b":
+            if last_block is None or not _POETRY_MARKER_RE.match(last_block):
+                errors.add(
+                    rule=CHECK_USFM_FORMATTING,
+                    file=file_name, line=line_number, ref=ref,
+                    message=(
+                        "\\b does not follow a poetry line"
+                        + (f" (it follows \\{last_block})" if last_block else "")
+                        + "; \\b is only allowed between poetry lines (\\q#)."
+                    ),
+                )
+            else:
+                pending_b = (line_number, ref)
+        elif block is not None:
+            last_block = block
+
         # === Verse formatting rules ===
 
         v_all = re.findall(r"\\v\s+\d+", stripped)
@@ -722,6 +773,14 @@ def validate_usfm_formatting(
         prev_line_blank = False
         prev_non_blank = stripped
         prev_non_blank_line_num = line_number
+
+    if pending_b is not None:
+        b_line, b_ref = pending_b
+        errors.add(
+            rule=CHECK_USFM_FORMATTING,
+            file=file_name, line=b_line, ref=b_ref,
+            message="\\b at the end of the book is not followed by a poetry line.",
+        )
 
 
 # ---------------------------------------------------------------------------
